@@ -1,20 +1,22 @@
 # TrackersList
-<div align=center><img src="https://count.getloli.com/get/@PyTrackerList?theme=asoul"></div>
+<div align=center><img src="https://count.getloli.com/get/@fyTrackersList?theme=asoul"></div>
 
-適用於一些BT客戶端的Trackers列表，通過Python自動爬取
-你可以在[這裏](https://phishinqi.github.io/TrackersList/)查看相關幫助
-感謝以下項目提供的Trackers：
+适用於一些BT客户端的Trackers列表，通过Python自动爬取
+你可以在[这里](https://phishinqi.github.io/TrackersList/)查看相关帮助
+感谢以下项目提供的Trackers：
+
 * https://github.com/ngosang/trackerslist
 * https://github.com/XIU2/TrackersListCollection
 * https://github.com/DeSireFire/animeTrackerList
+* https://newtrackon.com/api
 
 
 # 如何使用
-使用下面兩個鏈接即可：
+使用下面两个链接即可：
 * 去重：https://raw.githubusercontent.com/phishinqi/TrackersList/main/main/output_trackers.txt
 * 未去重：https://raw.githubusercontent.com/phishinqi/TrackersList/main/main/trackers.txt
 
-**若上述無法使用，我提供了CDN鏈接**
+**若上述无法使用，我提供了CDN链接**
 
 * 去重：https://cdn.jsdelivr.net/gh/phishinqi/TrackersList@main/main/output_trackers.txt
 * 未去重：https://cdn.jsdelivr.net/gh/phishinqi/TrackersList@main/main/trackers.txt
