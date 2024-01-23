@@ -233,9 +233,9 @@ http://isk.richardsw.club:6969/announce
 udp://tk.cubicview.site:80/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
-udp://tracker.6.babico.name.tr:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
+udp://tracker.6.babico.name.tr:6969/announce
 http://home.kray.pw:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -509,7 +509,7 @@ http://tracker.rev.pm:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 udp://tracker.hentai.gg:6969/announce
 udp://tracker.dev-null.rocks:6969/announce
-http://tracker.gbitt.info/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
 http://www.wareztorrent.com/announce
