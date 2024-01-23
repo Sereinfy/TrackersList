@@ -720,13 +720,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 udp://explodie.org:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+http://uraniumhexafluori.de:1919/announce
 
 udp://jutone.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -740,13 +740,13 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.acg.rip:6699/announce
 
-http://openwrt.lingyurouqing.xyz:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
 
-http://147job.com:6969/announce
+http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+http://147job.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -764,9 +764,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -784,17 +784,17 @@ http://tracker.nartlof.com.br:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://r.l5.ca:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://r.l5.ca:6969/announce
 
 http://open.va.wiki:900/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+udp://tracker.theoks.net:6969/announce
 
 https://tracker2.ctix.cn:443/announce
 
@@ -842,15 +842,15 @@ udp://p2p.publictracker.xyz:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
+https://bot.ponomar-sibir.ru:443/announce
 
-udp://carr.codes:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 
 udp://thouvenin.cloud:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
+udp://carr.codes:6969/announce
 
-https://bot.ponomar-sibir.ru:443/announce
+http://region.nl1.privex.cc:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -858,11 +858,11 @@ https://fbiagent.cyou:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 http://isk.richardsw.club:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://tk.cubicview.site:80/announce
 
@@ -1606,13 +1606,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 udp://explodie.org:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+http://uraniumhexafluori.de:1919/announce
 
 udp://jutone.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
