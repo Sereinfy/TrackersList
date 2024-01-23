@@ -9,7 +9,7 @@ import wget
 url_file_path = os.getcwd()
 print("当前文件路径：", url_file_path)
 url_path = url_file_path + 'main_url.txt'
-if os.path.isfile(path):
+if os.path.isfile(url_path):
     print("OK!")
     print("--------------------")
 else:
