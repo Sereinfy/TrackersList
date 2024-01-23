@@ -226,8 +226,8 @@ http://region.nl1.privex.cc:6969/announce
 https://bot.ponomar-sibir.ru:443/announce
 http://cn.pcfreetime.com:6969/announce
 https://fbiagent.cyou:443/announce
-http://tracker.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
+http://tracker.pcfreetime.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
 http://isk.richardsw.club:6969/announce
 udp://tk.cubicview.site:80/announce
