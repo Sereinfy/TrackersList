@@ -716,9 +716,9 @@ https://tracker.cloudit.top:443/announce
 
 http://ch3oh.ru:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 udp://tracker.srv00.com:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://wepzone.net:6969/announce
 
@@ -740,11 +740,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.acg.rip:6699/announce
 
-http://147job.com:6969/announce
-
 http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
+
+http://147job.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -752,11 +752,11 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
+udp://epider.me:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://epider.me:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -794,9 +794,9 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://tracker2.ctix.cn:443/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+https://tracker2.ctix.cn:443/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -848,15 +848,15 @@ udp://carr.codes:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 https://bot.ponomar-sibir.ru:443/announce
 
-http://tracker.pcfreetime.com:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 https://fbiagent.cyou:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1956,9 +1956,9 @@ https://tracker.cloudit.top:443/announce
 
 http://ch3oh.ru:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 udp://tracker.srv00.com:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://wepzone.net:6969/announce
 
@@ -1979,8 +1979,6 @@ http://ipv6.rer.lol:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://t.acg.rip:6699/announce
-
-http://147job.com:6969/announce
 
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
