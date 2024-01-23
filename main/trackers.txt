@@ -798,9 +798,9 @@ udp://btt.service.gongt.me:43079/announce
 
 https://tracker2.ctix.cn:443/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://tracker2.itzmx.com:6961/announce
 
 https://tracker1.ctix.cn:443/announce
 
