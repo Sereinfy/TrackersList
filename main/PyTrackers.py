@@ -11,7 +11,7 @@ if os.path.exists(url_path):
     print("--------------------")
 else:
     print("文件不存在！正在创建中......")
-    main_url = "https://raw.githubusercontent.com/Sereinfy/TrackersList/main/main/main_url.txt"
+    main_url = "https://raw.githubusercontent.com/Sereinfy/TrackersList/main/main/url.txt"
     wget.download(main_url, url_path)
     print("OK!")
     print("--------------------")
