@@ -224,8 +224,8 @@ udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://thouvenin.cloud:6969/announce
 http://region.nl1.privex.cc:6969/announce
-udp://carr.codes:6969/announce
 http://cn.pcfreetime.com:6969/announce
+udp://carr.codes:6969/announce
 https://fbiagent.cyou:443/announce
 https://tracker.moeblog.cn:443/announce
 http://isk.richardsw.club:6969/announce
