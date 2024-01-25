@@ -724,9 +724,9 @@ http://ch3oh.ru:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -744,9 +744,9 @@ udp://new-line.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 http://uraniumhexafluori.de:1919/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -870,9 +870,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-http://0205.uptm.ch:6969/announce
-
 udp://open.tracker.cl:1337/announce
+
+http://0205.uptm.ch:6969/announce
 
 udp://tk.cubicview.site:80/announce
 
@@ -1606,9 +1606,9 @@ http://ch3oh.ru:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -1626,9 +1626,9 @@ udp://new-line.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 http://uraniumhexafluori.de:1919/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 http://1337.abcvg.info:80/announce
 
