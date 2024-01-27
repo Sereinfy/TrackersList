@@ -716,9 +716,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://explodie.org:6969/announce
-
 udp://evan.im:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -774,9 +774,9 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://1337.abcvg.info:443/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+https://1337.abcvg.info:443/announce
 
 udp://ryjer.com:6969/announce
 
@@ -810,9 +810,9 @@ udp://tracker2.itzmx.com:6961/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://tracker.netmap.top:6969/announce
-
 https://bot.ponomar-sibir.ru:443/announce
+
+udp://tracker.netmap.top:6969/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -1590,9 +1590,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://explodie.org:6969/announce
-
 udp://evan.im:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
