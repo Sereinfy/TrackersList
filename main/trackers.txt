@@ -712,11 +712,11 @@ udp://6.pocketnet.app:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://explodie.org:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -798,9 +798,9 @@ http://tracker.vraphim.com:6969/announce
 
 https://bot.ponomar-sibir.ru:443/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 https://tracker.jdx3.org:443/announce
 
@@ -864,9 +864,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://thouvenin.cloud:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://thouvenin.cloud:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -1584,11 +1584,11 @@ udp://6.pocketnet.app:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://explodie.org:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
