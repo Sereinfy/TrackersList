@@ -203,8 +203,8 @@ https://bot.ponomar-sibir.ru:443/announce
 http://tracker.vraphim.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv4.rer.lol:2710/announce
-udp://acxx.de:6969/announce
 https://tracker.cangku.moe:443/announce
+udp://acxx.de:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.netmap.top:6969/announce
 udp://btt.service.gongt.me:43079/announce

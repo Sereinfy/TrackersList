@@ -630,8 +630,6 @@ https://tracker1.520.jp:443/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -647,6 +645,8 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -722,9 +722,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://evan.im:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://thinking.duckdns.org:6969/announce
+
+udp://wepzone.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -798,9 +798,9 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://acxx.de:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://acxx.de:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -816,9 +816,9 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://r.l5.ca:6969/announce
 
-http://147job.com:6969/announce
-
 udp://tracker.openbittorrent.com:6969/announce
+
+http://147job.com:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
@@ -846,9 +846,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://wg.mortis.me:6969/announce
 
-http://tracker.cubicview.site:80/announce
-
 http://incine.ru:6969/announce
+
+http://tracker.cubicview.site:80/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1502,8 +1502,6 @@ https://tracker1.520.jp:443/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -1519,6 +1517,8 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -1594,9 +1594,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://evan.im:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://thinking.duckdns.org:6969/announce
+
+udp://wepzone.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
