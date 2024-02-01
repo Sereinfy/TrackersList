@@ -207,8 +207,8 @@ http://open.acgtracker.com:1096/announce
 http://tracker.enitin.xyz:80/announce
 udp://acxx.de:6969/announce
 udp://tracker.netmap.top:6969/announce
-udp://btt.service.gongt.me:43079/announce
 udp://p2p.publictracker.xyz:6969/announce
+udp://btt.service.gongt.me:43079/announce
 http://147job.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://openbittorrent.com:80/announce
@@ -222,8 +222,8 @@ http://tracker.cubicview.site:80/announce
 udp://freedomalternative.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 http://bt.xcty.eu.org:2095/announce
-http://00.alarmasqueretaro.com:443/announce
 http://tracker.pcfreetime.com:6969/announce
+http://00.alarmasqueretaro.com:443/announce
 udp://thouvenin.cloud:6969/announce
 udp://yahor.of.by:6969/announce
 http://cn.pcfreetime.com:6969/announce
