@@ -760,11 +760,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://jutone.com:6969/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://new-line.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
-
-udp://tracker2.dler.com:80/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -772,9 +772,9 @@ udp://black-bird.ynh.fr:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 http://uraniumhexafluori.de:1919/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -788,9 +788,9 @@ https://1337.abcvg.info:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://ryjer.com:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -1632,15 +1632,13 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://jutone.com:6969/announce
 
+udp://tracker2.dler.com:80/announce
+
 udp://new-line.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-udp://tracker2.dler.com:80/announce
-
 udp://bt.rer.lol:6969/announce
-
-udp://black-bird.ynh.fr:6969/announce
 
 http://1337.abcvg.info:80/announce
 
