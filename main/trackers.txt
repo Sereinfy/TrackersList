@@ -788,9 +788,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.vds.nz:6969/announce
 
-http://openwrt.lingyurouqing.xyz:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
@@ -804,9 +804,9 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://r.l5.ca:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 http://openbittorrent.com:80/announce
 
@@ -848,9 +848,9 @@ http://region.nl1.privex.cc:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker2.ctix.cn:443/announce
-
 http://0205.uptm.ch:6969/announce
+
+https://tracker2.ctix.cn:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
