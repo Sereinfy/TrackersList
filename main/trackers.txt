@@ -640,6 +640,8 @@ udp://tracker.t-rb.org:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://tracker.moeking.me:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 udp://exodus.desync.com:6969/announce
@@ -649,8 +651,6 @@ udp://epider.me:6969/announce
 udp://tracker.edkj.club:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -740,9 +740,9 @@ http://open.va.wiki:900/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://t.overflow.biz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -810,9 +810,9 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
-http://openbittorrent.com:80/announce
-
 http://tracker.skyts.net:6969/announce
+
+http://openbittorrent.com:80/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -844,9 +844,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://147job.com:6969/announce
-
 http://bt.xcty.eu.org:2095/announce
+
+http://147job.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1498,6 +1498,8 @@ udp://tracker.t-rb.org:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://tracker.moeking.me:6969/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 udp://exodus.desync.com:6969/announce
@@ -1507,8 +1509,6 @@ udp://epider.me:6969/announce
 udp://tracker.edkj.club:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 

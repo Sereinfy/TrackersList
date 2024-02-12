@@ -221,8 +221,8 @@ udp://freedomalternative.com:6969/announce
 http://tracker.cubicview.site:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://0205.uptm.ch:6969/announce
-http://147job.com:6969/announce
 http://bt.xcty.eu.org:2095/announce
+http://147job.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://public.publictracker.xyz:6969/announce
 http://home.kray.pw:6969/announce
