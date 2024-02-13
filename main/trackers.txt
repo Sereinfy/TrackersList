@@ -684,11 +684,11 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
+udp://evan.im:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://evan.im:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -754,9 +754,9 @@ https://yolo.liberbear.com:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://1337.abcvg.info:443/announce
-
 http://open.acgtracker.com:1096/announce
+
+https://1337.abcvg.info:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -776,9 +776,9 @@ udp://open.u-p.pw:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -1544,11 +1544,11 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
+udp://evan.im:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://evan.im:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
