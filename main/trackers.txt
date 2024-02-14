@@ -616,8 +616,6 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
@@ -659,6 +657,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -706,13 +706,11 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 udp://evan.im:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
+udp://tk1.trackerservers.com:8080/announce
 
-http://open.va.wiki:900/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
@@ -720,13 +718,15 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.cloudit.top:443/announce
 
+http://open.va.wiki:900/announce
+
 http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://pirate.t-1.org:1337/announce
 
@@ -752,9 +752,9 @@ http://tracker.enitin.xyz:80/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://uploads.gamecoast.net:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://uploads.gamecoast.net:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -832,9 +832,9 @@ https://bot.ponomar-sibir.ru:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -868,9 +868,9 @@ https://tracker.ipfsscan.io:443/announce
 
 http://bt.xcty.eu.org:2095/announce
 
-udp://acxx.de:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://acxx.de:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1478,8 +1478,6 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
@@ -1521,6 +1519,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -1568,13 +1568,11 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 udp://evan.im:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
+udp://tk1.trackerservers.com:8080/announce
 
-http://open.va.wiki:900/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://wepzone.net:6969/announce
 
@@ -1582,13 +1580,15 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.cloudit.top:443/announce
 
+http://open.va.wiki:900/announce
+
 http://v6-tracker.0g.cx:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://pirate.t-1.org:1337/announce
 
