@@ -672,11 +672,11 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -728,13 +728,13 @@ udp://new-line.net:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://pirate.t-1.org:1337/announce
 
 http://p2p.0g.cx:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -788,11 +788,11 @@ http://tracker.vraphim.com:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+https://tracker.cangku.moe:443/announce
+
 https://1337.abcvg.info:443/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -810,15 +810,15 @@ https://tracker.imgoingto.icu:443/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-https://tracker.lilithraws.cf:443/announce
-
 http://tracker.gbitt.info:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://open.va.wiki:900/announce
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.3moredays.com:443/announce
+
+http://open.va.wiki:900/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -858,15 +858,15 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://openbittorrent.com:80/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1530,11 +1530,11 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -1586,13 +1586,13 @@ udp://new-line.net:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://pirate.t-1.org:1337/announce
 
 http://p2p.0g.cx:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
