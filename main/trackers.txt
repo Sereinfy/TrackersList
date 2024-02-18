@@ -690,9 +690,9 @@ https://t1.hloli.org:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -844,9 +844,9 @@ udp://tracker.openbittorrent.com:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 http://wg.mortis.me:6969/announce
 
@@ -864,9 +864,9 @@ http://bt.xcty.eu.org:2095/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://tracker.cubicview.site:80/announce
+
+udp://freedomalternative.com:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -1548,9 +1548,9 @@ https://t1.hloli.org:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 

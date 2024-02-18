@@ -223,8 +223,8 @@ http://incine.ru:6969/announce
 http://openbittorrent.com:80/announce
 http://bt.xcty.eu.org:2095/announce
 http://rfc5746.mywaifu.best:6969/announce
-udp://freedomalternative.com:6969/announce
 http://tracker.cubicview.site:80/announce
+udp://freedomalternative.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://public.publictracker.xyz:6969/announce
