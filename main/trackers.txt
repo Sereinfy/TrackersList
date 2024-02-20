@@ -712,9 +712,9 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -726,9 +726,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 udp://evan.im:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -818,9 +818,9 @@ udp://open.tracker.cl:1337/announce
 
 http://open.tracker.ink:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 udp://tracker.netmap.top:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -854,9 +854,9 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -880,13 +880,13 @@ http://region.nl1.privex.cc:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://home.kray.pw:6969/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1570,9 +1570,9 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -1584,9 +1584,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 udp://evan.im:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
