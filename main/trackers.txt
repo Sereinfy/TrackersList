@@ -636,23 +636,23 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://epider.me:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
-udp://epider.me:6969/announce
-
 udp://moonburrow.club:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -666,9 +666,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://tracker.lilithraws.org:443/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -784,9 +784,9 @@ udp://open.u-p.pw:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -800,9 +800,9 @@ udp://y.paranoid.agency:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://open.demonii.com:1337/announce
+
+http://open.tracker.ink:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -838,9 +838,9 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
-
 http://openwrt.lingyurouqing.xyz:6969/announce
+
+http://uraniumhexafluori.de:1919/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1095,8 +1095,6 @@ udp://tracker.joybomb.tw:6969/announce
 http://tracker.sakurato.art:23333/announce
 
 udp://tracker.tcp.exchange:6969/announce
-
-udp://www.jhymov.co:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -1492,23 +1490,23 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://epider.me:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
-udp://epider.me:6969/announce
-
 udp://moonburrow.club:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -1522,9 +1520,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://tracker.lilithraws.org:443/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
