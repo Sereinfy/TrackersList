@@ -640,9 +640,9 @@ udp://retracker.lanta.me:2710/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -684,9 +684,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 http://p2p.0g.cx:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -700,9 +700,9 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://jutone.com:6969/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -720,9 +720,9 @@ udp://ryjer.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://su-data.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://su-data.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -816,17 +816,17 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-http://tracker.cubicview.site:80/announce
-
 udp://sabross.xyz:6969/announce
+
+http://tracker.cubicview.site:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://openbittorrent.com:80/announce
-
 udp://tracker.theoks.net:6969/announce
+
+http://openbittorrent.com:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1492,9 +1492,9 @@ udp://retracker.lanta.me:2710/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -1536,9 +1536,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 http://p2p.0g.cx:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -1552,9 +1552,9 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://jutone.com:6969/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://wepzone.net:6969/announce
 

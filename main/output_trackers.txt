@@ -208,8 +208,8 @@ udp://freedomalternative.com:6969/announce
 http://bt.xcty.eu.org:2095/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
-http://tracker.cubicview.site:80/announce
 udp://sabross.xyz:6969/announce
+http://tracker.cubicview.site:80/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://openbittorrent.com:80/announce
