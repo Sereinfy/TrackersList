@@ -199,8 +199,8 @@ http://wg.mortis.me:6969/announce
 udp://thinking.duckdns.org:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://r.l5.ca:6969/announce
 udp://sabross.xyz:6969/announce
+udp://r.l5.ca:6969/announce
 http://bt.xcty.eu.org:2095/announce
 udp://freedomalternative.com:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
