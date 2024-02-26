@@ -207,10 +207,10 @@ udp://r.l5.ca:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-http://tracker.cubicview.site:80/announce
 http://0205.uptm.ch:6969/announce
-udp://tracker.openbittorrent.com:6969/announce
+http://tracker.cubicview.site:80/announce
 udp://public.publictracker.xyz:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://home.kray.pw:6969/announce
