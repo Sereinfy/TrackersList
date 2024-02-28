@@ -618,8 +618,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -628,9 +626,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://moonburrow.club:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://t1.hloli.org:443/announce
 
@@ -640,11 +640,11 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://retracker.lanta.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -682,11 +682,11 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://p2p.0g.cx:6969/announce
 
 https://tracker.loligirl.cn:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -712,13 +712,13 @@ https://tracker.gcrreen.xyz:443/announce
 
 udp://tracker.t-rb.org:6969/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.dstud.io:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -776,9 +776,9 @@ http://open.tracker.ink:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -1470,8 +1470,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -1480,9 +1478,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://moonburrow.club:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://t1.hloli.org:443/announce
 
@@ -1492,11 +1492,11 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://retracker.lanta.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -1534,11 +1534,11 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://p2p.0g.cx:6969/announce
 
 https://tracker.loligirl.cn:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -1564,13 +1564,13 @@ https://tracker.gcrreen.xyz:443/announce
 
 udp://tracker.t-rb.org:6969/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.dstud.io:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://open.tracker.cl:1337/announce
 
 http://1337.abcvg.info:80/announce
 
