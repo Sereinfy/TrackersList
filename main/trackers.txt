@@ -664,11 +664,13 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
+udp://jutone.com:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://jutone.com:6969/announce
+https://tracker.cangku.moe:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -676,13 +678,11 @@ udp://tracker.srv00.com:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
+udp://1c.premierzal.ru:6969/announce
+
 udp://black-bird.ynh.fr:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://1c.premierzal.ru:6969/announce
-
-https://tracker.cangku.moe:443/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -714,9 +714,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -772,9 +772,9 @@ https://tracker.ipfsscan.io:443/announce
 
 http://torrent.hificode.in:6969/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+http://open.tracker.ink:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -1514,11 +1514,13 @@ http://v6-tracker.0g.cx:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
+udp://jutone.com:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://jutone.com:6969/announce
+https://tracker.cangku.moe:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -1526,13 +1528,11 @@ udp://tracker.srv00.com:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
+udp://1c.premierzal.ru:6969/announce
+
 udp://black-bird.ynh.fr:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://1c.premierzal.ru:6969/announce
-
-https://tracker.cangku.moe:443/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -1564,9 +1564,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
