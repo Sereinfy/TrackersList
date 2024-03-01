@@ -684,9 +684,9 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.vds.nz:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -732,11 +732,11 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker.anima.nz:6969/announce
 
 udp://su-data.com:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -792,9 +792,9 @@ udp://sabross.xyz:6969/announce
 
 http://wg.mortis.me:6969/announce
 
-udp://y.paranoid.agency:6969/announce
-
 http://openwrt.lingyurouqing.xyz:6969/announce
+
+udp://y.paranoid.agency:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -1534,9 +1534,9 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.vds.nz:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
