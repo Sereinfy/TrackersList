@@ -634,11 +634,11 @@ udp://ns1.monolithindustries.com:6969/announce
 
 https://track3r.site:443/announce
 
-udp://api.alarmasqueretaro.com:3074/announce
-
 http://v6-tracker.0g.cx:6969/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://api.alarmasqueretaro.com:3074/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -754,9 +754,9 @@ udp://open.u-p.pw:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-https://yolo.liberbear.com:443/announce
-
 http://tracker.gbitt.info:80/announce
+
+https://yolo.liberbear.com:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -1484,11 +1484,11 @@ udp://ns1.monolithindustries.com:6969/announce
 
 https://track3r.site:443/announce
 
-udp://api.alarmasqueretaro.com:3074/announce
-
 http://v6-tracker.0g.cx:6969/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://api.alarmasqueretaro.com:3074/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
