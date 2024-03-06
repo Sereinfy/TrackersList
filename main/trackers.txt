@@ -656,11 +656,11 @@ udp://open.demonii.com:1337/announce
 
 udp://1c.premierzal.ru:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -692,9 +692,9 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
@@ -708,9 +708,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://ryjer.com:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+udp://ryjer.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -724,9 +724,9 @@ udp://api.alarmasqueretaro.com:3074/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -1504,11 +1504,11 @@ udp://open.demonii.com:1337/announce
 
 udp://1c.premierzal.ru:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -1540,9 +1540,9 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
@@ -1556,9 +1556,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://ryjer.com:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+udp://ryjer.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
