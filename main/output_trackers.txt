@@ -196,8 +196,8 @@ http://canardscitrons.nohost.me:6969/announce
 http://tracker.skyts.net:6969/announce
 http://wg.mortis.me:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-http://isk.richardsw.club:6969/announce
 udp://tracker.teambelgium.net:6969/announce
+http://isk.richardsw.club:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker.ccp.ovh:6969/announce
