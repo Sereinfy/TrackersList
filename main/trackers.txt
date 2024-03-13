@@ -624,9 +624,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://tracker.t-rb.org:6969/announce
 
@@ -710,9 +710,9 @@ udp://bt2.archive.org:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://tracker.anima.nz:6969/announce
 
@@ -730,13 +730,13 @@ udp://wepzone.net:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://tracker.torrentuje.me:2710/announce
+
+http://tracker.gbitt.info:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-http://tracker.gbitt.info:80/announce
+http://p2p.0g.cx:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -768,9 +768,9 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://sabross.xyz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
@@ -1470,9 +1470,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://tracker.t-rb.org:6969/announce
 
