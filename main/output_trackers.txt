@@ -197,8 +197,8 @@ http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.skyts.net:6969/announce
 http://canardscitrons.nohost.me:6969/announce
-udp://sabross.xyz:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+udp://sabross.xyz:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://tracker.teambelgium.net:6969/announce
 http://wg.mortis.me:6969/announce
