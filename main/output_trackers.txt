@@ -200,9 +200,9 @@ http://canardscitrons.nohost.me:6969/announce
 udp://sabross.xyz:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-https://tr.aag.moe:443/announce
 udp://tracker.teambelgium.net:6969/announce
 http://wg.mortis.me:6969/announce
+https://tr.aag.moe:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.ccp.ovh:6969/announce
