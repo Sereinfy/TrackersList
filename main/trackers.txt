@@ -678,9 +678,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -708,11 +708,11 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
+http://tracker.torrentuje.me:2710/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-http://tracker.torrentuje.me:2710/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -1530,9 +1530,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -1560,11 +1560,11 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
+http://tracker.torrentuje.me:2710/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-http://tracker.torrentuje.me:2710/announce
 
 udp://tracker.filemail.com:6969/announce
 
