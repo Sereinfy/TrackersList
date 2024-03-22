@@ -582,8 +582,6 @@ https://trackers.mlsub.net:443/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -601,6 +599,8 @@ udp://tracker.picotorrent.one:6969/announce
 http://tinfoil.space:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -716,17 +716,17 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://pirate.t-1.org:1337/announce
-
 udp://tracker.vds.nz:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
+udp://pirate.t-1.org:1337/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -796,9 +796,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://aarsen.me:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -1436,8 +1436,6 @@ https://trackers.mlsub.net:443/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -1455,6 +1453,8 @@ udp://tracker.picotorrent.one:6969/announce
 http://tinfoil.space:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -1570,17 +1570,17 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://pirate.t-1.org:1337/announce
-
 udp://tracker.vds.nz:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
+udp://pirate.t-1.org:1337/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
