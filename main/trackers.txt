@@ -584,8 +584,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
@@ -601,6 +599,8 @@ udp://movies.zsw.ca:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -656,9 +656,9 @@ udp://seedpeer.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -666,7 +666,7 @@ https://tr.qfruiti.in:443/announce
 
 https://shahidrazi.online:443/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://bt1.archive.org:6969/announce
 
 https://tr.qfruiti.com:443/announce
 
@@ -752,11 +752,11 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-http://ch3oh.ru:6969/announce
+udp://ipv4.rer.lol:2710/announce
 
 udp://open.xxtor.com:3074/announce
 
-udp://ipv4.rer.lol:2710/announce
+http://ch3oh.ru:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -804,9 +804,9 @@ http://tracker.skyts.net:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -838,11 +838,11 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://uraniumhexafluori.de:1919/announce
+udp://public.publictracker.xyz:6969/announce
 
 https://tr.aag.moe:443/announce
 
-udp://public.publictracker.xyz:6969/announce
+http://uraniumhexafluori.de:1919/announce
 
 udp://sabross.xyz:6969/announce
 
@@ -850,9 +850,9 @@ udp://oscar.reyesleon.xyz:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://tracker.h0me.cc:8880/announce
+
+http://isk.richardsw.club:6969/announce
 
 udp://api.alarmasqueretaro.com:3074/announce
 
@@ -874,13 +874,13 @@ udp://private.anonseed.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://tracker.pcfreetime.com:6969/announce
-
 http://tracker.k.vu:6969/announce
 
 udp://tracker.farted.net:6969/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1438,8 +1438,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
@@ -1455,6 +1453,8 @@ udp://movies.zsw.ca:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -1510,9 +1510,9 @@ udp://seedpeer.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1520,7 +1520,7 @@ https://tr.qfruiti.in:443/announce
 
 https://shahidrazi.online:443/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://bt1.archive.org:6969/announce
 
 https://tr.qfruiti.com:443/announce
 
