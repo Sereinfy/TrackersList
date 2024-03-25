@@ -646,15 +646,17 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 https://shahidrazi.online:443/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://www.torrent.eu.org:451/announce
 
-udp://seedpeer.net:6969/announce
+https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -662,11 +664,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://tr.qfruiti.com:443/announce
-
 udp://tracker.t-rb.org:6969/announce
 
-https://tr.qfruiti.in:443/announce
+udp://seedpeer.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -778,9 +778,9 @@ udp://open.tracker.cl:1337/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://aarsen.me:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 https://yolo.liberbear.com:443/announce
 
@@ -830,17 +830,17 @@ https://1337.abcvg.info:443/announce
 
 http://torrent.hificode.in:6969/announce
 
-http://openwrt.lingyurouqing.xyz:6969/announce
-
 http://tracker.h0me.cc:8880/announce
+
+http://openwrt.lingyurouqing.xyz:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
-udp://tracker.teambelgium.net:6969/announce
-
 udp://oscar.reyesleon.xyz:6969/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
@@ -999,8 +999,6 @@ http://tracker.coppersurfer.site:2710/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.nyap2p.com:8080/announce
-
-http://widemus.de:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -1500,15 +1498,17 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 https://shahidrazi.online:443/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 udp://www.torrent.eu.org:451/announce
 
-udp://seedpeer.net:6969/announce
+https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -1516,11 +1516,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://tr.qfruiti.com:443/announce
-
 udp://tracker.t-rb.org:6969/announce
 
-https://tr.qfruiti.in:443/announce
+udp://seedpeer.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
