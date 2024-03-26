@@ -642,9 +642,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -652,11 +652,11 @@ udp://tracker.therarbg.to:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+udp://tracker.srv00.com:6969/announce
+
 https://tracker.lilithraws.org:443/announce
 
 https://shahidrazi.online:443/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -668,17 +668,17 @@ https://tr.qfruiti.in:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://tracker.vds.nz:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
@@ -726,9 +726,9 @@ https://bt.ptlsp.com:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-udp://tracker.open-data.network:8888/announce
-
 udp://black-bird.ynh.fr:6969/announce
+
+udp://tracker.open-data.network:8888/announce
 
 udp://ryjer.com:6969/announce
 
@@ -806,11 +806,11 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 udp://open.publictracker.xyz:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -826,9 +826,9 @@ udp://run-2.publictracker.xyz:6969/announce
 
 http://tracker.h0me.cc:8880/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://oscar.reyesleon.xyz:6969/announce
 
@@ -836,9 +836,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 https://tr.aag.moe:443/announce
 
-http://openwrt.lingyurouqing.xyz:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+http://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -1494,9 +1494,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+udp://tracker.t-rb.org:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
@@ -1504,11 +1504,11 @@ udp://tracker.therarbg.to:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+udp://tracker.srv00.com:6969/announce
+
 https://tracker.lilithraws.org:443/announce
 
 https://shahidrazi.online:443/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -1520,17 +1520,17 @@ https://tr.qfruiti.in:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://tracker.vds.nz:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
