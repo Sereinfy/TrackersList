@@ -181,14 +181,14 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.open-data.network:8888/announce
+udp://tracker.breizh.pm:6969/announce
 udp://bt.rer.lol:6969/announce
 http://t1.aag.moe:17715/announce
 https://tracker.gcrreen.xyz:443/announce
 http://tracker.vraphim.com:6969/announce
-udp://tracker.cubonegro.lol:6969/announce
 udp://btt.service.gongt.me:43079/announce
+udp://tracker.cubonegro.lol:6969/announce
 https://tracker.3moredays.com:443/announce
 udp://open.tracker.cl:1337/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -206,9 +206,9 @@ http://tracker.h0me.cc:8880/announce
 http://tracker.k.vu:6969/announce
 http://isk.richardsw.club:6969/announce
 udp://tracker.ccp.ovh:6969/announce
-http://torrent.hificode.in:6969/announce
 https://tr.aag.moe:443/announce
 udp://tracker.draatman.uk:6969/announce
+http://torrent.hificode.in:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce

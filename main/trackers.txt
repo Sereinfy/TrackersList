@@ -620,13 +620,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://opentracker.io:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -648,6 +648,8 @@ udp://tracker.therarbg.to:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tr.qfruiti.in:443/announce
+
 https://shahidrazi.online:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -655,8 +657,6 @@ udp://p2p.publictracker.xyz:6969/announce
 https://tracker.cloudit.top:443/announce
 
 https://tr.qfruiti.com:443/announce
-
-https://tr.qfruiti.in:443/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -704,9 +704,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -726,9 +726,9 @@ udp://ryjer.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.open-data.network:8888/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -756,9 +756,9 @@ udp://aarsen.me:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
-
 udp://btt.service.gongt.me:43079/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 https://tracker.3moredays.com:443/announce
 
@@ -828,11 +828,11 @@ http://isk.richardsw.club:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 https://tr.aag.moe:443/announce
 
 udp://tracker.draatman.uk:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://oscar.reyesleon.xyz:6969/announce
 
@@ -1472,13 +1472,13 @@ udp://tracker.srv00.com:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://opentracker.io:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1500,6 +1500,8 @@ udp://tracker.therarbg.to:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tr.qfruiti.in:443/announce
+
 https://shahidrazi.online:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -1507,8 +1509,6 @@ udp://p2p.publictracker.xyz:6969/announce
 https://tracker.cloudit.top:443/announce
 
 https://tr.qfruiti.com:443/announce
-
-https://tr.qfruiti.in:443/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -1556,9 +1556,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -1567,8 +1567,6 @@ udp://tracker3.itzmx.com:6961/announce
 https://bt.ptlsp.com:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://pirate.t-1.org:1337/announce
 
 http://1337.abcvg.info:80/announce
 
