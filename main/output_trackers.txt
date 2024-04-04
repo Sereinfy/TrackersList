@@ -202,8 +202,8 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.draatman.uk:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.torrentuje.me:2710/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.h0me.cc:8880/announce
+https://tracker.cangku.moe:443/announce
 http://isk.richardsw.club:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
