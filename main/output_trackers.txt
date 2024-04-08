@@ -178,8 +178,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 http://tr.kxmp.cf:80/announce
 https://tr.qfruiti.com:443/announce
 http://t1.aag.moe:17715/announce
-http://tinfoil.space:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
+http://tinfoil.space:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://bt.rer.lol:6969/announce
 http://p2p.0g.cx:6969/announce

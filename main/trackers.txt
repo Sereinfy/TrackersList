@@ -608,19 +608,19 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 http://tracker.bt4g.com:2095/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 udp://public.demonoid.ch:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -644,25 +644,25 @@ https://tracker.lilithraws.org:443/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 https://track3r.site:443/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 https://tr.qfruiti.com:443/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -708,9 +708,9 @@ udp://tracker.therarbg.com:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-http://tinfoil.space:6969/announce
-
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+http://tinfoil.space:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
@@ -744,9 +744,9 @@ http://tracker.vraphim.com:6969/announce
 
 https://yolo.liberbear.com:443/announce
 
-https://bt.ptlsp.com:443/announce
-
 https://tracker.gcrreen.xyz:443/announce
+
+https://bt.ptlsp.com:443/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -768,9 +768,9 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://t.overflow.biz:6969/announce
 
-http://bjlt.zhuqiy.eu.org:6666/announce
-
 udp://movies.zsw.ca:6969/announce
+
+http://bjlt.zhuqiy.eu.org:6666/announce
 
 https://tr.qfruiti.in:443/announce
 
@@ -1472,19 +1472,19 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 http://tracker.bt4g.com:2095/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 udp://public.demonoid.ch:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -1508,25 +1508,25 @@ https://tracker.lilithraws.org:443/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 https://track3r.site:443/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 https://tr.qfruiti.com:443/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 https://tracker.loligirl.cn:443/announce
 
