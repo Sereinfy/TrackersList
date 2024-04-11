@@ -164,12 +164,12 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
+http://tracker.skyts.net:6969/announce
+http://open.tracker.ink:6969/announce
 https://www.peckservers.com:9443/announce
 https://tracker.lilithraws.org:443/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.qu.ax:6969/announce
 http://t.overflow.biz:6969/announce
-http://open.tracker.ink:6969/announce
 http://open.acgtracker.com:1096/announce
 http://canardscitrons.nohost.me:6969/announce
 http://1337.abcvg.info:80/announce
@@ -188,8 +188,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://bt.rer.lol:6969/announce
 http://tracker.vraphim.com:6969/announce
-http://tinfoil.space:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+http://tinfoil.space:6969/announce
 https://bt.ptlsp.com:443/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -197,8 +197,8 @@ udp://open.dstud.io:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.draatman.uk:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://opentracker.i2p.rocks:6969/announce
 https://tracker.3moredays.com:443/announce
+udp://opentracker.i2p.rocks:6969/announce
 udp://pirate.t-1.org:1337/announce
 udp://open.tracker.cl:1337/announce
 https://tr.qfruiti.in:443/announce
