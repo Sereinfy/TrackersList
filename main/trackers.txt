@@ -590,6 +590,8 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.dler.com:6969/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://exodus.desync.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -614,9 +616,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://opentracker.io:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -634,13 +636,13 @@ udp://moonburrow.club:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://public.demonoid.ch:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -653,8 +655,6 @@ udp://tracker.srv00.com:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -678,13 +678,13 @@ https://tr.qfruiti.com:443/announce
 
 http://tr.kxmp.cf:80/announce
 
-https://t1.hloli.org:443/announce
-
 udp://seedpeer.net:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
 udp://bt1.archive.org:6969/announce
+
+https://t1.hloli.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -702,15 +702,15 @@ https://tracker.cloudit.top:443/announce
 
 udp://bt2.archive.org:6969/announce
 
+https://trackers.ptlsp.com:443/announce
+
 udp://new-line.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-https://trackers.ptlsp.com:443/announce
+http://p2p.0g.cx:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-http://p2p.0g.cx:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -728,11 +728,11 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+http://tracker.k.vu:6969/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 http://t1.aag.moe:17715/announce
-
-http://tracker.k.vu:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -750,17 +750,17 @@ http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://ipv4.rer.lol:2710/announce
-
 udp://tracker.anima.nz:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.cubonegro.org:1337/announce
 
@@ -1450,6 +1450,8 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.dler.com:6969/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://exodus.desync.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -1474,9 +1476,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://opentracker.io:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -1494,13 +1496,13 @@ udp://moonburrow.club:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 udp://public.demonoid.ch:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -1513,8 +1515,6 @@ udp://tracker.srv00.com:6969/announce
 udp://odd-hd.fr:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -1538,13 +1538,13 @@ https://tr.qfruiti.com:443/announce
 
 http://tr.kxmp.cf:80/announce
 
-https://t1.hloli.org:443/announce
-
 udp://seedpeer.net:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
 udp://bt1.archive.org:6969/announce
+
+https://t1.hloli.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -1562,15 +1562,15 @@ https://tracker.cloudit.top:443/announce
 
 udp://bt2.archive.org:6969/announce
 
+https://trackers.ptlsp.com:443/announce
+
 udp://new-line.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-https://trackers.ptlsp.com:443/announce
+http://p2p.0g.cx:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-http://p2p.0g.cx:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
