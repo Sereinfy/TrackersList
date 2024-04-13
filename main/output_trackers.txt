@@ -175,8 +175,9 @@ http://open.acgtracker.com:1096/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker1.itzmx.com:8080/announce
 http://canardscitrons.nohost.me:6969/announce
-http://p2p.0g.cx:6969/announce
+udp://tracker-cn.zhuqiy.eu.org:6969/announce
 http://tr.kxmp.cf:80/announce
+http://p2p.0g.cx:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 http://t1.aag.moe:17715/announce
 udp://btt.service.gongt.me:43079/announce
@@ -186,8 +187,8 @@ udp://bt.rer.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.vraphim.com:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://bt.ptlsp.com:443/announce
 udp://tracker3.itzmx.com:6961/announce
@@ -223,8 +224,8 @@ https://tracker.moeblog.cn:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://trackers.nekosunevr.co.uk:443/announce
 udp://oscar.reyesleon.xyz:6969/announce
-udp://tracker.cubonegro.lol:6969/announce
 https://tr.ready4.icu:443/announce
+udp://tracker.cubonegro.lol:6969/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -332,7 +333,6 @@ udp://buddyfly.top:6969/announce
 http://parag.rs:6969/announce
 udp://f1sh.de:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
-udp://bananas.space:6969/announce
 udp://soundmovie.ru:6969/announce
 udp://94-227-232-84.access.telenet.be:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -917,6 +917,7 @@ https://t1.hloli.org/announce
 https://inferno.demonoid.is/announce
 http://75.127.14.224:2710/announce
 http://seeders-paradise.org/announce
+udp://bananas.space:6969/announce
 udp://elementsbrowser.com:6969/announce
 udp://mserver.link:6969/announce
 https://tracker.srv00.com:443/announce
