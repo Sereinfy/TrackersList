@@ -185,15 +185,15 @@ udp://seedpeer.net:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://bt.rer.lol:6969/announce
 udp://btt.service.gongt.me:43079/announce
-udp://aarsen.me:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://aarsen.me:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 udp://ns1.monolithindustries.com:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
-https://yolo.liberbear.com:443/announce
 https://bt.ptlsp.com:443/announce
+https://yolo.liberbear.com:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.draatman.uk:6969/announce
@@ -228,8 +228,8 @@ udp://tcq.zhuqiy.eu.org:25091/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://tr.ready4.icu:443/announce
-udp://6.pocketnet.app:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://6.pocketnet.app:6969/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
