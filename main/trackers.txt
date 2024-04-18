@@ -624,13 +624,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 http://t.acg.rip:6699/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
@@ -728,9 +728,9 @@ udp://su-data.com:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
-udp://tracker.cubonegro.org:1337/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -760,15 +760,15 @@ udp://ns1.monolithindustries.com:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 https://bt.ptlsp.com:443/announce
 
-udp://tracker.therarbg.com:6969/announce
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 https://yolo.liberbear.com:443/announce
 
@@ -810,9 +810,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 http://tracker.h0me.cc:8880/announce
 
@@ -842,9 +842,9 @@ https://1337.abcvg.info:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tr.qfruiti.in:443/announce
-
 udp://tcq.zhuqiy.eu.org:25091/announce
+
+https://tr.qfruiti.in:443/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
@@ -1496,13 +1496,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 http://t.acg.rip:6699/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
