@@ -620,17 +620,15 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://public.demonoid.ch:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 https://tr.qfruiti.com:443/announce
 
@@ -647,6 +645,8 @@ udp://tracker.cubonegro.org:1337/announce
 http://tracker.k.vu:6969/announce
 
 https://t.peer-exchange.download:443/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -746,17 +746,17 @@ http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-udp://tracker3.itzmx.com:6961/announce
-
 http://open-v6.demonoid.ch:6969/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 https://tracker.imgoingto.icu:443/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -802,9 +802,9 @@ http://tracker.h0me.cc:8880/announce
 
 http://tinfoil.space:6969/announce
 
-udp://open.tracker.cl:1337/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -842,9 +842,9 @@ http://0205.uptm.ch:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://tr.ready4.icu:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1488,17 +1488,15 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://public.demonoid.ch:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 https://tr.qfruiti.com:443/announce
 
@@ -1515,6 +1513,8 @@ udp://tracker.cubonegro.org:1337/announce
 http://tracker.k.vu:6969/announce
 
 https://t.peer-exchange.download:443/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
