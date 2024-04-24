@@ -668,9 +668,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 http://t.acg.rip:6699/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -688,9 +688,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://wepzone.net:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -742,9 +742,9 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 

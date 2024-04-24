@@ -170,8 +170,8 @@ https://www.peckservers.com:9443/announce
 http://tr.kxmp.cf:80/announce
 http://p2p.0g.cx:6969/announce
 http://t.acg.rip:6699/announce
-udp://seedpeer.net:6969/announce
 udp://tracker.darkness.services:6969/announce
+udp://seedpeer.net:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://ttr.croco.net:6969/announce
 udp://bt.rer.lol:6969/announce
