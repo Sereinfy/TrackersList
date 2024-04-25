@@ -542,6 +542,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
@@ -550,9 +552,9 @@ udp://amigacity.xyz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -561,8 +563,6 @@ https://www.peckservers.com:9443/announce
 udp://odd-hd.fr:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -584,25 +584,25 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://track3r.site:443/announce
 
 udp://open.stealth.si:80/announce
-
-udp://u.peer-exchange.download:6969/announce
 
 udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 https://t.peer-exchange.download:443/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -652,9 +652,9 @@ http://p2p.0g.cx:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -672,9 +672,9 @@ udp://su-data.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://ryjer.com:6969/announce
-
 udp://ttr.croco.net:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -700,21 +700,21 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.anima.nz:6969/announce
-
 udp://open-tracker.demonoid.ch:6969/announce
+
+udp://tracker.anima.nz:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-http://tracker.vraphim.com:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.edkj.club:6969/announce
+http://tracker.vraphim.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -1410,6 +1410,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
@@ -1418,9 +1420,9 @@ udp://amigacity.xyz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -1429,8 +1431,6 @@ https://www.peckservers.com:9443/announce
 udp://odd-hd.fr:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1452,25 +1452,25 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://track3r.site:443/announce
 
 udp://open.stealth.si:80/announce
-
-udp://u.peer-exchange.download:6969/announce
 
 udp://public.demonoid.ch:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 https://t.peer-exchange.download:443/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -1520,9 +1520,9 @@ http://p2p.0g.cx:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
