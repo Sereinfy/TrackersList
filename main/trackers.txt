@@ -634,23 +634,25 @@ udp://tracker.therarbg.to:6969/announce
 
 https://trackers.ptlsp.com:443/announce
 
-udp://tracker.vds.nz:6969/announce
-
 https://shahidrazi.online:443/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
+udp://open.xxtor.com:3074/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://new-line.net:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 udp://jutone.com:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -662,15 +664,13 @@ http://t1.aag.moe:17715/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://open.xxtor.com:3074/announce
-
 https://bt.ptlsp.com:443/announce
-
-udp://tracker.cubonegro.org:1337/announce
 
 https://t1.hloli.org:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -680,9 +680,9 @@ udp://seedpeer.net:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -738,9 +738,9 @@ udp://tracker4.itzmx.com:2710/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 https://tracker1.ctix.cn:443/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 https://tracker2.ctix.cn:443/announce
 
@@ -1502,23 +1502,25 @@ udp://tracker.therarbg.to:6969/announce
 
 https://trackers.ptlsp.com:443/announce
 
-udp://tracker.vds.nz:6969/announce
-
 https://shahidrazi.online:443/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
+udp://open.xxtor.com:3074/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://new-line.net:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 udp://jutone.com:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -1530,15 +1532,13 @@ http://t1.aag.moe:17715/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://open.xxtor.com:3074/announce
-
 https://bt.ptlsp.com:443/announce
-
-udp://tracker.cubonegro.org:1337/announce
 
 https://t1.hloli.org:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker.darkness.services:6969/announce
 
