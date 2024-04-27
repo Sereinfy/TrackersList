@@ -176,8 +176,8 @@ http://open-v6.demonoid.ch:6969/announce
 udp://seedpeer.net:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 http://t.acg.rip:6699/announce
-udp://tracker.cubonegro.org:1337/announce
 udp://bt.rer.lol:6969/announce
+udp://tracker.cubonegro.org:1337/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.cangku.moe:443/announce
