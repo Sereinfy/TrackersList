@@ -174,8 +174,8 @@ udp://seedpeer.net:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://ttr.croco.net:6969/announce
 https://bt.ptlsp.com:443/announce
+udp://ttr.croco.net:6969/announce
 udp://bt.rer.lol:6969/announce
 http://t.acg.rip:6699/announce
 udp://tracker.breizh.pm:6969/announce
@@ -210,8 +210,8 @@ https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/annou
 udp://freedomalternative.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://cn.pcfreetime.com:6969/announce
-http://bjlt.zhuqiy.eu.org:6666/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
+http://bjlt.zhuqiy.eu.org:6666/announce
 https://trackers.nekosunevr.co.uk:443/announce
 udp://open.tracker.cl:1337/announce
 http://0205.uptm.ch:6969/announce
@@ -220,7 +220,6 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tr.ready4.icu:443/announce
-udp://opentracker.i2p.rocks:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
@@ -237,6 +236,7 @@ udp://tr.cili001.com:8070/announce
 http://retracker.joxnet.ru:80/announce
 udp://tracker6.lelux.fi:6969/announce
 udp://tracker.beeimg.com:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.teambelgium.net:6969/announce
