@@ -626,9 +626,9 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://tr.kxmp.cf:80/announce
 
-https://tr.qfruiti.com:443/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+https://tr.qfruiti.com:443/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -688,9 +688,9 @@ udp://tracker.farted.net:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -698,9 +698,9 @@ udp://wepzone.net:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-https://t.peer-exchange.download:443/announce
-
 udp://inferno.demonoid.is:3391/announce
+
+https://t.peer-exchange.download:443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -726,9 +726,9 @@ udp://tracker.anima.nz:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://isk.richardsw.club:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://ttr.croco.net:6969/announce
 
@@ -750,9 +750,9 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -764,9 +764,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 https://tracker.projectk.org:443/announce
 
@@ -1498,9 +1498,9 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://tr.kxmp.cf:80/announce
 
-https://tr.qfruiti.com:443/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+https://tr.qfruiti.com:443/announce
 
 http://tracker.k.vu:6969/announce
 

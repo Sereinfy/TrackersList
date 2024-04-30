@@ -185,8 +185,8 @@ https://torrent.opiums.eu:443/announce
 https://tracker1.ctix.cn:443/announce
 https://tracker2.ctix.cn:443/announce
 http://tracker.vraphim.com:6969/announce
-https://tracker.cangku.moe:443/announce
 http://isk.richardsw.club:6969/announce
+https://tracker.cangku.moe:443/announce
 udp://ttr.croco.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.cubonegro.org:1337/announce
