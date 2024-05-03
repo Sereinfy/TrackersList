@@ -632,13 +632,13 @@ udp://u.peer-exchange.download:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
+http://tr.kxmp.cf:80/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
 http://tracker.k.vu:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-http://tr.kxmp.cf:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -662,23 +662,23 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+udp://btt.service.gongt.me:43079/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://btt.service.gongt.me:43079/announce
-
-https://shahidrazi.online:443/announce
-
-https://track3r.site:443/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-https://tr.qfruiti.com:443/announce
+https://shahidrazi.online:443/announce
+
+https://track3r.site:443/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+https://tr.qfruiti.com:443/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -710,13 +710,13 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://lulz.vpndb.org:3000/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -820,8 +820,6 @@ http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
 
-udp://trl-zhuqiy.dgj055.icu:6969/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
@@ -829,6 +827,8 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1504,13 +1504,13 @@ udp://u.peer-exchange.download:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
+http://tr.kxmp.cf:80/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
 http://tracker.k.vu:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
-
-http://tr.kxmp.cf:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -1534,23 +1534,23 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+udp://btt.service.gongt.me:43079/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://btt.service.gongt.me:43079/announce
-
-https://shahidrazi.online:443/announce
-
-https://track3r.site:443/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
 
-https://tr.qfruiti.com:443/announce
+https://shahidrazi.online:443/announce
+
+https://track3r.site:443/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+https://tr.qfruiti.com:443/announce
 
 http://p2p.0g.cx:6969/announce
 

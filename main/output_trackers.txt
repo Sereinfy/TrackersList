@@ -218,11 +218,11 @@ http://cn.pcfreetime.com:6969/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
-udp://trl-zhuqiy.dgj055.icu:6969/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
