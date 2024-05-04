@@ -178,10 +178,10 @@ udp://btt.service.gongt.me:43079/announce
 https://www.peckservers.com:9443/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://bt.rer.lol:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
 https://track3r.site:443/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://tr.qfruiti.com:443/announce
 https://torrent.opiums.eu:443/announce
 udp://tracker.breizh.pm:6969/announce
@@ -219,11 +219,11 @@ http://cn.pcfreetime.com:6969/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
+udp://mikrotik2.draatman.net:6969/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://tracker.pcfreetime.com:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
