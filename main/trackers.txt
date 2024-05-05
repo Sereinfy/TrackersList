@@ -670,17 +670,17 @@ udp://run-2.publictracker.xyz:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 https://tracker1.ctix.cn:443/announce
 
-udp://open.stealth.si:80/announce
+udp://tracker.jamesthebard.net:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+udp://open.stealth.si:80/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -736,13 +736,11 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://tracker.farted.net:6969/announce
 
-udp://new-line.net:6969/announce
+http://tracker1.itzmx.com:8080/announce
 
-http://tracker.uraniumhexafluori.de:80/announce
+udp://new-line.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -770,19 +768,19 @@ udp://wepzone.net:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://tracker.vds.nz:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 https://torrent.opiums.eu:443/announce
 
 udp://ipv4.rer.lol:2710/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+http://tracker.uraniumhexafluori.de:80/announce
 
 https://t.peer-exchange.download:443/announce
 
@@ -790,9 +788,11 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://inferno.demonoid.is:3391/announce
+
 udp://open.u-p.pw:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 https://bt.ptlsp.com:443/announce
 
@@ -844,13 +844,13 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
+udp://oscar.reyesleon.xyz:6969/announce
+
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 http://tracker.h0me.cc:8880/announce
-
-udp://oscar.reyesleon.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -872,9 +872,9 @@ udp://freedomalternative.com:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-https://yolo.liberbear.com:443/announce
-
 udp://mikrotik2.draatman.net:6969/announce
+
+https://yolo.liberbear.com:443/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -886,9 +886,11 @@ https://tracker.expli.top:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+https://trackers.nekosunevr.co.uk:443/announce
+
 https://tracker.moeblog.cn:443/announce
 
-https://trackers.nekosunevr.co.uk:443/announce
+udp://tracker.open-data.network:8888/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -901,8 +903,6 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
-
-udp://tracker.open-data.network:8888/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1546,17 +1546,17 @@ udp://run-2.publictracker.xyz:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 https://tracker1.ctix.cn:443/announce
 
-udp://open.stealth.si:80/announce
+udp://tracker.jamesthebard.net:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+udp://open.stealth.si:80/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -1612,13 +1612,11 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://tracker.farted.net:6969/announce
 
-udp://new-line.net:6969/announce
+http://tracker1.itzmx.com:8080/announce
 
-http://tracker.uraniumhexafluori.de:80/announce
+udp://new-line.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
