@@ -596,6 +596,8 @@ https://tracker.gcrenwp.top:443/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -615,8 +617,6 @@ udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -638,11 +638,11 @@ udp://moonburrow.club:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://run-2.publictracker.xyz:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.picotorrent.one:6969/announce
-
-udp://run-2.publictracker.xyz:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -658,9 +658,9 @@ udp://open.stealth.si:80/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://tracker.open-data.network:8888/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://tracker.open-data.network:8888/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -708,15 +708,15 @@ udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
+udp://tracker.filemail.com:6969/announce
 
 http://t1.aag.moe:17715/announce
-
-udp://tracker.filemail.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -732,9 +732,9 @@ udp://ryjer.com:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://wepzone.net:6969/announce
-
 https://torrent.opiums.eu:443/announce
+
+udp://wepzone.net:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -748,17 +748,17 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker-us.silksa.co.za:6969/announce
+
+udp://oscar.reyesleon.xyz:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-https://t.peer-exchange.download:443/announce
+udp://tracker4.itzmx.com:2710/announce
 
-udp://oscar.reyesleon.xyz:6969/announce
+https://t.peer-exchange.download:443/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -1448,6 +1448,8 @@ https://tracker.gcrenwp.top:443/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -1467,8 +1469,6 @@ udp://amigacity.xyz:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1490,11 +1490,11 @@ udp://moonburrow.club:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://run-2.publictracker.xyz:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.picotorrent.one:6969/announce
-
-udp://run-2.publictracker.xyz:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1510,9 +1510,9 @@ udp://open.stealth.si:80/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://tracker.open-data.network:8888/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://tracker.open-data.network:8888/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1560,15 +1560,15 @@ udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
+udp://tracker.filemail.com:6969/announce
 
 http://t1.aag.moe:17715/announce
-
-udp://tracker.filemail.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
