@@ -190,8 +190,8 @@ udp://t.overflow.biz:6969/announce
 http://t.acg.rip:6699/announce
 udp://tracker.leena.network:6969/announce
 udp://tracker.vds.nz:6969/announce
-udp://public.demonoid.ch:6969/announce
 http://tracker.vraphim.com:6969/announce
+udp://public.demonoid.ch:6969/announce
 udp://ttr.croco.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker-us.silksa.co.za:6969/announce

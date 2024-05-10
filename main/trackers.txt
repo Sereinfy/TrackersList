@@ -594,6 +594,8 @@ udp://odd-hd.fr:6969/announce
 
 udp://evan.im:6969/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://u.peer-exchange.download:6969/announce
@@ -617,8 +619,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -648,9 +648,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://tracker.picotorrent.one:6969/announce
+
+udp://run-2.publictracker.xyz:6969/announce
 
 https://t1.hloli.org:443/announce
 
@@ -708,9 +708,9 @@ https://tracker.lilithraws.org:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://jutone.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -728,9 +728,9 @@ https://torrent.opiums.eu:443/announce
 
 udp://tracker.open-data.network:8888/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -772,11 +772,11 @@ udp://open.u-p.pw:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://ch3oh.ru:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -788,9 +788,9 @@ udp://tracker.leena.network:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://public.demonoid.ch:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://public.demonoid.ch:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -1444,6 +1444,8 @@ udp://odd-hd.fr:6969/announce
 
 udp://evan.im:6969/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://u.peer-exchange.download:6969/announce
@@ -1467,8 +1469,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-https://tracker.yemekyedim.com:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1498,9 +1498,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://tracker.picotorrent.one:6969/announce
+
+udp://run-2.publictracker.xyz:6969/announce
 
 https://t1.hloli.org:443/announce
 
@@ -1558,9 +1558,9 @@ https://tracker.lilithraws.org:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://jutone.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -1578,9 +1578,9 @@ https://torrent.opiums.eu:443/announce
 
 udp://tracker.open-data.network:8888/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
