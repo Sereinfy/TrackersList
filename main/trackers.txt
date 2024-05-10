@@ -590,6 +590,8 @@ udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://u.peer-exchange.download:6969/announce
@@ -611,8 +613,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://retracker.lanta.me:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -642,11 +642,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
-udp://seedpeer.net:6969/announce
-
-https://t1.hloli.org:443/announce
-
 https://tracker.gcrreen.xyz:443/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -666,13 +664,15 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+udp://tamas3.ynh.fr:6969/announce
+
 https://tracker2.ctix.cn:443/announce
 
 udp://bt1.archive.org:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tamas3.ynh.fr:6969/announce
+https://t1.hloli.org:443/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -694,21 +694,21 @@ udp://lulz.vpndb.org:3000/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 https://tracker.lilithraws.org:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://run-2.publictracker.xyz:6969/announce
+http://tracker.mywaifu.best:6969/announce
 
 udp://jutone.com:6969/announce
 
-https://tracker.pmman.tech:443/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-udp://www.torrent.eu.org:451/announce
+udp://run-2.publictracker.xyz:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -720,6 +720,8 @@ udp://tracker.darkness.services:6969/announce
 
 https://torrent.opiums.eu:443/announce
 
+https://t.peer-exchange.download:443/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -730,29 +732,27 @@ udp://bt.rer.lol:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://ryjer.com:6969/announce
 
-https://t.peer-exchange.download:443/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://new-line.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.open-data.network:8888/announce
+udp://oscar.reyesleon.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://oscar.reyesleon.xyz:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
+
+udp://tracker.open-data.network:8888/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -784,9 +784,9 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker.leena.network:6969/announce
-
 udp://ttr.croco.net:6969/announce
+
+udp://tracker.leena.network:6969/announce
 
 udp://public.demonoid.ch:6969/announce
 
@@ -830,17 +830,17 @@ http://tracker.h0me.cc:8880/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.draatman.uk:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://su-data.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 https://tracker.expli.top:443/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -868,11 +868,11 @@ udp://public.publictracker.xyz:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 https://tr.ready4.icu:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://dyndns.xionxiii.ovh:6969/announce
 
@@ -1440,6 +1440,8 @@ udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://u.peer-exchange.download:6969/announce
@@ -1461,8 +1463,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-udp://retracker.lanta.me:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -1492,11 +1492,9 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
-udp://seedpeer.net:6969/announce
-
-https://t1.hloli.org:443/announce
-
 https://tracker.gcrreen.xyz:443/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1516,13 +1514,15 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+udp://tamas3.ynh.fr:6969/announce
+
 https://tracker2.ctix.cn:443/announce
 
 udp://bt1.archive.org:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tamas3.ynh.fr:6969/announce
+https://t1.hloli.org:443/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -1544,21 +1544,21 @@ udp://lulz.vpndb.org:3000/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 https://tracker.lilithraws.org:443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://run-2.publictracker.xyz:6969/announce
+http://tracker.mywaifu.best:6969/announce
 
 udp://jutone.com:6969/announce
 
-https://tracker.pmman.tech:443/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-udp://www.torrent.eu.org:451/announce
+udp://run-2.publictracker.xyz:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -1570,13 +1570,13 @@ udp://tracker.darkness.services:6969/announce
 
 https://torrent.opiums.eu:443/announce
 
+https://t.peer-exchange.download:443/announce
+
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
-
-udp://bt.rer.lol:6969/announce
 
 http://1337.abcvg.info:80/announce
 
