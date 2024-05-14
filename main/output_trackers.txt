@@ -184,8 +184,8 @@ http://p2p.0g.cx:6969/announce
 https://torrent.opiums.eu:443/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.breizh.pm:6969/announce
-https://t.peer-exchange.download:443/announce
 udp://black-bird.ynh.fr:6969/announce
+https://t.peer-exchange.download:443/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://t.overflow.biz:6969/announce
