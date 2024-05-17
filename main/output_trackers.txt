@@ -185,8 +185,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 https://t.peer-exchange.download:443/announce
-udp://api.boletera.org:3074/announce
 udp://t.overflow.biz:6969/announce
+udp://api.boletera.org:3074/announce
 http://tracker.vraphim.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.cangku.moe:443/announce
@@ -222,8 +222,8 @@ https://socket.onvo.me:443/announce
 https://tracker.3moredays.com:443/announce
 https://tracker.bulao.ren:443/announce
 udp://freedomalternative.com:6969/announce
-https://trackers.nekosunevr.co.uk:443/announce
 http://tracker.guguan.000.pe:80/announce
+https://trackers.nekosunevr.co.uk:443/announce
 https://tracker.moeblog.cn:443/announce
 http://cn.pcfreetime.com:6969/announce
 udp://su-data.com:6969/announce
