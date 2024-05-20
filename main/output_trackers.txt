@@ -187,8 +187,8 @@ https://tracker.cangku.moe:443/announce
 udp://ttr.croco.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://t.overflow.biz:6969/announce
-udp://open.publictracker.xyz:6969/announce
 udp://tracker.draatman.uk:6969/announce
+udp://open.publictracker.xyz:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
 http://t.acg.rip:6699/announce
@@ -217,9 +217,9 @@ udp://freedomalternative.com:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://region.nl1.privex.cc:6969/announce
 https://trackers.nekosunevr.co.uk:443/announce
+http://tracker.pcfreetime.com:6969/announce
 https://tracker.3moredays.com:443/announce
 http://cn.pcfreetime.com:6969/announce
-http://tracker.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 https://track3r.site:443/announce
 https://tr.qfruiti.com:443/announce
