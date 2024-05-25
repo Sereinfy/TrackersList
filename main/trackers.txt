@@ -602,13 +602,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://ttr.croco.net:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 https://tracker1.ctix.cn:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://mikrotik2.draatman.net:6969/announce
+
 udp://tracker.fnix.net:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -617,8 +619,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -666,15 +666,17 @@ udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://isk.richardsw.club:6969/announce
-
 https://tracker.cloudit.top:443/announce
+
+http://isk.richardsw.club:6969/announce
 
 udp://seedpeer.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://evan.im:6969/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -692,11 +694,9 @@ udp://wepzone.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
-udp://evan.im:6969/announce
+https://tracker.pmman.tech:443/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -834,9 +834,9 @@ udp://public.demonoid.ch:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-udp://tracker.anima.nz:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+udp://tracker.anima.nz:6969/announce
 
 https://tracker.bulao.ren:443/announce
 
@@ -850,9 +850,9 @@ udp://freedomalternative.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://0205.uptm.ch:6969/announce
-
 http://tracker.rev.pm:6969/announce
+
+http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -1446,13 +1446,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://ttr.croco.net:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 https://tracker1.ctix.cn:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://mikrotik2.draatman.net:6969/announce
+
 udp://tracker.fnix.net:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -1461,8 +1463,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1510,15 +1510,17 @@ udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://isk.richardsw.club:6969/announce
-
 https://tracker.cloudit.top:443/announce
+
+http://isk.richardsw.club:6969/announce
 
 udp://seedpeer.net:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://evan.im:6969/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -1536,11 +1538,9 @@ udp://wepzone.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://1c.premierzal.ru:6969/announce
 
-udp://evan.im:6969/announce
+https://tracker.pmman.tech:443/announce
 
 udp://bt1.archive.org:6969/announce
 
