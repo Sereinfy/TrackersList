@@ -206,8 +206,8 @@ udp://tracker.publictracker.xyz:6969/announce
 http://tracker.h0me.cc:8880/announce
 udp://api.boletera.org:3074/announce
 udp://lulz.vpndb.org:3000/announce
-udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.leena.network:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
@@ -216,8 +216,8 @@ http://tracker.guguan.000.pe:80/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.bulao.ren:443/announce
 https://trackers.nekosunevr.co.uk:443/announce
-udp://public.demonoid.ch:6969/announce
 http://cn.pcfreetime.com:6969/announce
+udp://public.demonoid.ch:6969/announce
 udp://freedomalternative.com:6969/announce
 http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
