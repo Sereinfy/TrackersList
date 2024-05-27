@@ -174,22 +174,22 @@ http://tracker1.itzmx.com:8080/announce
 https://trackers.mlsub.net:443/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.cyberia.is:6969/announce
-https://tracker2.ctix.cn:443/announce
 http://p2p.0g.cx:6969/announce
+https://tracker2.ctix.cn:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://t.overflow.biz:6969/announce
 https://torrent.opiums.eu:443/announce
 udp://tracker.torrust-demo.com:6969/announce
-udp://bt.rer.lol:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
+udp://bt.rer.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.vraphim.com:6969/announce
 https://trackers.run:443/announce
 https://tracker.expli.top:443/announce
 udp://tracker.birkenwald.de:6969/announce
-udp://black-bird.ynh.fr:6969/announce
 http://t.acg.rip:6699/announce
+udp://black-bird.ynh.fr:6969/announce
 https://bt.ptlsp.com:443/announce
 https://tracker.cangku.moe:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -212,11 +212,11 @@ http://tracker.pcfreetime.com:6969/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://cn.pcfreetime.com:6969/announce
 udp://freedomalternative.com:6969/announce
-http://0205.uptm.ch:6969/announce
 udp://www.2600.com:6969/announce
+udp://z.mercax.com:53/announce
+http://0205.uptm.ch:6969/announce
 https://tracker.bulao.ren:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-udp://z.mercax.com:53/announce
 http://region.nl1.privex.cc:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
@@ -240,7 +240,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://tsundere.pw:6969/announce
 udp://movies.zsw.ca:6969/announce
-udp://admin.videoenpoche.info:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://public.publictracker.xyz:6969/announce
@@ -259,7 +258,6 @@ udp://torrentclub.space:6969/announce
 http://bt.endpot.com:80/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://tracker.lyretain.site:2710/announce
-https://tr.abiir.top:443/announce
 http://t.publictracker.xyz:6969/announce
 udp://open.4ever.tk:6969/announce
 http://ipv6.govt.hu:6969/announce
@@ -292,7 +290,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://lloria.fr:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
-udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://laze.cc:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.joybomb.tw:6969/announce
@@ -497,6 +494,7 @@ https://tr.abiir.top/announce
 wss://tracker.openwebtorrent.com:443/announce
 https://tracker.gbitt.info/announce
 https://tp.m-team.cc/announce.php
+https://tr.abiir.top:443/announce
 http://tracker.anirena.com/announce
 https://tracker.kuroy.me/announce
 http://tracker.anirena.com:80/announce
@@ -551,6 +549,7 @@ http://masters-tb.com:80/announce.php
 https://tracker1.ctix.cn/announce
 https://trackme.theom.nz/announce
 https://opentracker.cc/announce
+udp://smtp-relay.odysseylabel.com.au:6969/announce
 http://51.38.230.101/announce
 http://share.camoe.cn:8080/announce
 http://t.nyaatracker.com/announce
@@ -801,6 +800,7 @@ http://atrack.pow7.com:80/announce
 http://tracker.ddunlimited.net:6969/announce
 http://tracker.ali213.net:8080/announce
 http://secure.pow7.com/announce
+udp://admin.videoenpoche.info:6969/announce
 http://t1.pow7.com:80/announce
 http://bt.ali213.net:8080/announce
 http://tracker.frozen-layer.com:6969/announce
