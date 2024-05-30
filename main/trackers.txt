@@ -662,11 +662,11 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -714,17 +714,17 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://tracker.cubonegro.org:1337/announce
-
 https://www.peckservers.com:9443/announce
+
+udp://tracker.cubonegro.org:1337/announce
 
 udp://bt.rer.lol:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 https://torrent.opiums.eu:443/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -764,13 +764,13 @@ udp://bt.ktrackers.com:6666/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://oscar.reyesleon.xyz:6969/announce
-
 https://tracker.cangku.moe:443/announce
 
-https://tracker.expli.top:443/announce
+udp://oscar.reyesleon.xyz:6969/announce
 
 udp://z.mercax.com:53/announce
+
+https://tracker.expli.top:443/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -806,9 +806,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://tracker.rev.pm:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
@@ -826,9 +826,9 @@ http://tracker2.itzmx.com:6961/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://lulz.vpndb.org:3000/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://lulz.vpndb.org:3000/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -836,9 +836,9 @@ https://trackers.nekosunevr.co.uk:443/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.leena.network:6969/announce
-
 http://rfc5746.mywaifu.best:6969/announce
+
+udp://tracker.leena.network:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1502,11 +1502,11 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
