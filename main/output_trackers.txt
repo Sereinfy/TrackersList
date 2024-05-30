@@ -181,12 +181,12 @@ https://torrent.opiums.eu:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://trackers.run:443/announce
 http://tracker.vraphim.com:6969/announce
+udp://z.mercax.com:53/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
-udp://z.mercax.com:53/announce
 udp://tracker.farted.net:6969/announce
-https://bt.ptlsp.com:443/announce
 http://t.acg.rip:6699/announce
+https://bt.ptlsp.com:443/announce
 udp://open.xxtor.com:3074/announce
 https://tracker.cangku.moe:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
