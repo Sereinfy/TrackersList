@@ -173,10 +173,10 @@ http://p2p.0g.cx:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.birkenwald.de:6969/announce
+udp://z.mercax.com:53/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
-udp://z.mercax.com:53/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://bt.rer.lol:6969/announce
 https://torrent.opiums.eu:443/announce
@@ -186,12 +186,12 @@ http://tracker.vraphim.com:6969/announce
 https://tracker2.ctix.cn:443/announce
 https://tracker1.ctix.cn:443/announce
 http://t.acg.rip:6699/announce
-https://bt.ptlsp.com:443/announce
 https://tracker.cangku.moe:443/announce
+https://bt.ptlsp.com:443/announce
 udp://open.xxtor.com:3074/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://tracker.expli.top:443/announce
 http://tor.rev.pm:6969/announce
+https://tracker.expli.top:443/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 http://canardscitrons.nohost.me:6969/announce
@@ -214,8 +214,8 @@ http://cn.pcfreetime.com:6969/announce
 udp://freedomalternative.com:6969/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://rfc5746.mywaifu.best:6969/announce
-http://0205.uptm.ch:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+http://0205.uptm.ch:6969/announce
 https://tracker.bulao.ren:443/announce
 https://tr.ready4.icu:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
