@@ -174,8 +174,8 @@ http://tracker.ipv6tracker.ru:80/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 http://tracker.k.vu:6969/announce
-udp://tracker.picotorrent.one:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.picotorrent.one:6969/announce
 http://t1.aag.moe:17715/announce
 udp://bt.rer.lol:6969/announce
 https://torrent.opiums.eu:443/announce
@@ -187,8 +187,8 @@ http://t.acg.rip:6699/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.gcrreen.xyz:443/announce
 https://tracker2.ctix.cn:443/announce
-https://tracker1.ctix.cn:443/announce
 http://tor.rev.pm:6969/announce
+https://tracker1.ctix.cn:443/announce
 udp://tracker.farted.net:6969/announce
 https://bt.ptlsp.com:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
