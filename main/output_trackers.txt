@@ -176,8 +176,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://bt.rer.lol:6969/announce
 http://tracker.k.vu:6969/announce
 https://torrent.opiums.eu:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.cangku.moe:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://t.acg.rip:6699/announce
@@ -196,8 +196,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 http://tracker.rev.pm:6969/announce
-https://tracker.expli.top:443/announce
 udp://tracker.theoks.net:6969/announce
+https://tracker.expli.top:443/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.ccp.ovh:6969/announce
@@ -213,8 +213,8 @@ http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://freedomalternative.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
-udp://tracker.publictracker.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 https://tr.ready4.icu:443/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
