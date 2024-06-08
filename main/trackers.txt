@@ -554,8 +554,6 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -572,6 +570,8 @@ https://tracker.gcrenwp.top:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://z.mercax.com:53/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -582,11 +582,11 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.darkness.services:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://tracker.cubonegro.org:1337/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -632,13 +632,13 @@ udp://open.dstud.io:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -724,11 +724,11 @@ udp://open.u-p.pw:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-https://pybittrack.retiolus.net:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -782,15 +782,15 @@ udp://tracker.theoks.net:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
-https://tracker.expli.top:443/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+https://tracker.expli.top:443/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-https://tracker.gcrreen.xyz:443/announce
-
 http://tracker.skyts.net:6969/announce
+
+https://tracker.gcrreen.xyz:443/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -819,8 +819,6 @@ http://region.nl1.privex.cc:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 
 https://bt.080609.xyz:443/announce
-
-https://trackers.nekosunevr.co.uk:443/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -1322,6 +1320,8 @@ udp://hbsy.zhuqiy.eu.org:6666/announce
 
 udp://tcq.zhuqiy.eu.org:25091/announce
 
+https://trackers.nekosunevr.co.uk:443/announce
+
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
@@ -1394,8 +1394,6 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -1412,6 +1410,8 @@ https://tracker.gcrenwp.top:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://z.mercax.com:53/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -1422,11 +1422,11 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.darkness.services:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://tracker.cubonegro.org:1337/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -1472,13 +1472,13 @@ udp://open.dstud.io:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://odd-hd.fr:6969/announce
 
