@@ -171,9 +171,9 @@ http://p2p.0g.cx:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://tracker.k.vu:6969/announce
-https://tracker.cangku.moe:443/announce
 https://torrent.opiums.eu:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://tracker.cangku.moe:443/announce
 http://tracker.vraphim.com:6969/announce
 http://t.acg.rip:6699/announce
 https://pybittrack.retiolus.net:443/announce
@@ -191,8 +191,8 @@ http://tor.rev.pm:6969/announce
 udp://open.tracker.cl:1337/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
-udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 https://tracker.midnightprogrammer.net:443/announce
 http://tracker.rev.pm:6969/announce
 udp://tracker.therarbg.com:6969/announce
