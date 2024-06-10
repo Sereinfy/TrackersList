@@ -189,8 +189,8 @@ http://tracker.h0me.cc:8880/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://tracker-us.silksa.co.za:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://tor.rev.pm:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://open.acgnxtracker.com:80/announce
@@ -207,8 +207,8 @@ udp://www.2600.com:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.vds.nz:6969/announce
 https://tracker.moeblog.cn:443/announce
-http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://0205.uptm.ch:6969/announce
 http://region.nl1.privex.cc:6969/announce
