@@ -588,15 +588,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 
 https://trackers.run:443/announce
 
@@ -606,6 +604,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://odd-hd.fr:6969/announce
+
 http://tracker.dump.cl:6969/announce
 
 udp://z.mercax.com:53/announce
@@ -613,8 +613,6 @@ udp://z.mercax.com:53/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-http://open-v6.demonoid.ch:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -630,11 +628,13 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
+http://open-v6.demonoid.ch:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -650,9 +650,9 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -662,9 +662,9 @@ http://open.acgtracker.com:1096/announce
 
 https://torrust.canofsocks.com:443/announce
 
-udp://jutone.com:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -768,9 +768,9 @@ https://bt.ptlsp.com:443/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker.picotorrent.one:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://tor.rev.pm:6969/announce
 
@@ -819,8 +819,6 @@ http://tracker.pcfreetime.com:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
-
-udp://black-bird.ynh.fr:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -955,6 +953,8 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://commento.getblog.cn:6969/announce
 
 udp://boysbitte.be:6969/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://sanincode.com:6969/announce
 
@@ -1426,15 +1426,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://bt1.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 
 https://trackers.run:443/announce
 
@@ -1444,6 +1442,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+udp://odd-hd.fr:6969/announce
+
 http://tracker.dump.cl:6969/announce
 
 udp://z.mercax.com:53/announce
@@ -1451,8 +1451,6 @@ udp://z.mercax.com:53/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-http://open-v6.demonoid.ch:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -1468,11 +1466,13 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
+http://open-v6.demonoid.ch:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -1488,9 +1488,9 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -1500,9 +1500,9 @@ http://open.acgtracker.com:1096/announce
 
 https://torrust.canofsocks.com:443/announce
 
-udp://jutone.com:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
