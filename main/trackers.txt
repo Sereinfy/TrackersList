@@ -580,25 +580,25 @@ udp://tracker.dler.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://epider.me:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -608,11 +608,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
 http://bvarf.tracker.sh:2086/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -644,9 +644,9 @@ udp://seedpeer.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.srv00.com:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -672,11 +672,11 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
+
+udp://wepzone.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -690,13 +690,13 @@ udp://bt.rer.lol:6969/announce
 
 https://t.peer-exchange.download:443/announce
 
-udp://open.publictracker.xyz:6969/announce
+udp://t.overflow.biz:6969/announce
 
 http://tracker.k.vu:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://t.overflow.biz:6969/announce
+udp://open.publictracker.xyz:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -734,9 +734,9 @@ https://tracker.cangku.moe:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-udp://ryjer.com:6969/announce
-
 https://tracker2.ctix.cn:443/announce
+
+udp://ryjer.com:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
@@ -1418,25 +1418,25 @@ udp://tracker.dler.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://epider.me:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -1446,11 +1446,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
 http://bvarf.tracker.sh:2086/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1482,9 +1482,9 @@ udp://seedpeer.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.srv00.com:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
