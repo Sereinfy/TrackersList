@@ -642,11 +642,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+udp://new-line.net:6969/announce
+
 https://tracker.cloudit.top:443/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://new-line.net:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -660,9 +660,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://p2p.0g.cx:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -678,9 +678,9 @@ udp://open-tracker.demonoid.ch:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -706,9 +706,9 @@ udp://evan.im:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -760,9 +760,9 @@ http://t1.aag.moe:17715/announce
 
 udp://tracker.cubonegro.org:1337/announce
 
-https://torrent.opiums.eu:443/announce
-
 http://tracker.h0me.cc:8880/announce
+
+https://torrent.opiums.eu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -1480,11 +1480,11 @@ udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+udp://new-line.net:6969/announce
+
 https://tracker.cloudit.top:443/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://new-line.net:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -1498,9 +1498,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://p2p.0g.cx:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://jutone.com:6969/announce
 

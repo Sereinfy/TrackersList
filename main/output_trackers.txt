@@ -171,8 +171,8 @@ http://tracker.k.vu:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://bt.rer.lol:6969/announce
 http://t.acg.rip:6699/announce
-udp://t.overflow.biz:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://t.overflow.biz:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://torrust.canofsocks.com:443/announce
 udp://ttr.croco.net:6969/announce
@@ -185,8 +185,8 @@ https://tracker.imgoingto.icu:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.cubonegro.org:1337/announce
-https://torrent.opiums.eu:443/announce
 http://tracker.h0me.cc:8880/announce
+https://torrent.opiums.eu:443/announce
 udp://btt.service.gongt.me:43079/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
