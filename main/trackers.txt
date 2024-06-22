@@ -546,6 +546,8 @@ udp://amigacity.xyz:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+https://tracker.madtia.cc:443/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -566,13 +568,13 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
-
-udp://bt2.archive.org:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -594,15 +596,13 @@ udp://bt1.archive.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://epider.me:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -615,6 +615,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://new-line.net:6969/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -666,9 +668,9 @@ https://pybittrack.retiolus.net:443/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -708,9 +710,9 @@ udp://tracker4.itzmx.com:2710/announce
 
 https://tracker2.ctix.cn:443/announce
 
-http://t.acg.rip:6699/announce
-
 https://tracker1.ctix.cn:443/announce
+
+http://t.acg.rip:6699/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -720,9 +722,9 @@ https://tracker1.520.jp:443/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -748,9 +750,9 @@ https://threads.canofsocks.com:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://torrust.canofsocks.com:443/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+https://torrust.canofsocks.com:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -820,9 +822,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://tr.ready4.icu:443/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 http://0205.uptm.ch:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -1384,6 +1386,8 @@ udp://amigacity.xyz:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+https://tracker.madtia.cc:443/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -1404,13 +1408,13 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
-
-udp://bt2.archive.org:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -1432,15 +1436,13 @@ udp://bt1.archive.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://epider.me:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -1453,6 +1455,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://new-line.net:6969/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -1504,9 +1508,9 @@ https://pybittrack.retiolus.net:443/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
