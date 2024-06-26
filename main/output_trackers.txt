@@ -179,8 +179,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://bt.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://threads.canofsocks.com:443/announce
 udp://t.overflow.biz:6969/announce
+https://threads.canofsocks.com:443/announce
 http://tracker.vraphim.com:6969/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.cangku.moe:443/announce
