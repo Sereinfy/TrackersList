@@ -189,8 +189,8 @@ http://tracker.h0me.cc:8880/announce
 https://torrust.canofsocks.com:443/announce
 udp://btt.service.gongt.me:43079/announce
 udp://tracker1.bt.moack.co.kr:80/announce
-udp://ttr.croco.net:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
+udp://ttr.croco.net:6969/announce
 http://thetracker.org:80/announce
 udp://tracker.cubonegro.org:1337/announce
 https://torrent.opiums.eu:443/announce
