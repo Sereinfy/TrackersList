@@ -188,8 +188,8 @@ udp://tracker.farted.net:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.h0me.cc:8880/announce
-https://torrust.canofsocks.com:443/announce
 http://thetracker.org:80/announce
+https://torrust.canofsocks.com:443/announce
 udp://tracker.theoks.net:6969/announce
 udp://ttr.croco.net:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
