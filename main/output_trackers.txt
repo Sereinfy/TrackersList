@@ -199,8 +199,8 @@ udp://free.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
 http://fosstorrents.com:6969/announce
 https://tracker.moeblog.cn:443/announce
-http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 https://torrent.opiums.eu:443/announce
 udp://tracker.cubonegro.org:1337/announce
 http://open.acgnxtracker.com:80/announce
