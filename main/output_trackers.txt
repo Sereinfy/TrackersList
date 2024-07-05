@@ -155,9 +155,9 @@ http://p2p.0g.cx:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.srv00.com:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.silksa.co.za:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://t.acg.rip:6699/announce
 udp://mikrotik2.draatman.net:6969/announce
