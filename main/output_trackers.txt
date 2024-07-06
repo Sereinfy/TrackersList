@@ -177,9 +177,9 @@ udp://tracker.srv00.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://t.acg.rip:6699/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://bt.rer.lol:6969/announce
 http://tracker.vraphim.com:6969/announce
