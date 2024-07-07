@@ -550,9 +550,9 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://moonburrow.club:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -710,9 +710,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -736,15 +736,15 @@ udp://btt.service.gongt.me:43079/announce
 
 http://tracker.gbitt.info:80/announce
 
+udp://tracker.edkj.club:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
-udp://tracker.edkj.club:6969/announce
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-udp://tracker.jamesthebard.net:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -756,9 +756,9 @@ http://tracker2.itzmx.com:6961/announce
 
 http://thetracker.org:80/announce
 
-http://tracker.k.vu:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://tracker.k.vu:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -776,9 +776,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-https://torrust.canofsocks.com:443/announce
-
 udp://tracker.vds.nz:6969/announce
+
+https://torrust.canofsocks.com:443/announce
 
 http://tracker.guguan.000.pe:80/announce
 
@@ -1378,9 +1378,9 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://moonburrow.club:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 udp://bt1.archive.org:6969/announce
 
