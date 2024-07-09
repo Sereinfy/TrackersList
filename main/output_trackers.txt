@@ -182,8 +182,8 @@ udp://t.overflow.biz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
-udp://btt.service.gongt.me:43079/announce
 https://threads.canofsocks.com:443/announce
+udp://btt.service.gongt.me:43079/announce
 http://tracker.h0me.cc:8880/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker1.bt.moack.co.kr:80/announce
