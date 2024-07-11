@@ -676,19 +676,19 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://jutone.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 http://p2p.0g.cx:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 https://tracker1.ctix.cn:443/announce
 
 https://tracker2.ctix.cn:443/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -704,9 +704,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -728,9 +728,9 @@ http://tracker.vraphim.com:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://t.overflow.biz:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -1501,8 +1501,6 @@ udp://ryjer.com:6969/announce
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 http://1337.abcvg.info:80/announce
 
