@@ -169,12 +169,12 @@ http://isk.richardsw.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 http://p2p.0g.cx:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://btt.service.gongt.me:43079/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.qu.ax:6969/announce
-udp://btt.service.gongt.me:43079/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker1.ctix.cn:443/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker2.ctix.cn:443/announce
 udp://bt.rer.lol:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -195,8 +195,8 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.farted.net:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 http://tracker.guguan.000.pe:80/announce
-http://tracker.k.vu:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+http://tracker.k.vu:6969/announce
 http://tracker.enitin.xyz:80/announce
 http://open.tracker.ink:6969/announce
 http://tracker.skyts.net:6969/announce
