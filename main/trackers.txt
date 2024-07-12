@@ -584,8 +584,6 @@ udp://epider.me:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-https://t1.hloli.org:443/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -603,6 +601,8 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://open.dstud.io:6969/announce
+
+https://t1.hloli.org:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -638,9 +638,9 @@ http://tracker.dump.cl:6969/announce
 
 https://trackers.run:443/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -682,9 +682,9 @@ http://p2p.0g.cx:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -696,11 +696,11 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.srv00.com:6969/announce
 
-https://tracker1.ctix.cn:443/announce
+udp://inferno.demonoid.is:3391/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://inferno.demonoid.is:3391/announce
+https://tracker1.ctix.cn:443/announce
 
 https://tracker2.ctix.cn:443/announce
 
@@ -780,9 +780,9 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -1412,8 +1412,6 @@ udp://epider.me:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-https://t1.hloli.org:443/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -1431,6 +1429,8 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://open.dstud.io:6969/announce
+
+https://t1.hloli.org:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -1466,9 +1466,9 @@ http://tracker.dump.cl:6969/announce
 
 https://trackers.run:443/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
