@@ -180,8 +180,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://open-v6.demonoid.ch:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 https://threads.canofsocks.com:443/announce
+http://tracker.ipv6tracker.ru:80/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://btt.service.gongt.me:43079/announce
@@ -206,9 +206,9 @@ http://tracker.guguan.000.pe:80/announce
 udp://tracker.farted.net:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://free.publictracker.xyz:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
-http://tracker.pcfreetime.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.k.vu:6969/announce
