@@ -578,8 +578,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -587,6 +585,8 @@ udp://bt2.archive.org:6969/announce
 udp://epider.me:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -598,8 +598,6 @@ http://tracker.dump.cl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -607,6 +605,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://moonburrow.club:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -650,9 +650,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://new-line.net:6969/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://new-line.net:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -670,15 +670,15 @@ http://p2p.0g.cx:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://ryjer.com:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
+udp://ryjer.com:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -690,13 +690,13 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://inferno.demonoid.is:3391/announce
 
-udp://mikrotik2.draatman.net:6969/announce
+udp://open.publictracker.xyz:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -720,9 +720,9 @@ udp://open.u-p.pw:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://btt.service.gongt.me:43079/announce
 
@@ -802,9 +802,9 @@ udp://tracker.farted.net:6969/announce
 
 udp://yahor.of.by:6969/announce
 
-http://0205.uptm.ch:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -1406,8 +1406,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -1415,6 +1413,8 @@ udp://bt2.archive.org:6969/announce
 udp://epider.me:6969/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -1426,8 +1426,6 @@ http://tracker.dump.cl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -1435,6 +1433,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://moonburrow.club:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1478,9 +1478,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://new-line.net:6969/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://new-line.net:6969/announce
 
 https://tracker.pmman.tech:443/announce
 

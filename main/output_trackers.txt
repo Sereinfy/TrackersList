@@ -173,12 +173,12 @@ http://open.acgtracker.com:1096/announce
 http://p2p.0g.cx:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://bandito.byterunner.io:6969/announce
-udp://tracker.breizh.pm:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.breizh.pm:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://open.publictracker.xyz:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
