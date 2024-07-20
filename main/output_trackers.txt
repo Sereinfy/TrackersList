@@ -200,8 +200,8 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.gbitt.info:80/announce
-udp://tracker.skynetcloud.site:6969/announce
 http://tracker.guguan.000.pe:80/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://free.publictracker.xyz:6969/announce
 http://tracker.pcfreetime.com:6969/announce
