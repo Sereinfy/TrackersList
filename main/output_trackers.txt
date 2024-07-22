@@ -202,8 +202,8 @@ udp://tracker.silksa.co.za:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 http://cn.pcfreetime.com:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://open.tracker.ink:6969/announce
