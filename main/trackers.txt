@@ -632,11 +632,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://u.peer-exchange.download:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -656,9 +656,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 https://t.peer-exchange.download:443/announce
 
@@ -726,9 +726,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://open.tracker.cl:1337/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -736,13 +736,13 @@ https://threads.canofsocks.com:443/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.enitin.xyz:80/announce
 
-udp://mikrotik2.draatman.net:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -1464,11 +1464,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://u.peer-exchange.download:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1488,9 +1488,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 https://t.peer-exchange.download:443/announce
 
