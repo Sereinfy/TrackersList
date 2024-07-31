@@ -173,15 +173,15 @@ udp://tracker.breizh.pm:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://btt.service.gongt.me:43079/announce
+udp://z.mercax.com:53/announce
 udp://bt.rer.lol:6969/announce
 https://tracker.amelia.fun:443/announce
-udp://z.mercax.com:53/announce
 http://tracker.vraphim.com:6969/announce
 http://t.acg.rip:6699/announce
 http://tracker.enitin.xyz:80/announce
 https://t1.hloli.org:443/announce
-udp://tracker.draatman.uk:6969/announce
 https://threads.canofsocks.com:443/announce
+udp://tracker.draatman.uk:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://p2p.0g.cx:6969/announce
 http://thetracker.org:80/announce
