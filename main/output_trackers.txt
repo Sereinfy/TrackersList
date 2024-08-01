@@ -166,6 +166,9 @@ udp://ryjer.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://tracker.qu.ax:6969/announce
 http://tracker1.itzmx.com:8080/announce
+http://retracker.x2k.ru:80/announce
+https://retracker2.x2k.ru:443/announce
+http://tracker.phoenix.lol:80/announce
 http://tracker.dump.cl:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -189,13 +192,13 @@ http://tracker.pcfreetime.com:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tracker.cangku.moe:443/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://tracker.guguan.000.pe:80/announce
+udp://mikrotik2.draatman.net:6969/announce
 https://tracker.imgoingto.icu:443/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedomalternative.com:6969/announce
-http://tracker.h0me.cc:8880/announce
 http://tracker.skyts.net:6969/announce
+http://tracker.h0me.cc:8880/announce
 http://tracker.ykat.xyz:6969/announce
 http://open.tracker.ink:6969/announce
 https://tracker.moeblog.cn:443/announce
