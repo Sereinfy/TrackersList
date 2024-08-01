@@ -189,9 +189,9 @@ http://tracker.k.vu:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://tracker-us.silksa.co.za:6969/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.guguan.000.pe:80/announce
+https://tracker.cangku.moe:443/announce
+udp://tracker-us.silksa.co.za:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 https://tracker.imgoingto.icu:443/announce
 udp://free.publictracker.xyz:6969/announce
@@ -205,7 +205,6 @@ udp://yahor.of.by:6969/announce
 http://region.nl1.privex.cc:6969/announce
 https://tr.ready4.icu:443/announce
 http://0205.uptm.ch:6969/announce
-https://tracker1.ctix.cn:443/announce
 udp://lopatins.ru:5972/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
@@ -256,6 +255,7 @@ http://ipv6.1337.cx:6969/announce
 udp://ipv6.69.mu:6969/announce
 http://i-p-v-6.tk:6969/announce
 udp://zecircle.xyz:6969/announce
+https://tracker1.ctix.cn:443/announce
 http://open-v6.demonoid.ch:6969/announce
 http://incine.ru:6969/announce
 http://mail.lakameraobscura.com:6969/announce
