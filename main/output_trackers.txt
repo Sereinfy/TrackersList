@@ -164,8 +164,8 @@ udp://tracker1.t-1.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://ipv6.fuuuuuck.com:6969/announce
-udp://oh.fuuuuuck.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+udp://oh.fuuuuuck.com:6969/announce
 udp://tracker.t-1.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bt.rer.lol:6969/announce

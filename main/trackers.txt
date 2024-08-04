@@ -578,11 +578,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 https://tracker.pmman.tech:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -598,11 +598,11 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://opentracker.io:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://opentracker.io:6969/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -634,9 +634,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -648,9 +648,9 @@ udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -1410,11 +1410,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 https://tracker.pmman.tech:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -1430,11 +1430,11 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://opentracker.io:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://opentracker.io:6969/announce
 
 http://t1.aag.moe:17715/announce
 
