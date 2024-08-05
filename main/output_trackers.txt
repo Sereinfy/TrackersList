@@ -184,8 +184,8 @@ udp://tracker.vds.nz:6969/announce
 http://thetracker.org:80/announce
 udp://tracker.draatman.uk:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-http://p2p.0g.cx:6969/announce
 http://tracker.gbitt.info:80/announce
+http://p2p.0g.cx:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker3.itzmx.com:6961/announce
 http://tracker.guguan.000.pe:80/announce
