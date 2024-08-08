@@ -171,8 +171,8 @@ udp://tracker.t-1.org:6969/announce
 https://threads.canofsocks.com:443/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
-udp://btt.service.gongt.me:43079/announce
 https://tracker.loligirl.cn:443/announce
+udp://btt.service.gongt.me:43079/announce
 http://tracker.enitin.xyz:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 http://tracker.k.vu:6969/announce
@@ -311,7 +311,6 @@ udp://private.anonseed.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://freedom.1776.ga:6969/announce
 http://v6-tracker.0g.cx:6969/announce
-udp://public-tracker.ml:6969/announce
 udp://bt.letpo.com:6969/announce
 http://bt1.letpo.com:80/announce
 https://tracker.mlsub.net:443/announce
