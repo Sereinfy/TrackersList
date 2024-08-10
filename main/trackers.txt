@@ -554,6 +554,8 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://epider.me:6969/announce
 
+https://bittorrent.service.gongt.me:59443/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://bt1.archive.org:6969/announce
@@ -561,8 +563,6 @@ udp://bt1.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 udp://open.demonoid.ch:6969/announce
-
-https://bittorrent.service.gongt.me:59443/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -598,9 +598,9 @@ http://t1.aag.moe:17715/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://wepzone.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -656,13 +656,13 @@ https://threads.canofsocks.com:443/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker3.t-1.org:6969/announce
+udp://bt.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker3.t-1.org:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -678,19 +678,19 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://tracker.enitin.xyz:80/announce
 
-https://t.peer-exchange.download:443/announce
+udp://tracker.t-1.org:6969/announce
 
 https://www.peckservers.com:9443/announce
 
+https://t.peer-exchange.download:443/announce
+
 udp://martin-gebhardt.eu:25/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
@@ -698,9 +698,9 @@ udp://oh.fuuuuuck.com:6969/announce
 
 https://tracker.loligirl.cn:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -754,17 +754,15 @@ http://tracker.skyts.net:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 http://tracker.ykat.xyz:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
-
-http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -983,6 +981,8 @@ http://504e163a.host.njalla.net:6969/announce
 udp://private.anonseed.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
@@ -1380,6 +1380,8 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://epider.me:6969/announce
 
+https://bittorrent.service.gongt.me:59443/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://bt1.archive.org:6969/announce
@@ -1387,8 +1389,6 @@ udp://bt1.archive.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 udp://open.demonoid.ch:6969/announce
-
-https://bittorrent.service.gongt.me:59443/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -1424,9 +1424,9 @@ http://t1.aag.moe:17715/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://wepzone.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
