@@ -172,12 +172,12 @@ udp://tracker.farted.net:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 http://t.acg.rip:6699/announce
-udp://tracker.theoks.net:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker.theoks.net:6969/announce
 http://smurfsoft.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 https://tracker.cangku.moe:443/announce
@@ -195,10 +195,10 @@ udp://free.publictracker.xyz:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
-udp://btt.service.gongt.me:43079/announce
 http://0205.uptm.ch:6969/announce
-http://tracker.ykat.xyz:6969/announce
+udp://btt.service.gongt.me:43079/announce
 https://tr.ready4.icu:443/announce
+http://tracker.ykat.xyz:6969/announce
 udp://lopatins.ru:5972/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
