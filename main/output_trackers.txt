@@ -170,8 +170,8 @@ http://tracker.vraphim.com:6969/announce
 https://threads.canofsocks.com:443/announce
 udp://wepzone.net:6969/announce
 http://tracker.k.vu:6969/announce
-udp://tracker1.t-1.org:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker1.t-1.org:6969/announce
 http://smurfsoft.com:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://retracker.lanta.me:2710/announce
@@ -196,8 +196,8 @@ https://t.peer-exchange.download:443/announce
 udp://tracker.qu.ax:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.gbitt.info:80/announce
 http://open.tracker.ink:6969/announce
+http://tracker.gbitt.info:80/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
 udp://lopatins.ru:5972/announce
