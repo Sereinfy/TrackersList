@@ -171,9 +171,9 @@ http://smurfsoft.com:6969/announce
 udp://tracker1.t-1.org:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://retracker.lanta.me:2710/announce
+http://t.acg.rip:6699/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker.t-1.org:6969/announce
-http://t.acg.rip:6699/announce
 udp://tracker.theoks.net:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
@@ -190,8 +190,8 @@ udp://tracker.therarbg.com:6969/announce
 https://t.peer-exchange.download:443/announce
 https://tracker.moeblog.cn:443/announce
 http://tracker.skyts.net:6969/announce
-udp://tracker.qu.ax:6969/announce
 http://open.tracker.ink:6969/announce
+udp://tracker.qu.ax:6969/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
 udp://lopatins.ru:5972/announce
