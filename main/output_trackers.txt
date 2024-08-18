@@ -191,8 +191,8 @@ udp://freedomalternative.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.phoenix.lol:80/announce
 https://tracker.imgoingto.icu:443/announce
-udp://tracker.therarbg.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
+udp://tracker.therarbg.com:6969/announce
 https://tracker.moeblog.cn:443/announce
 http://open.tracker.ink:6969/announce
 http://tracker.skyts.net:6969/announce
