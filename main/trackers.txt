@@ -560,11 +560,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 http://retracker.x2k.ru:80/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 udp://epider.me:6969/announce
 
@@ -573,6 +573,10 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 https://tracker.pmman.tech:443/announce
+
+udp://tracker.cyberia.is:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -586,13 +590,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -606,8 +608,6 @@ udp://open.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.dump.cl:6969/announce
 
 http://isk.richardsw.club:6969/announce
@@ -618,15 +618,15 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
+https://www.peckservers.com:9443/announce
 
-https://threads.canofsocks.com:443/announce
+udp://run.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-https://www.peckservers.com:9443/announce
+https://threads.canofsocks.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -654,11 +654,11 @@ udp://ryjer.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://new-line.net:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -676,15 +676,15 @@ http://tracker.renfei.net:8080/announce
 
 udp://open.u-p.pw:6969/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+http://tracker.vraphim.com:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 http://smurfsoft.com:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -1382,11 +1382,11 @@ udp://odd-hd.fr:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 http://retracker.x2k.ru:80/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 udp://epider.me:6969/announce
 
@@ -1395,6 +1395,10 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 https://tracker.pmman.tech:443/announce
+
+udp://tracker.cyberia.is:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -1408,13 +1412,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -1428,8 +1430,6 @@ udp://open.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.dump.cl:6969/announce
 
 http://isk.richardsw.club:6969/announce
@@ -1440,15 +1440,15 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
+https://www.peckservers.com:9443/announce
 
-https://threads.canofsocks.com:443/announce
+udp://run.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-https://www.peckservers.com:9443/announce
+https://threads.canofsocks.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
