@@ -598,9 +598,9 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -628,11 +628,11 @@ udp://u6.trakx.crim.ist:1337/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 udp://jutone.com:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -1420,9 +1420,9 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -1449,6 +1449,8 @@ http://tracker.mywaifu.best:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://1337.abcvg.info:80/announce
 
