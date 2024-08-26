@@ -532,11 +532,11 @@ udp://trackarr.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -546,9 +546,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://retracker.x2k.ru:80/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -562,11 +562,11 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 http://isk.richardsw.club:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 https://tracker.lilithraws.org:443/announce
+
+http://tracker.dump.cl:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -592,9 +592,9 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://ryjer.com:6969/announce
 
@@ -1356,11 +1356,11 @@ udp://trackarr.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -1370,9 +1370,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://retracker.x2k.ru:80/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -1386,11 +1386,11 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 http://isk.richardsw.club:6969/announce
 
-http://tracker.dump.cl:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 https://tracker.lilithraws.org:443/announce
+
+http://tracker.dump.cl:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -1415,6 +1415,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://opentracker.io:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://1337.abcvg.info:80/announce
 
