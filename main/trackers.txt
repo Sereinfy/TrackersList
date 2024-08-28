@@ -22,21 +22,19 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
-
-http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -48,13 +46,7 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -78,7 +70,7 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://threads.canofsocks.com:443/announce
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -448,6 +440,8 @@ udp://exodus.desync.com:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://z.mercax.com:53/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -487,8 +481,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -594,21 +586,21 @@ udp://opentracker.io:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://jutone.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -1268,6 +1260,8 @@ udp://exodus.desync.com:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://z.mercax.com:53/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -1307,8 +1301,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -1436,21 +1428,19 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
-
-http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -1462,13 +1452,7 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -1492,7 +1476,7 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://threads.canofsocks.com:443/announce
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
