@@ -508,6 +508,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -523,8 +525,6 @@ https://retracker2.x2k.ru:443/announce
 https://bittorrent.service.gongt.me:59443/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -576,9 +576,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -592,27 +592,27 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://jutone.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 udp://ryjer.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -636,11 +636,11 @@ udp://epider.me:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://open.demonoid.ch:6969/announce
+udp://bt.rer.lol:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
+udp://open.demonoid.ch:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -1328,6 +1328,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -1343,8 +1345,6 @@ https://retracker2.x2k.ru:443/announce
 https://bittorrent.service.gongt.me:59443/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -1396,9 +1396,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -1411,8 +1411,6 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://opentracker.io:6969/announce
-
-https://threads.canofsocks.com:443/announce
 
 http://1337.abcvg.info:80/announce
 
