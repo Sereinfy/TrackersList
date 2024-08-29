@@ -574,9 +574,9 @@ udp://run.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -602,17 +602,17 @@ udp://opentracker.io:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://jutone.com:6969/announce
+https://threads.canofsocks.com:443/announce
 
 http://ipv6.rer.lol:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 udp://ryjer.com:6969/announce
-
-https://threads.canofsocks.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -626,9 +626,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -668,9 +668,9 @@ udp://wepzone.net:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.theoks.net:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -713,8 +713,6 @@ http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-https://tracker.moeblog.cn:443/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -834,8 +832,6 @@ http://147job.com:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://psyco.fr:6969/announce
-
 udp://astrr.ru:6969/announce
 
 udp://aarsen.me:6969/announce
@@ -873,6 +869,8 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://www.2600.com:6969/announce
 
 https://tracker.expli.top:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
@@ -1392,9 +1390,9 @@ udp://run.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tamas3.ynh.fr:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 http://isk.richardsw.club:6969/announce
 

@@ -156,8 +156,8 @@ http://isk.richardsw.club:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://tk1.trackerservers.com:8080/announce
-http://ipv6.rer.lol:6969/announce
 https://threads.canofsocks.com:443/announce
+http://ipv6.rer.lol:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://t.overflow.biz:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
@@ -171,8 +171,8 @@ udp://open.demonoid.ch:6969/announce
 udp://open.tracker.cl:1337/announce
 http://cn.pcfreetime.com:6969/announce
 http://t.acg.rip:6699/announce
-udp://tracker.theoks.net:6969/announce
 http://canardscitrons.nohost.me:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 http://tracker.guguan.000.pe:80/announce
 https://tracker.cangku.moe:443/announce
@@ -190,7 +190,6 @@ http://open.tracker.ink:6969/announce
 http://0205.uptm.ch:6969/announce
 https://tr.ready4.icu:443/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
-https://tracker.moeblog.cn:443/announce
 udp://lopatins.ru:5972/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 https://bt.080609.xyz:443/announce
@@ -249,7 +248,6 @@ http://mail.lakameraobscura.com:6969/announce
 http://debuz.com:6969/announce
 http://147job.com:6969/announce
 udp://thouvenin.cloud:6969/announce
-udp://psyco.fr:6969/announce
 udp://astrr.ru:6969/announce
 udp://aarsen.me:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -269,6 +267,7 @@ udp://laze.cc:6969/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://www.2600.com:6969/announce
 https://tracker.expli.top:443/announce
+https://tracker.moeblog.cn:443/announce
 udp://tracker.joybomb.tw:6969/announce
 http://tracker.sakurato.art:23333/announce
 udp://tracker.jonaslsa.com:6969/announce
@@ -584,6 +583,7 @@ udp://app.icon256.com:8000/announce
 udp://qtstm32fan.ru:6969/announce
 http://tracker2.dler.org/announce
 http://t2.pow7.com/announce
+udp://psyco.fr:6969/announce
 https://open.kickasstracker.com/announce
 udp://keke.re:6969/announce
 http://tracker3.dler.org:2710/announce
