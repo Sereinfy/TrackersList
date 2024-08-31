@@ -173,9 +173,9 @@ http://tracker.vraphim.com:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.tracker.cl:1337/announce
 http://cn.pcfreetime.com:6969/announce
+https://tracker.cangku.moe:443/announce
 http://canardscitrons.nohost.me:6969/announce
 http://t.acg.rip:6699/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.guguan.000.pe:80/announce
 https://tracker.loligirl.cn:443/announce
 http://tracker.pcfreetime.com:6969/announce
