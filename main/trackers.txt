@@ -572,21 +572,21 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://bt2.archive.org:6969/announce
 
-udp://open.demonii.com:1337/announce
+udp://run.publictracker.xyz:6969/announce
 
 http://retracker.x2k.ru:80/announce
 
 udp://open.publictracker.xyz:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 http://tracker.dump.cl:6969/announce
 
@@ -630,13 +630,13 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.srv00.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://jutone.com:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://jutone.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -666,9 +666,9 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://epider.me:6969/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+udp://epider.me:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -684,15 +684,15 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -718,15 +718,15 @@ udp://freedomalternative.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-http://tracker.phoenix.lol:80/announce
-
 http://rfc5746.mywaifu.best:6969/announce
+
+http://tracker.phoenix.lol:80/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -1388,21 +1388,21 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://bt2.archive.org:6969/announce
 
-udp://open.demonii.com:1337/announce
+udp://run.publictracker.xyz:6969/announce
 
 http://retracker.x2k.ru:80/announce
 
 udp://open.publictracker.xyz:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 http://tracker.dump.cl:6969/announce
 
