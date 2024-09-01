@@ -740,8 +740,6 @@ http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://lopatins.ru:5972/announce
 
-udp://dyndns.xionxiii.ovh:6969/announce
-
 https://bt.080609.xyz:443/announce
 
 http://t.nyaatracker.com:80/announce
@@ -1085,6 +1083,8 @@ udp://npge.nprotect.com:6969/announce
 udp://open.8a.is:6969/announce
 
 udp://laszlo130.go.ro:6969/announce
+
+udp://dyndns.xionxiii.ovh:6969/announce
 
 http://home.kray.pw:6969/announce
 
