@@ -612,9 +612,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tracker.k.vu:6969/announce
+
+http://t1.aag.moe:17715/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -636,9 +636,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.farted.net:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://jutone.com:6969/announce
 
@@ -660,9 +660,9 @@ http://tracker.renfei.net:8080/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -672,9 +672,9 @@ udp://epider.me:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -734,9 +734,9 @@ https://1337.abcvg.info:443/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 http://0205.uptm.ch:6969/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -1426,9 +1426,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tracker.k.vu:6969/announce
+
+http://t1.aag.moe:17715/announce
 
 https://www.peckservers.com:9443/announce
 
