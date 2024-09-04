@@ -173,8 +173,8 @@ udp://bt.rer.lol:6969/announce
 http://smurfsoft.com:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://cn.pcfreetime.com:6969/announce
-udp://open.demonoid.ch:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
+udp://open.demonoid.ch:6969/announce
 http://t.acg.rip:6699/announce
 udp://tracker.theoks.net:6969/announce
 udp://dataforai.com:31332/announce
@@ -189,8 +189,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.t-1.org:6969/announce
 http://open.tracker.ink:6969/announce
 http://0205.uptm.ch:6969/announce
-udp://tracker1.t-1.org:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
+udp://tracker1.t-1.org:6969/announce
 udp://lopatins.ru:5972/announce
 https://bt.080609.xyz:443/announce
 http://t.nyaatracker.com:80/announce
