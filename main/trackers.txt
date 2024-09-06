@@ -56,8 +56,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -75,6 +73,8 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
@@ -554,6 +554,8 @@ udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://amigacity.xyz:6969/announce
+
 https://retracker2.x2k.ru:443/announce
 
 udp://trackarr.org:6969/announce
@@ -565,8 +567,6 @@ http://tracker1.itzmx.com:8080/announce
 udp://odd-hd.fr:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://amigacity.xyz:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -636,9 +636,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -660,8 +660,6 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker.srv00.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -669,6 +667,8 @@ http://ipv6.rer.lol:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://ryjer.com:6969/announce
 
@@ -690,9 +690,9 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 udp://ipv4.rer.lol:2710/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 udp://new-line.net:6969/announce
 
@@ -702,13 +702,13 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
-udp://bt.rer.lol:6969/announce
+http://tracker.vraphim.com:6969/announce
 
 http://jvavav.com:80/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -724,9 +724,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-http://t.acg.rip:6699/announce
-
 https://tracker.cangku.moe:443/announce
+
+http://t.acg.rip:6699/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -762,15 +762,15 @@ https://1337.abcvg.info:443/announce
 
 http://open.tracker.ink:6969/announce
 
+http://0205.uptm.ch:6969/announce
+
 https://track.solcloud.eu:443/announce
 
-http://0205.uptm.ch:6969/announce
+http://tracker.skyts.net:6969/announce
 
 https://tr.ready4.icu:443/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-http://tracker.skyts.net:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -1372,6 +1372,8 @@ udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://amigacity.xyz:6969/announce
+
 https://retracker2.x2k.ru:443/announce
 
 udp://trackarr.org:6969/announce
@@ -1383,8 +1385,6 @@ http://tracker1.itzmx.com:8080/announce
 udp://odd-hd.fr:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://amigacity.xyz:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -1454,9 +1454,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 http://isk.richardsw.club:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -1534,8 +1534,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -1553,6 +1551,8 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
