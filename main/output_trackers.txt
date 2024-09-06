@@ -175,8 +175,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
 https://bittorrent.service.gongt.me:59443/announce
 http://tracker.vraphim.com:6969/announce
-http://tracker.guguan.000.pe:80/announce
 http://jvavav.com:80/announce
+http://tracker.guguan.000.pe:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://smurfsoft.com:6969/announce
 http://t.acg.rip:6699/announce

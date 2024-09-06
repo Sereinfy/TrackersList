@@ -614,11 +614,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+https://tracker.lilithraws.org:443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://open.dstud.io:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -708,11 +708,11 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
+http://jvavav.com:80/announce
+
 udp://wepzone.net:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
-
-http://jvavav.com:80/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -726,9 +726,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.theoks.net:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -1432,11 +1432,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+https://tracker.lilithraws.org:443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://open.dstud.io:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
