@@ -598,11 +598,11 @@ udp://seedpeer.net:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -614,9 +614,9 @@ udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://open.dstud.io:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -634,9 +634,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -702,9 +702,9 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -728,13 +728,13 @@ http://t.acg.rip:6699/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 https://tracker.cangku.moe:443/announce
 
-udp://open.demonoid.ch:6969/announce
+udp://bt.ktrackers.com:6666/announce
 
 http://rfc5746.mywaifu.best:6969/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -742,9 +742,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://dataforai.com:31332/announce
 
-http://thetracker.org:80/announce
-
 udp://tracker.vds.nz:6969/announce
+
+http://thetracker.org:80/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -1416,11 +1416,11 @@ udp://seedpeer.net:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -1432,9 +1432,9 @@ udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://open.dstud.io:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1452,9 +1452,9 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://isk.richardsw.club:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
