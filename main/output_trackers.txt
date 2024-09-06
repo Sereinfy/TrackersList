@@ -171,16 +171,16 @@ http://ipv4announce.sktorrent.eu:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
 http://tracker.enitin.xyz:80/announce
-https://bittorrent.service.gongt.me:59443/announce
 http://jvavav.com:80/announce
+https://bittorrent.service.gongt.me:59443/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://smurfsoft.com:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 http://t.acg.rip:6699/announce
-https://tracker.cangku.moe:443/announce
 http://rfc5746.mywaifu.best:6969/announce
+https://tracker.cangku.moe:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://open.demonoid.ch:6969/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -188,8 +188,8 @@ udp://dataforai.com:31332/announce
 http://thetracker.org:80/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.loligirl.cn:443/announce
-udp://freedomalternative.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
+udp://freedomalternative.com:6969/announce
 http://tracker.phoenix.lol:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://0205.uptm.ch:6969/announce
@@ -197,7 +197,6 @@ https://track.solcloud.eu:443/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 https://tr.ready4.icu:443/announce
 udp://lopatins.ru:5972/announce
-https://bt.080609.xyz:443/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -395,6 +394,7 @@ udp://x.t-1.org:6969/announce
 udp://y.t-1.org:6969/announce
 udp://hz.is:3000/announce
 udp://pirate.hz.is:1337/announce
+https://bt.080609.xyz:443/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 udp://tracker.anima.nz:6969/announce
 udp://tracker.trafficmgr.net:6969/announce
