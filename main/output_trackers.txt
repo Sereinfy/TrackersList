@@ -188,8 +188,8 @@ http://tracker.pcfreetime.com:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://free.publictracker.xyz:6969/announce
 http://thetracker.org:80/announce
-https://tracker.loligirl.cn:443/announce
 http://tracker.phoenix.lol:80/announce
+https://tracker.loligirl.cn:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://dataforai.com:31332/announce
 http://0205.uptm.ch:6969/announce
