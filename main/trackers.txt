@@ -562,11 +562,11 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://tracker.xor.st:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -592,19 +592,19 @@ udp://open.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
+http://tracker.dump.cl:6969/announce
+
 http://mc.itscraftsoftware.my.id:8804/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-http://tracker.dump.cl:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -618,9 +618,9 @@ http://isk.richardsw.club:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -636,8 +636,6 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
 https://tracker1.520.jp:443/announce
@@ -645,6 +643,8 @@ https://tracker1.520.jp:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.pmman.tech:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -654,9 +654,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -680,9 +680,9 @@ http://tracker.renfei.net:8080/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://ipv4.rer.lol:2710/announce
-
 udp://wepzone.net:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -714,9 +714,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 http://t.acg.rip:6699/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://tracker.vds.nz:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -744,13 +744,13 @@ http://tracker.phoenix.lol:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-https://tracker.loligirl.cn:443/announce
+http://wg.mortis.me:6969/announce
 
 https://1337.abcvg.info:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://wg.mortis.me:6969/announce
+https://tracker.loligirl.cn:443/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1378,11 +1378,11 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://tracker.xor.st:6969/announce
 
 http://tracker.files.fm:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1408,19 +1408,19 @@ udp://open.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
+http://tracker.dump.cl:6969/announce
+
 http://mc.itscraftsoftware.my.id:8804/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-http://tracker.dump.cl:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -1434,9 +1434,9 @@ http://isk.richardsw.club:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -1452,7 +1452,7 @@ udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://u4.trakx.crim.ist:1337/announce
 
 http://1337.abcvg.info:80/announce
 
