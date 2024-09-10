@@ -534,8 +534,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -582,11 +580,11 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -602,6 +600,8 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://retracker.x2k.ru:80/announce
 
+https://tracker.itscraftsoftware.my.id:443/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -616,17 +616,17 @@ udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://p2p.publictracker.xyz:6969/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+https://tracker.cloudit.top:443/announce
 
 http://tracker.dump.cl:6969/announce
 
 https://retracker2.x2k.ru:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -773,6 +773,8 @@ http://tracker-rh.zhuqiy.eu.org:80/announce
 https://tr.ready4.icu:443/announce
 
 https://track.solcloud.eu:443/announce
+
+http://wg.mortis.me:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -1068,8 +1070,6 @@ udp://su-data.com:6969/announce
 
 http://li2021-95.members.linode.com:6969/announce
 
-http://wg.mortis.me:6969/announce
-
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://llideong.cn:6969/announce
@@ -1348,8 +1348,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -1396,11 +1394,11 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1416,6 +1414,8 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://retracker.x2k.ru:80/announce
 
+https://tracker.itscraftsoftware.my.id:443/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -1430,17 +1430,17 @@ udp://bt2.archive.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://p2p.publictracker.xyz:6969/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+https://tracker.cloudit.top:443/announce
 
 http://tracker.dump.cl:6969/announce
 
 https://retracker2.x2k.ru:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
