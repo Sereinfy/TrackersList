@@ -173,11 +173,11 @@ http://canardscitrons.nohost.me:6969/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://open.acgtracker.com:1096/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://d13bttrck.duckdns.org:6969/announce
 http://ipv6.rer.lol:6969/announce
 https://threads.canofsocks.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
+udp://d13bttrck.duckdns.org:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.vraphim.com:6969/announce
 udp://epider.me:6969/announce
