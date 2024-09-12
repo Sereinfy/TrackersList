@@ -195,9 +195,9 @@ http://tracker.skyts.net:6969/announce
 https://tr.ready4.icu:443/announce
 http://0205.uptm.ch:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
+udp://tk1v6.trackerservers.com:8080/announce
 https://track.solcloud.eu:443/announce
 udp://lopatins.ru:5972/announce
-udp://tk1v6.trackerservers.com:8080/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
