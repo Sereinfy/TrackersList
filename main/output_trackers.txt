@@ -169,9 +169,9 @@ http://tracker1.itzmx.com:8080/announce
 udp://t.overflow.biz:6969/announce
 http://tracker.auctor.tv:6969/announce
 http://open.acgtracker.com:1096/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://z.mercax.com:53/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://d13bttrck.duckdns.org:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
 http://tracker.enitin.xyz:80/announce
