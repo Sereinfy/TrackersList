@@ -172,8 +172,8 @@ http://open.acgtracker.com:1096/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://z.mercax.com:53/announce
 udp://tk1.trackerservers.com:8080/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.vraphim.com:6969/announce
@@ -186,15 +186,15 @@ http://t.acg.rip:6699/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://smurfsoft.com:6969/announce
-http://thetracker.org:80/announce
 http://open.tracker.ink:6969/announce
+http://thetracker.org:80/announce
 http://tracker.phoenix.lol:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.skyts.net:6969/announce
 https://tr.ready4.icu:443/announce
 http://0205.uptm.ch:6969/announce
-http://tracker-rh.zhuqiy.eu.org:80/announce
 udp://tk1v6.trackerservers.com:8080/announce
+http://tracker-rh.zhuqiy.eu.org:80/announce
 https://track.solcloud.eu:443/announce
 udp://lopatins.ru:5972/announce
 http://t.nyaatracker.com:80/announce
@@ -256,7 +256,6 @@ udp://astrr.ru:6969/announce
 udp://aarsen.me:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://thinking.duckdns.org:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://boysbitte.be:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://sanincode.com:6969/announce
@@ -645,6 +644,7 @@ http://btracker.top:11451/announce
 http://www.worldboxingvideoarchive.com:80/announce.php
 http://tracker.trackerfix.com:80/announce
 udp://opentrackr.org:1337/announce
+udp://cutscloud.duckdns.org:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://opentracker.xyz:80/announce
 udp://yahor.ftp.sh:6969/announce
