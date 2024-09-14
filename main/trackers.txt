@@ -534,6 +534,8 @@ http://jvavav.com:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://explodie.org:6969/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -545,8 +547,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -622,9 +622,9 @@ udp://open.demonii.com:1337/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://mc.itscraftsoftware.my.id:8804/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -682,19 +682,19 @@ udp://tracker.deadorbit.nl:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://ryjer.com:6969/announce
 
-udp://tracker.farted.net:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
+udp://tracker.farted.net:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://jutone.com:6969/announce
 
@@ -1350,6 +1350,8 @@ http://jvavav.com:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://explodie.org:6969/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -1361,8 +1363,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -1438,9 +1438,9 @@ udp://open.demonii.com:1337/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://mc.itscraftsoftware.my.id:8804/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
