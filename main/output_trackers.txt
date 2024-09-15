@@ -170,10 +170,10 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://u4.trakx.crim.ist:1337/announce
+https://threads.canofsocks.com:443/announce
 udp://z.mercax.com:53/announce
 udp://tk1.trackerservers.com:8080/announce
 http://tracker.guguan.000.pe:80/announce
-https://threads.canofsocks.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
 http://tracker.vraphim.com:6969/announce
