@@ -710,9 +710,9 @@ http://tracker.renfei.net:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://tracker.vraphim.com:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -732,9 +732,9 @@ udp://bt.ktrackers.com:6666/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-https://bittorrent.service.gongt.me:59443/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 udp://open.tracker.cl:1337/announce
 
