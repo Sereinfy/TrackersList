@@ -616,8 +616,6 @@ http://tracker.files.fm:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-http://tracker.guguan.000.pe:80/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -625,6 +623,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker.guguan.000.pe:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -680,9 +680,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.xor.st:6969/announce
 
-https://trackers.mlsub.net:443/announce
-
 http://tracker.auctor.tv:6969/announce
+
+https://trackers.mlsub.net:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -694,9 +694,9 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 https://tracker.pmman.tech:443/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -780,13 +780,13 @@ https://tracker.cangku.moe:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://wg.mortis.me:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -808,9 +808,9 @@ https://1337.abcvg.info:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -819,6 +819,8 @@ https://tr.ready4.icu:443/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
 https://track.solcloud.eu:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -829,8 +831,6 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
 
 http://wegkxfcivgx.chickenkiller.com:80/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
@@ -1440,8 +1440,6 @@ http://tracker.files.fm:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-http://tracker.guguan.000.pe:80/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -1449,6 +1447,8 @@ udp://tracker.breizh.pm:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker.guguan.000.pe:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -1504,9 +1504,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.xor.st:6969/announce
 
-https://trackers.mlsub.net:443/announce
-
 http://tracker.auctor.tv:6969/announce
+
+https://trackers.mlsub.net:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
