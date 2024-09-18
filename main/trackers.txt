@@ -666,13 +666,13 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+http://tracker.kmzs123.com:80/announce
+
 udp://u6.trakx.crim.ist:1337/announce
 
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.xor.st:6969/announce
-
-http://tracker.kmzs123.com:80/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -690,15 +690,15 @@ https://api.ipv4online.uk:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://tracker.kmzs123.cn:17272/announce
+
+https://tracker.kmzs123.top:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 udp://tk1.trackerservers.com:8080/announce
-
-https://tracker.kmzs123.top:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -738,9 +738,9 @@ http://ch3oh.ru:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 http://tracker.1048576.cn:17272/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
 
@@ -758,9 +758,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -794,9 +794,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -1502,13 +1502,13 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
+http://tracker.kmzs123.com:80/announce
+
 udp://u6.trakx.crim.ist:1337/announce
 
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.xor.st:6969/announce
-
-http://tracker.kmzs123.com:80/announce
 
 https://trackers.mlsub.net:443/announce
 
