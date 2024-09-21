@@ -168,14 +168,14 @@ http://tracker.dump.cl:6969/announce
 http://isk.richardsw.club:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tk1.trackerservers.com:8080/announce
+https://threads.canofsocks.com:443/announce
 http://tracker.guguan.000.pe:80/announce
 https://tracker.bjut.jp:443/announce
-https://threads.canofsocks.com:443/announce
 https://mathkangaroo.jp:443/announce
-http://tracker.enitin.xyz:80/announce
 udp://tracker.kmzs123.tk:17272/announce
-https://torrent.tracker.durukanbal.com:443/announce
+http://tracker.enitin.xyz:80/announce
 https://tracker.kmzs123.top:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.1048576.cn:17272/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.vraphim.com:6969/announce
