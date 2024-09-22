@@ -620,11 +620,11 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://t.overflow.biz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -656,9 +656,9 @@ https://tracker.bjut.jp:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://tracker.auctor.tv:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+http://tracker.auctor.tv:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -672,9 +672,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-http://tracker.enitin.xyz:80/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.enitin.xyz:80/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -706,11 +706,11 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://new-line.net:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 http://tracker.1048576.cn:17272/announce
 
 https://tracker.kmzs123.top:443/announce
-
-udp://tracker.ccp.ovh:6969/announce
 
 http://tracker.kmzs123.com:80/announce
 
@@ -752,9 +752,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://www.2600.com:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker3.itzmx.com:6961/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -762,13 +762,13 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-https://tracker.imgoingto.icu:443/announce
-
-https://bittorrent.service.gongt.me:59443/announce
-
 http://open.tracker.ink:6969/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.moeblog.cn:443/announce
+
+https://bittorrent.service.gongt.me:59443/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -780,9 +780,9 @@ http://tracker.phoenix.lol:80/announce
 
 udp://ftp.pet:2710/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1460,11 +1460,11 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://t.overflow.biz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
