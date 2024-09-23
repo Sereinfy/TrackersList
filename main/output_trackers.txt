@@ -167,15 +167,15 @@ https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://t.overflow.biz:6969/announce
-http://tracker.dump.cl:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+http://tracker.dump.cl:6969/announce
 http://isk.richardsw.club:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker.kmzs123.com:80/announce
 udp://tracker1.myporn.club:9337/announce
-udp://open.publictracker.xyz:6969/announce
 udp://open.u-p.pw:6969/announce
+udp://open.publictracker.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 udp://tracker.vds.nz:6969/announce
