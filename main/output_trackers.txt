@@ -168,8 +168,8 @@ http://t1.aag.moe:17715/announce
 udp://tk1.trackerservers.com:8080/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://tracker.kmzs123.cf:17272/announce
-udp://tracker.xor.st:6969/announce
 http://tracker.auctor.tv:6969/announce
+udp://tracker.xor.st:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://t.overflow.biz:6969/announce
 udp://open.dstud.io:6969/announce
@@ -186,18 +186,18 @@ udp://open.publictracker.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 udp://tracker.vds.nz:6969/announce
-https://tracker.cangku.moe:443/announce
 udp://ryjer.com:6969/announce
+https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
-udp://open.tracker.cl:1337/announce
 http://tracker.1048576.cn:17272/announce
+udp://open.tracker.cl:1337/announce
 http://wg.mortis.me:6969/announce
 udp://www.2600.com:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://epider.me:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-https://tracker.kmzs123.top:443/announce
 http://cn.pcfreetime.com:6969/announce
+https://tracker.kmzs123.top:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://free.publictracker.xyz:6969/announce
 https://tracker.moeblog.cn:443/announce
@@ -310,7 +310,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 http://p2p.0g.cx:6969/announce
 udp://freedom.1776.ga:6969/announce
 http://v6-tracker.0g.cx:6969/announce
-udp://bt.letpo.com:6969/announce
 http://bt1.letpo.com:80/announce
 https://tracker.mlsub.net:443/announce
 http://montreal.nyap2p.com:8080/announce
@@ -1173,6 +1172,7 @@ udp://ipv4.tracker.harry.lu/announce
 udp://open.stealth.si/announce
 udp://ipv6.tracker.harry.lu/announce
 http://1337.abcvg.info/announce+108
+udp://bt.letpo.com:6969/announce
 http://0123456789nonexistent.com/announce
 http://ehtracker.org/1113709/announce
 http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
