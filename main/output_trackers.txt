@@ -161,15 +161,15 @@ udp://tk1.trackerservers.com:8080/announce
 http://tracker.enitin.xyz:80/announce
 http://tracker.auctor.tv:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
-udp://tracker.kmzs123.cf:17272/announce
 udp://tracker.kmzs123.tk:17272/announce
+udp://tracker.kmzs123.cf:17272/announce
 http://t1.aag.moe:17715/announce
 http://tracker.kmzs123.com:80/announce
 udp://t.overflow.biz:6969/announce
 https://trackers.run:443/announce
 udp://tracker.xor.st:6969/announce
-udp://amigacity.xyz:6969/announce
 http://tr1.aag.moe:2095/announce
+udp://amigacity.xyz:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
@@ -185,8 +185,8 @@ http://mc.itscraftsoftware.my.id:8804/announce
 udp://tracker.vds.nz:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://ryjer.com:6969/announce
-https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
+https://tracker.cangku.moe:443/announce
 https://tracker.kmzs123.top:443/announce
 http://wg.mortis.me:6969/announce
 udp://www.2600.com:6969/announce
