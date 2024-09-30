@@ -454,13 +454,21 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://evan.im:6969/announce
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 udp://tracker.waaa.moe:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -471,6 +479,8 @@ https://tracker.lilithraws.org:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://evan.im:6969/announce
 
 http://jvavav.com:80/announce
 
@@ -530,19 +540,17 @@ udp://tracker.dler.com:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://bt2.archive.org:6969/announce
-
 http://tracker.k.vu:6969/announce
 
-https://tracker.yemekyedim.com:443/announce
+udp://bt2.archive.org:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tracker.cloudit.top:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://opentracker.io:6969/announce
 
@@ -552,53 +560,53 @@ udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://p4p.arenabg.com:1337/announce
-
 udp://run.publictracker.xyz:6969/announce
-
-http://tracker.renfei.net:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+http://tracker.renfei.net:8080/announce
+
 https://tracker1.520.jp:443/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
+https://p4p.arenabg.com:1337/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-https://threads.canofsocks.com:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
+udp://d13bttrck.duckdns.org:6969/announce
+
 udp://1c.premierzal.ru:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-udp://jutone.com:6969/announce
+https://threads.canofsocks.com:443/announce
 
-udp://tk1.trackerservers.com:8080/announce
+udp://jutone.com:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-https://api.ipv4online.uk:443/announce
+udp://tk1.trackerservers.com:8080/announce
 
 http://tr1.aag.moe:2095/announce
+
+https://api.ipv4online.uk:443/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://www.peckservers.com:9000/announce
+udp://tracker.kmzs123.com:17272/announce
+
+https://mathkangaroo.jp:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.kmzs123.com:17272/announce
+https://www.peckservers.com:9000/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -608,13 +616,13 @@ udp://wepzone.net:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 http://ch3oh.ru:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -634,17 +642,17 @@ udp://new-line.net:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-https://trackers.run:443/announce
-
 udp://tracker.ccp.ovh:6969/announce
+
+https://trackers.run:443/announce
 
 http://tracker.vraphim.com:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://ismaarino.com:1234/announce
+
+udp://amigacity.xyz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -676,9 +684,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.ismaarino.com:8880/announce
-
 udp://ns1.monolithindustries.com:6969/announce
+
+http://tracker.ismaarino.com:8880/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -700,9 +708,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 udp://tracker.1048576.cn:17272/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -720,9 +728,9 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 udp://ftp.pet:2710/announce
 
-udp://open.tracker.cl:1337/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://open.tracker.cl:1337/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1250,13 +1258,21 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://evan.im:6969/announce
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 udp://tracker.waaa.moe:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+http://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -1267,6 +1283,8 @@ https://tracker.lilithraws.org:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://evan.im:6969/announce
 
 http://jvavav.com:80/announce
 
@@ -1326,19 +1344,17 @@ udp://tracker.dler.com:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://bt2.archive.org:6969/announce
-
 http://tracker.k.vu:6969/announce
 
-https://tracker.yemekyedim.com:443/announce
+udp://bt2.archive.org:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tracker.cloudit.top:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://opentracker.io:6969/announce
 
@@ -1348,13 +1364,11 @@ udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://p4p.arenabg.com:1337/announce
-
 udp://run.publictracker.xyz:6969/announce
 
-http://tracker.renfei.net:8080/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://tracker.renfei.net:8080/announce
 
 https://tracker1.520.jp:443/announce
 
