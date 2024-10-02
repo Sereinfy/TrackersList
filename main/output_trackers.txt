@@ -181,10 +181,10 @@ http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://t.acg.rip:6699/announce
 https://tracker.cangku.moe:443/announce
-udp://open.publictracker.xyz:6969/announce
 http://smurfsoft.com:6969/announce
-http://mc.itscraftsoftware.my.id:8804/announce
+udp://open.publictracker.xyz:6969/announce
 http://wg.mortis.me:6969/announce
+http://mc.itscraftsoftware.my.id:8804/announce
 udp://www.2600.com:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.ismaarino.com:8880/announce
@@ -196,8 +196,8 @@ http://open.tracker.ink:6969/announce
 https://tracker.imgoingto.icu:443/announce
 udp://tracker.1048576.cn:17272/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
-udp://tracker.kmzs123.top:17272/announce
 udp://ftp.pet:2710/announce
+udp://tracker.kmzs123.top:17272/announce
 http://tracker.skyts.net:6969/announce
 http://0205.uptm.ch:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
