@@ -454,8 +454,6 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://open.stealth.si:80/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://z.mercax.com:53/announce
@@ -481,6 +479,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -550,9 +550,9 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.filemail.com:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -570,19 +570,19 @@ http://open.acgtracker.com:1096/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://opentracker.io:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://opentracker.io:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://tracker.kmzs123.cf:17272/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.renfei.net:8080/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -594,9 +594,9 @@ udp://jutone.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
@@ -608,17 +608,17 @@ https://threads.canofsocks.com:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://tracker.gigantino.net:6969/announce
 
+udp://1c.premierzal.ru:6969/announce
+
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://open.dstud.io:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.kmzs123.com:17272/announce
 
@@ -724,9 +724,9 @@ udp://free.publictracker.xyz:6969/announce
 
 http://tracker.ismaarino.com:8880/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://freedomalternative.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -740,9 +740,9 @@ https://tracker.imgoingto.icu:443/announce
 
 udp://tracker.1048576.cn:17272/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 udp://open.xxtor.com:3074/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 udp://ftp.pet:2710/announce
 
@@ -1258,8 +1258,6 @@ udp://tracker.kmzs123.top:17272/announce
 
 udp://open.stealth.si:80/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://z.mercax.com:53/announce
@@ -1285,6 +1283,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -1354,9 +1354,9 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.filemail.com:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -1374,19 +1374,19 @@ http://open.acgtracker.com:1096/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://opentracker.io:6969/announce
-
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://opentracker.io:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://tracker.kmzs123.cf:17272/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.renfei.net:8080/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 http://tr1.aag.moe:2095/announce
 
