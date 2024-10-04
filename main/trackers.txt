@@ -574,21 +574,21 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://retracker.x2k.ru:443/announce
-
 http://tracker.k.vu:6969/announce
+
+https://retracker.x2k.ru:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
 https://tracker.cloudit.top:443/announce
 
 http://open.acgtracker.com:1096/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -598,21 +598,21 @@ http://tr1.aag.moe:2095/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
+udp://tracker.kmzs123.tk:17272/announce
+
 udp://jutone.com:6969/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -644,9 +644,9 @@ http://tracker.mywaifu.best:6969/announce
 
 https://www.peckservers.com:9443/announce
 
-udp://wepzone.net:6969/announce
-
 http://ch3oh.ru:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -654,13 +654,13 @@ udp://t.overflow.biz:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
+https://mathkangaroo.jp:443/announce
 
 https://api.ipv4online.uk:443/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
@@ -686,11 +686,11 @@ udp://tracker.ccp.ovh:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 https://trackers.run:443/announce
 
@@ -700,23 +700,23 @@ udp://amigacity.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://tamas3.ynh.fr:6969/announce
+udp://open.xxtor.com:3074/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 
-udp://open.xxtor.com:3074/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://tracker.vds.nz:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -975,8 +975,6 @@ udp://chihaya.de:6969/announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
-
-udp://tracker.yangxiaoguozi.cn:6969/announce
 
 https://tracker.jiesen.life:8443/announce
 
@@ -1380,21 +1378,21 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://retracker.x2k.ru:443/announce
-
 http://tracker.k.vu:6969/announce
+
+https://retracker.x2k.ru:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
 https://tracker.cloudit.top:443/announce
 
 http://open.acgtracker.com:1096/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -1404,17 +1402,19 @@ http://tr1.aag.moe:2095/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
+udp://tracker.kmzs123.tk:17272/announce
+
 udp://jutone.com:6969/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
 udp://u4.trakx.crim.ist:1337/announce
+
+https://tr2.trkb.ru:443/announce
 
 http://1337.abcvg.info:80/announce
 
