@@ -152,11 +152,11 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.enitin.xyz:80/announce
+https://tracker.uraniumhexafluori.de:443/announce
 https://threads.canofsocks.com:443/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 udp://ismaarino.com:1234/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.bjut.jp:443/announce
 udp://t.overflow.biz:6969/announce
 https://mathkangaroo.jp:443/announce
@@ -178,8 +178,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker.theoks.net:6969/announce
 http://smurfsoft.com:6969/announce
-udp://tamas3.ynh.fr:6969/announce
 http://canardscitrons.nohost.me:6969/announce
+udp://tamas3.ynh.fr:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
