@@ -177,8 +177,8 @@ udp://tracker.kmzs123.com:17272/announce
 udp://open.u-p.pw:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 https://trackers.run:443/announce
-http://smurfsoft.com:6969/announce
 https://tracker.cangku.moe:443/announce
+http://smurfsoft.com:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://tracker.theoks.net:6969/announce
 udp://amigacity.xyz:6969/announce
@@ -196,8 +196,8 @@ http://wg.mortis.me:6969/announce
 http://open.tracker.ink:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://tracker.ismaarino.com:8880/announce
-http://mc.itscraftsoftware.my.id:8804/announce
 https://tracker.imgoingto.icu:443/announce
+http://mc.itscraftsoftware.my.id:8804/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://ftp.pet:2710/announce
 udp://freedomalternative.com:6969/announce
