@@ -181,11 +181,11 @@ http://tracker.vraphim.com:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://bt1.archive.org:6969/announce
-http://cn.pcfreetime.com:6969/announce
 http://tracker.enitin.xyz:80/announce
+http://cn.pcfreetime.com:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://tracker.kmzs123.tk:17272/announce
 https://tracker.cangku.moe:443/announce
+udp://tracker.kmzs123.tk:17272/announce
 http://tracker.k.vu:6969/announce
 http://t1.aag.moe:17715/announce
 http://jvavav.com:80/announce
