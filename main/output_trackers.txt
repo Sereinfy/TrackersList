@@ -172,8 +172,8 @@ https://api.ipv4online.uk:443/announce
 https://mathkangaroo.jp:443/announce
 udp://tk2.trackerservers.com:8080/announce
 https://threads.canofsocks.com:443/announce
-udp://tracker.home.kmzs123.cn:17272/announce
 udp://t.overflow.biz:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 udp://ismaarino.com:1234/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.vds.nz:6969/announce
@@ -184,8 +184,8 @@ http://tracker.vraphim.com:6969/announce
 udp://new-line.net:6969/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://bt2.archive.org:6969/announce
-udp://bt1.archive.org:6969/announce
 http://tracker.enitin.xyz:80/announce
+udp://bt1.archive.org:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 http://cn.pcfreetime.com:6969/announce
@@ -194,8 +194,8 @@ http://tracker.k.vu:6969/announce
 http://jvavav.com:80/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://tracker.farted.net:6969/announce
-https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
+https://tracker.cangku.moe:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker.kmzs123.tk:17272/announce
 http://tracker.ipv6tracker.ru:80/announce
