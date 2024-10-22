@@ -155,6 +155,8 @@ http://tracker.edkj.club:6969/announce
 http://t.overflow.biz:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker1.itzmx.com:8080/announce
+udp://tr3.ysagin.top:2715/announce
+https://tracker.jobser.eu:443/announce
 udp://d13bttrck.duckdns.org:6969/announce
 http://tracker.bittor.pw:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -175,12 +177,12 @@ udp://cq.kmzs123.cn:17272/announce
 http://rfc5746.mywaifu.best:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
-udp://new-line.net:6969/announce
 http://tracker.enitin.xyz:80/announce
+udp://new-line.net:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://bt2.archive.org:6969/announce
-udp://bt1.archive.org:6969/announce
 udp://open.u-p.pw:6969/announce
+udp://bt1.archive.org:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 http://t1.aag.moe:17715/announce
