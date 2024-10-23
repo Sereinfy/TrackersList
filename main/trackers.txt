@@ -556,29 +556,29 @@ udp://tracker.filemail.com:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 http://bvarf.tracker.sh:2086/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.darkness.services:6969/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker-zhuqiy.dgj055.icu:80/announce
+
 http://tr1.aag.moe:2095/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 https://tracker.cloudit.top:443/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -612,13 +612,13 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tk2.trackerservers.com:8080/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -632,9 +632,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -650,9 +650,9 @@ udp://open.dstud.io:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-http://tracker.files.fm:6969/announce
-
 udp://ryjer.com:6969/announce
+
+http://tracker.files.fm:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -678,9 +678,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://new-line.net:6969/announce
-
 https://tracker.jobser.eu:443/announce
+
+udp://new-line.net:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -700,9 +700,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -730,9 +730,9 @@ http://tracker.k.vu:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -1356,29 +1356,29 @@ udp://tracker.filemail.com:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 http://bvarf.tracker.sh:2086/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.darkness.services:6969/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker-zhuqiy.dgj055.icu:80/announce
+
 http://tr1.aag.moe:2095/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 https://tracker.cloudit.top:443/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
