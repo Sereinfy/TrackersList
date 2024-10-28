@@ -556,9 +556,9 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -566,9 +566,9 @@ http://tracker.renfei.net:8080/announce
 
 udp://opentracker.io:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -576,17 +576,17 @@ udp://tracker.xor.st:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://tracker.pmman.tech:443/announce
 
-udp://tracker.waaa.moe:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -604,9 +604,9 @@ https://tr2.trkb.ru:443/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -640,9 +640,9 @@ udp://wepzone.net:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 udp://ryjer.com:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -690,9 +690,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker.cloaka.xyz:1337/announce
 
-udp://new-line.net:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://new-line.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -1344,9 +1344,9 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tracker.cloudit.top:443/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -1354,9 +1354,9 @@ http://tracker.renfei.net:8080/announce
 
 udp://opentracker.io:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://jutone.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -1364,11 +1364,9 @@ udp://tracker.xor.st:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://tracker.pmman.tech:443/announce
 
-udp://tracker.waaa.moe:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
