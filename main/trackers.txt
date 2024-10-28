@@ -538,15 +538,15 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://tracker.yemekyedim.com:443/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://public.tracker.vraphim.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -586,15 +586,15 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
+http://tracker.vraphim.com:6969/announce
+
 udp://tracker.torrust-demo.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://tracker.vraphim.com:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 https://retracker.x2k.ru:443/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -604,23 +604,23 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 http://open.acgtracker.com:1096/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tracker.xor.st:6969/announce
+https://tr2.trkb.ru:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tracker.waaa.moe:6969/announce
+udp://ismaarino.com:1234/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://ismaarino.com:1234/announce
-
 udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -630,15 +630,15 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://d13bttrck.duckdns.org:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -654,9 +654,9 @@ udp://ryjer.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -678,13 +678,11 @@ http://tracker.files.fm:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+http://smurfsoft.com:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -692,13 +690,15 @@ udp://tracker.theoks.net:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-https://tracker.jobser.eu:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://tracker.vds.nz:6969/announce
+https://tracker.jobser.eu:443/announce
 
 udp://new-line.net:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -718,9 +718,9 @@ udp://bt2.archive.org:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://bt1.archive.org:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -728,9 +728,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -1326,15 +1326,15 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 https://tracker.yemekyedim.com:443/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://public.tracker.vraphim.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -1374,11 +1374,11 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
+http://tracker.vraphim.com:6969/announce
+
 udp://tracker.torrust-demo.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
-
-http://tracker.vraphim.com:6969/announce
 
 http://1337.abcvg.info:80/announce
 
