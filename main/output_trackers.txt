@@ -157,8 +157,8 @@ udp://u6.trakx.crim.ist:1337/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
-https://mathkangaroo.jp:443/announce
 udp://tracker.torrust-demo.com:6969/announce
+https://mathkangaroo.jp:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tk2.trackerservers.com:8080/announce
@@ -169,8 +169,8 @@ https://retracker.x2k.ru:443/announce
 http://tracker.bittor.pw:1337/announce
 udp://d13bttrck.duckdns.org:6969/announce
 https://tr2.trkb.ru:443/announce
-udp://tracker.waaa.moe:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker.waaa.moe:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.xor.st:6969/announce
 udp://cq.kmzs123.cn:17272/announce
@@ -182,8 +182,8 @@ http://tracker.files.fm:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://smurfsoft.com:6969/announce
 http://t.acg.rip:6699/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://tracker.cangku.moe:443/announce
 https://tracker.jobser.eu:443/announce
 udp://new-line.net:6969/announce
 http://open.tracker.ink:6969/announce

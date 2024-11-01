@@ -564,9 +564,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -584,11 +584,11 @@ http://tr1.aag.moe:2095/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.gigantino.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -614,9 +614,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://mathkangaroo.jp:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -632,9 +632,9 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://open.dstud.io:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -654,9 +654,9 @@ https://tr2.trkb.ru:443/announce
 
 http://ch3oh.ru:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 http://canardscitrons.nohost.me:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://wepzone.net:6969/announce
 
@@ -664,27 +664,25 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
+udp://tracker.waaa.moe:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://ryjer.com:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
 http://rfc5746.mywaifu.best:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -693,6 +691,8 @@ udp://tracker.edkj.club:6969/announce
 udp://amigacity.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -716,9 +716,9 @@ udp://tracker1.myporn.club:9337/announce
 
 http://t.acg.rip:6699/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.jobser.eu:443/announce
 
@@ -1356,9 +1356,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://ismaarino.com:1234/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -1376,11 +1376,11 @@ http://tr1.aag.moe:2095/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.gigantino.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.darkness.services:6969/announce
 
