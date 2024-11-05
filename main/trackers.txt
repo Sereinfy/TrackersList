@@ -726,8 +726,6 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
 https://tracker.leechshield.link:443/announce
@@ -750,7 +748,7 @@ https://www.peckservers.com:9443/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+udp://bandito.byterunner.io:6969/announce
 
 https://p2p.azu.red:443/announce
 
@@ -763,6 +761,8 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -780,6 +780,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://saltwood.top:6969/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -787,8 +789,6 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker1.itzmx.com:8080/announce
 
 udp://retracker.lanta.me:2710/announce
-
-http://canardscitrons.nohost.me:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -802,29 +802,29 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://opentracker.io:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tracker4.leechshield.link:6969/announce
+udp://opentracker.io:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://jutone.com:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
+
+udp://api.clasificadosrapidos.com:53/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://open.dstud.io:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
+udp://jutone.com:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -842,9 +842,9 @@ udp://tracker.darkness.services:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -852,19 +852,19 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://amigacity.xyz:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.bittor.pw:1337/announce
-
-udp://amigacity.xyz:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -882,9 +882,9 @@ udp://open.tracker.cl:1337/announce
 
 udp://wepzone.net:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://tracker1.520.jp:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -892,11 +892,11 @@ udp://tracker.ccp.ovh:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
+udp://ipv4.rer.lol:2710/announce
+
 udp://cq.kmzs123.cn:17272/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-udp://ipv4.rer.lol:2710/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -946,9 +946,9 @@ https://tracker.jobser.eu:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 http://smurfsoft.com:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -962,11 +962,11 @@ udp://freedomalternative.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+udp://tracker.vds.nz:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1518,8 +1518,6 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
 https://tracker.leechshield.link:443/announce
@@ -1542,7 +1540,7 @@ https://www.peckservers.com:9443/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+udp://bandito.byterunner.io:6969/announce
 
 https://p2p.azu.red:443/announce
 
@@ -1555,6 +1553,8 @@ udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -1572,6 +1572,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://saltwood.top:6969/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -1579,8 +1581,6 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker1.itzmx.com:8080/announce
 
 udp://retracker.lanta.me:2710/announce
-
-http://canardscitrons.nohost.me:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -1594,29 +1594,29 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://opentracker.io:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
 
-udp://tracker4.leechshield.link:6969/announce
+udp://opentracker.io:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://jutone.com:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
+
+udp://api.clasificadosrapidos.com:53/announce
+
+udp://tracker4.leechshield.link:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://open.dstud.io:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
+udp://jutone.com:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
+http://kiryuu-test.mywaifu.best:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
