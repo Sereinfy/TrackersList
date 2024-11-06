@@ -206,8 +206,8 @@ http://rfc5746.mywaifu.best:6969/announce
 udp://explodie.org:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-https://tracker.bjut.jp:443/announce
 udp://tr3.ysagin.top:2715/announce
+https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
 udp://bt.rer.lol:6969/announce
 udp://tk2.trackerservers.com:8080/announce
@@ -225,8 +225,8 @@ udp://tracker.xor.st:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://t.acg.rip:6699/announce
-http://tracker.files.fm:6969/announce
 http://open.tracker.ink:6969/announce
+http://tracker.files.fm:6969/announce
 udp://yahor.of.by:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -332,7 +332,6 @@ udp://open-tracker.demonoid.ch:6969/announce
 http://p2p.0g.cx:6969/announce
 udp://freedom.1776.ga:6969/announce
 http://v6-tracker.0g.cx:6969/announce
-https://tracker.mlsub.net:443/announce
 http://montreal.nyap2p.com:8080/announce
 http://tracker.aibt.xyz:900/announce
 udp://chihaya.de:6969/announce
@@ -1086,6 +1085,7 @@ http://171.104.110.21:6969/announce
 https://tracker.pterclub.com/announce
 http://tracker.btzero.net:8080/announce
 wss://tracker.files.fm:7073/announce
+https://tracker.mlsub.net:443/announce
 http://bt1.letpo.com:80/announce
 http://tracker.bz/announce
 udp://tracker-udp.anirena.com:80/announce
