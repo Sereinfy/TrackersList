@@ -668,17 +668,19 @@ http://public.tracker.vraphim.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://ismaarino.com:1234/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://bt.okmp3.ru:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -688,11 +690,9 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://open.dstud.io:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -704,9 +704,9 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 http://saltwood.top:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -726,11 +726,11 @@ udp://opentracker.io:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://tr1.aag.moe:2095/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://tracker.qu.ax:6969/announce
+http://tr1.aag.moe:2095/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -782,11 +782,11 @@ http://tracker.bittor.pw:1337/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 https://tr2.trkb.ru:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -798,9 +798,9 @@ udp://open.tracker.cl:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tracker.edkj.club:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -812,15 +812,15 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://tracker.ipfsscan.io:443/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
-https://pybittrack.retiolus.net:443/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -830,9 +830,9 @@ http://rfc5746.mywaifu.best:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 udp://ryjer.com:6969/announce
 
@@ -864,9 +864,9 @@ https://1337.abcvg.info:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-https://tracker.jobser.eu:443/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+https://tracker.jobser.eu:443/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -1462,17 +1462,19 @@ http://public.tracker.vraphim.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://ismaarino.com:1234/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://bt.okmp3.ru:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -1482,11 +1484,9 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://open.dstud.io:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -1498,9 +1498,9 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://retracker.lanta.me:2710/announce
-
 http://saltwood.top:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -1520,11 +1520,11 @@ udp://opentracker.io:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://tr1.aag.moe:2095/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://tracker.qu.ax:6969/announce
+http://tr1.aag.moe:2095/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
