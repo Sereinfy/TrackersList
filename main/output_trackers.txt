@@ -206,11 +206,11 @@ https://tr2.trkb.ru:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://d13bttrck.duckdns.org:6969/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://pybittrack.retiolus.net:443/announce
-udp://tr3.ysagin.top:2715/announce
-udp://tracker.birkenwald.de:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://cq.kmzs123.cn:17272/announce
+udp://tracker.birkenwald.de:6969/announce
+udp://tr3.ysagin.top:2715/announce
 udp://tracker.ccp.ovh:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tk1v6.trackerservers.com:8080/announce
@@ -228,8 +228,8 @@ http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://free.publictracker.xyz:6969/announce
-https://tracker.jobser.eu:443/announce
 udp://tracker.iperson.xyz:6969/announce
+https://tracker.jobser.eu:443/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 http://tracker.files.fm:6969/announce
@@ -237,8 +237,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
-http://region.nl1.privex.cc:6969/announce
 udp://tracker.netmap.top:6969/announce
+http://region.nl1.privex.cc:6969/announce
 https://p4p.arenabg.com:1337/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
