@@ -198,9 +198,9 @@ http://tracker1.itzmx.com:8080/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://bt.rer.lol:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://tk2.trackerservers.com:8080/announce
 https://tracker.uraniumhexafluori.de:443/announce
-udp://7p41a8967.wicp.vip:22222/announce
 https://retracker.x2k.ru:443/announce
 https://threads.canofsocks.com:443/announce
 https://tr2.trkb.ru:443/announce
@@ -212,8 +212,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://tr3.ysagin.top:2715/announce
 http://tracker.enitin.xyz:80/announce
-udp://tracker.ccp.ovh:6969/announce
 https://tracker.cangku.moe:443/announce
+udp://tracker.ccp.ovh:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://ryjer.com:6969/announce
 udp://tracker.theoks.net:6969/announce
