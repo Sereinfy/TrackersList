@@ -197,12 +197,12 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker1.itzmx.com:8080/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://tracker.vraphim.com:6969/announce
-udp://bt.rer.lol:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
+udp://bt.rer.lol:6969/announce
 udp://tk2.trackerservers.com:8080/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://retracker.x2k.ru:443/announce
 https://threads.canofsocks.com:443/announce
+https://tracker.uraniumhexafluori.de:443/announce
 https://tr2.trkb.ru:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -211,8 +211,8 @@ udp://d13bttrck.duckdns.org:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://tr3.ysagin.top:2715/announce
-http://tracker.enitin.xyz:80/announce
 https://tracker.cangku.moe:443/announce
+http://tracker.enitin.xyz:80/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://ryjer.com:6969/announce
@@ -222,8 +222,8 @@ udp://api.clasificadosrapidos.com:53/announce
 udp://tracker.waaa.moe:6969/announce
 udp://open.u-p.pw:6969/announce
 http://t.acg.rip:6699/announce
-udp://tracker.xor.st:6969/announce
 http://open.tracker.ink:6969/announce
+udp://tracker.xor.st:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
