@@ -730,8 +730,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -739,6 +737,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -754,23 +754,23 @@ http://saltwood.top:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-http://canardscitrons.nohost.me:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://canardscitrons.nohost.me:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
+
+http://tracker.renfei.net:8080/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -802,9 +802,9 @@ udp://tracker.darkness.services:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://tr1.aag.moe:2095/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+http://tr1.aag.moe:2095/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -840,9 +840,9 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -850,11 +850,11 @@ https://tracker.uraniumhexafluori.de:443/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-https://tracker1.520.jp:443/announce
+https://tracker.cangku.moe:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-https://tracker.cangku.moe:443/announce
+https://tracker1.520.jp:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -894,17 +894,17 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
+udp://api.clasificadosrapidos.com:53/announce
+
 udp://tracker.waaa.moe:6969/announce
 
-udp://tracker.xor.st:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -1522,8 +1522,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -1531,6 +1529,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -1546,23 +1546,23 @@ http://saltwood.top:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-http://canardscitrons.nohost.me:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://canardscitrons.nohost.me:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
+
+http://tracker.renfei.net:8080/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1583,8 +1583,6 @@ udp://jutone.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
-
-udp://7p41a8967.wicp.vip:22222/announce
 
 http://0123456789nonexistent.com:80/announce
 
