@@ -215,8 +215,8 @@ udp://d13bttrck.duckdns.org:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
-https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.enitin.xyz:80/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tr3.ysagin.top:2715/announce
 http://rfc5746.mywaifu.best:6969/announce
