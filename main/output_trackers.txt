@@ -233,8 +233,8 @@ http://tracker.skyts.net:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
-https://tracker.jobser.eu:443/announce
 udp://ftp.pet:2710/announce
+https://tracker.jobser.eu:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.netmap.top:6969/announce
