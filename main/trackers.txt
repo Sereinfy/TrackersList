@@ -702,13 +702,13 @@ udp://tracker.gmi.gd:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -738,9 +738,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 https://api.ipv4online.uk:443/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -752,13 +752,13 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://tracker.bittor.pw:1337/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://open.acgtracker.com:1096/announce
 
 udp://jutone.com:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -786,9 +786,9 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://tracker3.itzmx.com:6961/announce
+
+udp://moonburrow.club:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -805,8 +805,6 @@ http://ch3oh.ru:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://canardscitrons.nohost.me:6969/announce
-
-udp://ipv4.rer.lol:2710/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -838,9 +836,9 @@ http://tracker.enitin.xyz:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -1490,13 +1488,13 @@ udp://tracker.gmi.gd:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -1526,9 +1524,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://ipv6.rer.lol:6969/announce
-
 https://api.ipv4online.uk:443/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -1540,9 +1538,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://tracker.bittor.pw:1337/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://0d.kebhana.mx:443/announce
 
