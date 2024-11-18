@@ -220,11 +220,11 @@ udp://tracker.iperson.xyz:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://tracker.ccp.ovh:6969/announce
 udp://tracker.kmzs123.cf:17272/announce
+udp://tracker.ccp.ovh:6969/announce
 http://t.acg.rip:6699/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 http://open.tracker.ink:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 udp://ryjer.com:6969/announce
 udp://tr3.ysagin.top:2715/announce
 udp://open.u-p.pw:6969/announce
