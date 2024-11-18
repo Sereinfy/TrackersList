@@ -672,8 +672,6 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://ipv4.rer.lol:2710/announce
-
 udp://exodus.desync.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -768,6 +766,8 @@ http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
+http://ipv4.rer.lol:2710/announce
+
 udp://retracker.lanta.me:2710/announce
 
 https://api.ipv4online.uk:443/announce
@@ -824,8 +824,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://open.tracker.cl:1337/announce
 
 udp://moonburrow.club:6969/announce
@@ -833,6 +831,8 @@ udp://moonburrow.club:6969/announce
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker4.leechshield.link:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tk4.leechshield.link:6969/announce
 
@@ -860,9 +860,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -880,21 +880,21 @@ udp://yahor.of.by:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
 http://t.acg.rip:6699/announce
 
+http://wegkxfcivgx.ydns.eu:80/announce
+
 http://open.tracker.ink:6969/announce
 
 udp://ryjer.com:6969/announce
-
-http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -908,9 +908,9 @@ udp://free.publictracker.xyz:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://tracker.netmap.top:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.netmap.top:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1458,8 +1458,6 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://ipv4.rer.lol:2710/announce
-
 udp://exodus.desync.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -1553,6 +1551,8 @@ udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
 
 https://tracker.cloudit.top:443/announce
+
+http://ipv4.rer.lol:2710/announce
 
 udp://retracker.lanta.me:2710/announce
 
