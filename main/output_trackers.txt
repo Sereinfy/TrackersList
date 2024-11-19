@@ -228,9 +228,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://ryjer.com:6969/announce
 udp://open.u-p.pw:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+http://tracker.skyts.net:6969/announce
 udp://tr3.ysagin.top:2715/announce
 udp://free.publictracker.xyz:6969/announce
-http://tracker.skyts.net:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://ftp.pet:2710/announce
 udp://freedomalternative.com:6969/announce
