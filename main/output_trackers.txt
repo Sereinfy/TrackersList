@@ -199,11 +199,11 @@ udp://tracker.kmzs123.cn:17272/announce
 udp://tk2.trackerservers.com:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://threads.canofsocks.com:443/announce
-udp://7p41a8967.wicp.vip:22222/announce
-http://ipv6.rer.lol:6969/announce
 https://tr2.trkb.ru:443/announce
-http://ipv4.rer.lol:2710/announce
+http://ipv6.rer.lol:6969/announce
 https://retracker.x2k.ru:443/announce
+http://ipv4.rer.lol:2710/announce
+udp://7p41a8967.wicp.vip:22222/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
 udp://moonburrow.club:6969/announce
@@ -220,8 +220,8 @@ udp://d13bttrck.duckdns.org:6969/announce
 https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
 http://open.tracker.ink:6969/announce
-udp://tracker.ccp.ovh:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://tracker.ccp.ovh:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://free.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -230,13 +230,13 @@ udp://tracker.netmap.top:6969/announce
 udp://ftp.pet:2710/announce
 udp://freedomalternative.com:6969/announce
 udp://tk4.leechshield.link:6969/announce
-udp://tracker4.leechshield.link:6969/announce
 http://cn.pcfreetime.com:6969/announce
+udp://tracker4.leechshield.link:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
-udp://tr3.ysagin.top:2715/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
 http://region.nl1.privex.cc:6969/announce
+udp://tr3.ysagin.top:2715/announce
 https://p4p.arenabg.com:1337/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -334,7 +334,6 @@ https://tracker.jiesen.life:8443/announce
 udp://tracker.trojangogogo.site:8080/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
-http://shogiroom.com:6969/announce
 udp://fleira.no:6969/announce
 udp://nullzone.fr:6969/announce
 udp://ssb14.nohost.me:6969/announce
@@ -1296,6 +1295,7 @@ http://tracker.btcake.com:80/announce
 http://www.ansktracker.net/announce.php?passkey=58fff4518e745565986d5d2d3e884841
 https://tracker.bangumi.zip/announce
 https://tracker.ipfsscan.io/announce
+http://shogiroom.com:6969/announce
 udp://107.175.221.194:6969/announce
 http://www.bitseduce.com/announce.php
 http://houniao.ddns.net:8888/announce
