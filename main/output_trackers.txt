@@ -197,8 +197,8 @@ udp://tk2.trackerservers.com:8080/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.darkness.services:6969/announce
 https://threads.canofsocks.com:443/announce
-http://ipv4.rer.lol:2710/announce
 https://tr2.trkb.ru:443/announce
+http://ipv4.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 https://retracker.x2k.ru:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -234,8 +234,8 @@ udp://freedomalternative.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://0205.uptm.ch:6969/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 http://region.nl1.privex.cc:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 https://p4p.arenabg.com:1337/announce
 http://t.nyaatracker.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce
