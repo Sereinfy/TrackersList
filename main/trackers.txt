@@ -612,6 +612,8 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.moeking.me:443/announce
 
+http://tk.leechshield.link:80/announce
+
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -621,6 +623,8 @@ http://tracker4.itzmx.com:2710/announce
 udp://open.deadorbit.nl:6969/announce
 
 https://t.213891.xyz:443/announce
+
+http://tracker.renfei.net:8080/announce
 
 udp://explodie.org:6969/announce
 
@@ -635,8 +639,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
-
-http://tk.leechshield.link:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -712,6 +714,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://saltwood.top:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -719,8 +723,6 @@ udp://tk2v6.trackerservers.com:8080/announce
 https://tracker.cloudit.top:443/announce
 
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
@@ -742,27 +744,25 @@ http://open.acgtracker.com:1096/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://jutone.com:6969/announce
+https://tracker.pmman.tech:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-https://tracker.pmman.tech:443/announce
+udp://jutone.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
-https://tracker.renfei.net:8080/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 http://ipv4.rer.lol:2710/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -808,9 +808,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -818,13 +818,13 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -840,9 +840,9 @@ udp://d13bttrck.duckdns.org:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -1400,6 +1400,8 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.moeking.me:443/announce
 
+http://tk.leechshield.link:80/announce
+
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -1409,6 +1411,8 @@ http://tracker4.itzmx.com:2710/announce
 udp://open.deadorbit.nl:6969/announce
 
 https://t.213891.xyz:443/announce
+
+http://tracker.renfei.net:8080/announce
 
 udp://explodie.org:6969/announce
 
@@ -1423,8 +1427,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
-
-http://tk.leechshield.link:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -1500,6 +1502,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://saltwood.top:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -1507,8 +1511,6 @@ udp://tk2v6.trackerservers.com:8080/announce
 https://tracker.cloudit.top:443/announce
 
 udp://tracker.kmzs123.tk:17272/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
