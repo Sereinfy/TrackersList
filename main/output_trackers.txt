@@ -206,8 +206,8 @@ udp://tracker.birkenwald.de:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://moonburrow.club:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-https://tracker.cangku.moe:443/announce
 udp://7p41a8967.wicp.vip:22222/announce
+https://tracker.cangku.moe:443/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://t.acg.rip:6699/announce
