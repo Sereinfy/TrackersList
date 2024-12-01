@@ -184,6 +184,7 @@ http://open.acgtracker.com:1096/announce
 udp://concen.org:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://u6.trakx.crim.ist:1337/announce
+http://tracker.netmap.top:6969/announce
 http://tracker.vraphim.com:6969/announce
 http://tracker2.itzmx.com:6961/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -205,8 +206,8 @@ https://www.peckservers.com:9443/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kmzs123.top:17272/announce
 https://tracker.cangku.moe:443/announce
-udp://moonburrow.club:6969/announce
 http://t.acg.rip:6699/announce
+udp://moonburrow.club:6969/announce
 http://open.tracker.ink:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.u-p.pw:6969/announce
@@ -1335,7 +1336,6 @@ http://tracker.ccc.de/announce
 http://rfc5746.mywaifu.best:6969/announce
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 http://www.shnflac.net/announce.php
-http://tracker.netmap.top:6969/announce
 https://k.avc.cx:443/announce.php
 http://torrent.nwps.ws:80/announce
 http://bt.dl1234.com/announce
