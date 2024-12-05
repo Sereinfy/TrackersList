@@ -192,8 +192,8 @@ http://tracker1.itzmx.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.enitin.xyz:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-https://threads.canofsocks.com:443/announce
 udp://tracker.valete.tf:9999/announce
+https://threads.canofsocks.com:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://tracker.home.kmzs123.cn:17272/announce
@@ -208,8 +208,8 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://tracker.jamesthebard.net:6969/announce
 https://www.peckservers.com:9443/announce
+udp://tracker.jamesthebard.net:6969/announce
 http://t.acg.rip:6699/announce
 http://open.tracker.ink:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -222,7 +222,6 @@ udp://ftp.pet:2710/announce
 http://0205.uptm.ch:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-udp://tracker.kmzs123.top:17272/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -451,6 +450,7 @@ http://mc.itscraftsoftware.my.id:8804/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://tracker.kmzs123.com:17272/announce
 udp://tracker.1048576.cn:17272/announce
+udp://tracker.kmzs123.top:17272/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.waaa.moe:6969/announce
 http://tracker.ismaarino.com:8880/announce
