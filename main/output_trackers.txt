@@ -190,8 +190,8 @@ http://tracker.enitin.xyz:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.valete.tf:9999/announce
 https://threads.canofsocks.com:443/announce
-http://ipv6.rer.lol:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+http://ipv6.rer.lol:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -200,9 +200,9 @@ http://saltwood.top:6969/announce
 udp://open.tracker.cl:1337/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://yahor.of.by:6969/announce
+http://cn.pcfreetime.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.jamesthebard.net:6969/announce
@@ -216,8 +216,8 @@ http://tracker.skyts.net:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://moonburrow.club:6969/announce
 udp://ftp.pet:2710/announce
-http://0205.uptm.ch:6969/announce
 http://tracker.guguan.000.pe:80/announce
+http://0205.uptm.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -383,7 +383,7 @@ https://tr.qfruiti.com:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://fbiagent.cyou:443/announce
 https://shahidrazi.online:443/announce
-udp://tracker.dev-null.rocks:6969/announce
+udp://tracker.dev-null.rocks:443/announce
 udp://r.l5.ca:6969/announce
 http://tracker.cubicview.site:80/announce
 udp://tk.cubicview.site:80/announce
