@@ -660,9 +660,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker.fnix.net:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -700,19 +700,19 @@ udp://tracker.filemail.com:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
+udp://serpb.vpsburti.com:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -730,11 +730,11 @@ https://mathkangaroo.jp:443/announce
 
 udp://opentracker.io:6969/announce
 
-https://retracker.x2k.ru:443/announce
-
 https://tr2.trkb.ru:443/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+https://retracker.x2k.ru:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -756,15 +756,15 @@ udp://tracker.valete.tf:9999/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://tr1.aag.moe:2095/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -802,9 +802,9 @@ https://tracker1.520.jp:443/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -842,9 +842,9 @@ http://region.nl1.privex.cc:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://ftp.pet:2710/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+udp://ftp.pet:2710/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1182,8 +1182,6 @@ https://fbiagent.cyou:443/announce
 
 https://shahidrazi.online:443/announce
 
-udp://tracker.dev-null.rocks:443/announce
-
 udp://r.l5.ca:6969/announce
 
 http://tracker.cubicview.site:80/announce
@@ -1408,9 +1406,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker.fnix.net:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1448,19 +1446,19 @@ udp://tracker.filemail.com:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
+udp://serpb.vpsburti.com:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -1478,11 +1476,11 @@ https://mathkangaroo.jp:443/announce
 
 udp://opentracker.io:6969/announce
 
-https://retracker.x2k.ru:443/announce
-
 https://tr2.trkb.ru:443/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+https://retracker.x2k.ru:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
