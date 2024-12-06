@@ -630,6 +630,8 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+https://tracker.guguan.us.kg:443/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -637,6 +639,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -660,11 +664,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://retracker.lanta.me:2710/announce
 
 udp://explodie.org:6969/announce
-
-udp://retracker.lanta.me:2710/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -704,17 +706,17 @@ udp://www.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
+udp://serpb.vpsburti.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -738,9 +740,9 @@ https://retracker.x2k.ru:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+udp://open.dstud.io:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -760,13 +762,13 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker.mywaifu.best:6969/announce
+udp://tracker.darkness.services:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -800,9 +802,9 @@ http://cn.pcfreetime.com:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://yahor.of.by:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://yahor.of.by:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -822,9 +824,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 http://t.acg.rip:6699/announce
+
+https://www.peckservers.com:9443/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -840,9 +842,9 @@ http://tracker.skyts.net:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
-udp://moonburrow.club:6969/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://ftp.pet:2710/announce
 
@@ -1069,8 +1071,6 @@ http://wg.mortis.me:6969/announce
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://llideong.cn:6969/announce
-
-http://unknownsite.de:6969/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
 
@@ -1376,6 +1376,8 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+https://tracker.guguan.us.kg:443/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -1383,6 +1385,8 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -1406,11 +1410,9 @@ http://tracker.bt4g.com:2095/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://retracker.lanta.me:2710/announce
 
 udp://explodie.org:6969/announce
-
-udp://retracker.lanta.me:2710/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -1450,17 +1452,17 @@ udp://www.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
+udp://serpb.vpsburti.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -1483,8 +1485,6 @@ udp://tracker.cyberia.is:6969/announce
 https://retracker.x2k.ru:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
