@@ -194,15 +194,15 @@ http://tracker.enitin.xyz:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
-udp://7p41a8967.wicp.vip:22222/announce
 http://ipv6.rer.lol:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
+http://cn.pcfreetime.com:6969/announce
 http://saltwood.top:6969/announce
 udp://open.tracker.cl:1337/announce
-http://cn.pcfreetime.com:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://yahor.of.by:6969/announce
@@ -215,8 +215,8 @@ https://tracker.guguan.us.kg:443/announce
 http://t.acg.rip:6699/announce
 udp://tracker.jamesthebard.net:6969/announce
 https://www.peckservers.com:9443/announce
-http://open.tracker.ink:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+http://open.tracker.ink:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://free.publictracker.xyz:6969/announce
 http://tracker.skyts.net:6969/announce
