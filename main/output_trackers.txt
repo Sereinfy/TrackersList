@@ -148,8 +148,6 @@ udp://z.mercax.com:53/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-udp://leet-tracker.moe:1337/announce
-udp://isk.richardsw.club:6969/announce
 http://www.torrentsnipe.info:2701/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.vanitycore.co:6969/announce
@@ -174,9 +172,6 @@ http://bt.poletracker.org:2710/announce
 http://0d.kebhana.mx:443/announce
 http://0123456789nonexistent.com:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
-udp://bt.ktrackers.com:6666/announce
-udp://tracker.torrust-demo.com:6969/announce
-udp://tracker.edkj.club:6969/announce
 http://tracker2.dler.org:80/announce
 http://tracker.dler.com:6969/announce
 http://open.acgtracker.com:1096/announce
@@ -190,11 +185,12 @@ udp://tracker.home.kmzs123.cn:17272/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
-https://pybittrack.retiolus.net:443/announce
 udp://tracker-udp.gbitt.info:80/announce
+https://pybittrack.retiolus.net:443/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tracker.darkness.services:6969/announce
 http://cn.pcfreetime.com:6969/announce
+udp://tracker.edkj.club:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 https://tracker.guguan.us.kg:443/announce
@@ -202,7 +198,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://open.tracker.cl:1337/announce
 http://saltwood.top:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.torrust-demo.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://bt.ktrackers.com:6666/announce
 https://tracker.cangku.moe:443/announce
 udp://run.publictracker.xyz:6969/announce
 udp://yahor.of.by:6969/announce
@@ -211,8 +209,8 @@ http://t.acg.rip:6699/announce
 udp://tr3.ysagin.top:2715/announce
 http://open.tracker.ink:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-udp://open.u-p.pw:6969/announce
 http://tracker.guguan.000.pe:80/announce
+udp://open.u-p.pw:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://free.publictracker.xyz:6969/announce
@@ -221,8 +219,8 @@ https://www.peckservers.com:9443/announce
 udp://ftp.pet:2710/announce
 http://0205.uptm.ch:6969/announce
 http://region.nl1.privex.cc:6969/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
