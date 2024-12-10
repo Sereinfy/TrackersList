@@ -590,8 +590,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://tracker.bt4g.com:2095/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -601,6 +599,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -624,13 +624,13 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
+https://tracker.dev-null.rocks:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://tracker.leechshield.link:443/announce
+udp://tracker.gigantino.net:6969/announce
 
-https://tracker.dev-null.rocks:443/announce
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -641,8 +641,6 @@ udp://seedpeer.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -655,6 +653,8 @@ https://tracker.pmman.tech:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 http://ipv4.rer.lol:2710/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -768,9 +768,9 @@ https://tracker1.520.jp:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -782,9 +782,9 @@ udp://yahor.of.by:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-http://t.acg.rip:6699/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+http://t.acg.rip:6699/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -796,9 +796,9 @@ http://tracker.guguan.000.pe:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+udp://open.u-p.pw:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -813,8 +813,6 @@ udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://ftp.pet:2710/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -969,6 +967,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://carr.codes:6969/announce
 
 https://t1.hloli.org:443/announce
+
+udp://ftp.pet:2710/announce
 
 udp://sx.xxtor.com:6969/announce
 
@@ -1334,8 +1334,6 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://tracker.bt4g.com:2095/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -1345,6 +1343,8 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -1368,13 +1368,13 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
+https://tracker.dev-null.rocks:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://tracker.leechshield.link:443/announce
+udp://tracker.gigantino.net:6969/announce
 
-https://tracker.dev-null.rocks:443/announce
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1385,8 +1385,6 @@ udp://seedpeer.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1399,6 +1397,8 @@ https://tracker.pmman.tech:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 http://ipv4.rer.lol:2710/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1441,8 +1441,6 @@ http://kiryuu-test.mywaifu.best:6969/announce
 https://tr2.trkb.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://1337.abcvg.info:80/announce
 
