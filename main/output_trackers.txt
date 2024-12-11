@@ -219,9 +219,9 @@ http://tracker.skyts.net:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
-udp://tracker.jamesthebard.net:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://tracker.silksa.co.za:6969/announce
+udp://tracker.jamesthebard.net:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce

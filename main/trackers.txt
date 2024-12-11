@@ -634,11 +634,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+https://tracker.leechshield.link:443/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
-
-https://tracker.leechshield.link:443/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -668,11 +668,11 @@ http://ipv4.rer.lol:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -684,37 +684,37 @@ https://tr.zukizuki.org:443/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+udp://rt.tace.ru:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://api.ipv4online.uk:443/announce
+udp://tracker.kmzs123.tk:17272/announce
 
-udp://rt.tace.ru:6969/announce
+https://api.ipv4online.uk:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://opentracker.io:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://retracker.x2k.ru:443/announce
 
 http://tracker.bittor.pw:1337/announce
 
-https://tr2.trkb.ru:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+https://tr2.trkb.ru:443/announce
 
 http://open.acgtracker.com:1096/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://jutone.com:6969/announce
 
@@ -722,9 +722,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 http://tr1.aag.moe:2095/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -734,9 +734,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://wepzone.net:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+udp://wepzone.net:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -828,11 +828,11 @@ udp://tracker.draatman.uk:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1378,11 +1378,11 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+https://tracker.leechshield.link:443/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
-
-https://tracker.leechshield.link:443/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1412,11 +1412,11 @@ http://ipv4.rer.lol:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -1428,35 +1428,33 @@ https://tr.zukizuki.org:443/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+udp://rt.tace.ru:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://api.ipv4online.uk:443/announce
+udp://tracker.kmzs123.tk:17272/announce
 
-udp://rt.tace.ru:6969/announce
+https://api.ipv4online.uk:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://opentracker.io:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://retracker.x2k.ru:443/announce
 
 http://tracker.bittor.pw:1337/announce
 
-https://tr2.trkb.ru:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+https://tr2.trkb.ru:443/announce
 
 http://1337.abcvg.info:80/announce
 
