@@ -182,8 +182,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 https://tracker.tamersunion.org:443/announce
 https://threads.canofsocks.com:443/announce
-http://bvarf.tracker.sh:2086/announce
 udp://7p41a8967.wicp.vip:22222/announce
+http://bvarf.tracker.sh:2086/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -197,12 +197,12 @@ http://cn.pcfreetime.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tracker.darkness.services:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
-https://pybittrack.retiolus.net:443/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://pybittrack.retiolus.net:443/announce
 http://tracker.netmap.top:6969/announce
 udp://open.tracker.cl:1337/announce
-http://tracker.pcfreetime.com:6969/announce
 http://saltwood.top:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 udp://tr3.ysagin.top:2715/announce
 https://tracker.cangku.moe:443/announce
 udp://run.publictracker.xyz:6969/announce
