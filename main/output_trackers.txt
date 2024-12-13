@@ -198,13 +198,13 @@ http://tracker.enitin.xyz:80/announce
 udp://tk1.trackerservers.com:8080/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://tracker.darkness.services:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.darkness.services:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.netmap.top:6969/announce
 udp://open.tracker.cl:1337/announce
-https://pybittrack.retiolus.net:443/announce
 udp://tr3.ysagin.top:2715/announce
+https://pybittrack.retiolus.net:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://saltwood.top:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
