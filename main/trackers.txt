@@ -682,9 +682,9 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://opentracker.io:6969/announce
+
+https://api.ipv4online.uk:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -692,9 +692,9 @@ udp://tracker.gmi.gd:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 http://open.acgtracker.com:1096/announce
+
+https://tr2.trkb.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -716,9 +716,9 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.valete.tf:9999/announce
 
@@ -728,13 +728,13 @@ udp://wepzone.net:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://bt.rer.lol:6969/announce
 
-http://ch3oh.ru:6969/announce
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.guguan.us.kg:443/announce
+
+http://ch3oh.ru:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -804,9 +804,9 @@ http://open.tracker.ink:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 udp://tracker.draatman.uk:6969/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -913,8 +913,6 @@ https://tracker1.ctix.cn:443/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://incine.ru:6969/announce
-
-http://mail.lakameraobscura.com:6969/announce
 
 http://147job.com:6969/announce
 
@@ -1422,15 +1420,17 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://opentracker.io:6969/announce
+
+https://api.ipv4online.uk:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 https://retracker.x2k.ru:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 https://tr2.trkb.ru:443/announce
 
