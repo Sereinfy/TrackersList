@@ -608,13 +608,13 @@ udp://ismaarino.com:1234/announce
 
 https://tracker.leechshield.link:443/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://tracker.bt4g.com:2095/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://odd-hd.fr:6969/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 udp://explodie.org:6969/announce
 
@@ -632,17 +632,17 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://open.dstud.io:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
+https://tracker.pmman.tech:443/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -666,9 +666,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -704,11 +704,11 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://jutone.com:6969/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 http://tr1.aag.moe:2095/announce
 
 udp://tracker.deadorbit.nl:6969/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -762,15 +762,15 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.darkness.services:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -782,19 +782,19 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://pybittrack.retiolus.net:443/announce
 
 http://saltwood.top:6969/announce
 
-http://t.acg.rip:6699/announce
-
 udp://mikrotik2.draatman.net:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
+
+http://t.acg.rip:6699/announce
 
 http://tracker.guguan.000.pe:80/announce
 
@@ -1346,13 +1346,13 @@ udp://ismaarino.com:1234/announce
 
 https://tracker.leechshield.link:443/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://tracker.bt4g.com:2095/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://odd-hd.fr:6969/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 udp://explodie.org:6969/announce
 
@@ -1370,17 +1370,17 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://open.dstud.io:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
+https://tracker.pmman.tech:443/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1404,9 +1404,9 @@ https://tracker.cloudit.top:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
