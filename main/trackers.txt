@@ -716,9 +716,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://tracker.valete.tf:9999/announce
 
@@ -752,9 +752,9 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 

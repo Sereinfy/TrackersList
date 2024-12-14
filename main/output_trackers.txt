@@ -184,8 +184,8 @@ udp://tracker.torrust-demo.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://7p41a8967.wicp.vip:22222/announce
-https://threads.canofsocks.com:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+https://threads.canofsocks.com:443/announce
 udp://tracker.valete.tf:9999/announce
 http://bvarf.tracker.sh:2086/announce
 http://ipv6.rer.lol:6969/announce
@@ -196,8 +196,8 @@ http://tracker.enitin.xyz:80/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-http://cn.pcfreetime.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
+http://cn.pcfreetime.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker.darkness.services:6969/announce
