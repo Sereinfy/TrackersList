@@ -730,9 +730,9 @@ udp://wepzone.net:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 udp://bt.rer.lol:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -742,9 +742,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.enitin.xyz:80/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+https://tracker.tamersunion.org:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -762,9 +762,9 @@ udp://tracker.edkj.club:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+udp://tracker.darkness.services:6969/announce
 
 https://tracker1.520.jp:443/announce
 
