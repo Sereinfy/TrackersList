@@ -690,9 +690,9 @@ https://api.ipv4online.uk:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 https://retracker.x2k.ru:443/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -700,9 +700,9 @@ https://tr2.trkb.ru:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://jutone.com:6969/announce
 
@@ -772,15 +772,15 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+https://tracker.cangku.moe:443/announce
+
 http://tracker.netmap.top:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://tracker.cangku.moe:443/announce
+http://tracker.pcfreetime.com:6969/announce
 
 udp://open.tracker.cl:1337/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -804,9 +804,9 @@ https://1337.abcvg.info:443/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -818,9 +818,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -1428,9 +1428,9 @@ https://api.ipv4online.uk:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 https://retracker.x2k.ru:443/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
