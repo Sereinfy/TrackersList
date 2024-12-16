@@ -650,9 +650,9 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 udp://www.torrent.eu.org:451/announce
+
+http://ipv4.rer.lol:2710/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -664,9 +664,9 @@ udp://bandito.byterunner.io:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -682,9 +682,9 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://api.ipv4online.uk:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -708,13 +708,13 @@ udp://jutone.com:6969/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-http://tracker.bittor.pw:1337/announce
-
 udp://tracker.valete.tf:9999/announce
 
-https://threads.canofsocks.com:443/announce
+http://tracker.bittor.pw:1337/announce
 
 https://tracker.guguan.us.kg:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -752,9 +752,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -776,9 +776,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -808,9 +808,9 @@ udp://open.u-p.pw:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://yahor.of.by:6969/announce
 
@@ -1388,9 +1388,9 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 udp://www.torrent.eu.org:451/announce
+
+http://ipv4.rer.lol:2710/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -1402,9 +1402,9 @@ udp://bandito.byterunner.io:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -1420,9 +1420,9 @@ https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://api.ipv4online.uk:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
