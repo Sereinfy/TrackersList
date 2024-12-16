@@ -191,8 +191,8 @@ http://ipv6.rer.lol:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.vds.nz:6969/announce
-http://tracker.enitin.xyz:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
+http://tracker.enitin.xyz:80/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -313,7 +313,6 @@ https://tracker.jiesen.life:8443/announce
 udp://ryjer.com:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
-udp://nullzone.fr:6969/announce
 udp://ssb14.nohost.me:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://netmap.top:6969/announce
