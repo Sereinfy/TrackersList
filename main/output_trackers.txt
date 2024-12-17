@@ -210,8 +210,8 @@ udp://tracker-us.silksa.co.za:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.netmap.top:6969/announce
-udp://tracker.draatman.uk:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
+udp://tracker.draatman.uk:6969/announce
 udp://open.tracker.cl:1337/announce
 http://t.acg.rip:6699/announce
 http://tracker.guguan.000.pe:80/announce
@@ -220,8 +220,8 @@ http://saltwood.top:6969/announce
 http://open.tracker.ink:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://tracker.silksa.co.za:6969/announce
-https://pybittrack.retiolus.net:443/announce
 udp://open.u-p.pw:6969/announce
+https://pybittrack.retiolus.net:443/announce
 http://tracker.skyts.net:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
