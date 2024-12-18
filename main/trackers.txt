@@ -670,9 +670,9 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -708,11 +708,11 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.kmzs123.tk:17272/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://tracker.kmzs123.tk:17272/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -736,9 +736,9 @@ udp://tracker.gmi.gd:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tr.zukizuki.org:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -754,9 +754,9 @@ http://tracker.bittor.pw:1337/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -774,13 +774,13 @@ http://ch3oh.ru:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://fleira.no:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.vds.nz:6969/announce
+http://fleira.no:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+udp://tracker.vds.nz:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -804,15 +804,15 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -838,9 +838,9 @@ http://tracker.guguan.000.pe:80/announce
 
 https://1337.abcvg.info:443/announce
 
-http://saltwood.top:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+http://saltwood.top:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
@@ -1404,9 +1404,9 @@ udp://ns1.monolithindustries.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -1442,11 +1442,11 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.kmzs123.tk:17272/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://tracker.kmzs123.tk:17272/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
