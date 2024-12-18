@@ -166,27 +166,20 @@ udp://z.mercax.com:53/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-udp://tracker.ololosh.space:6969/announce
-udp://isk.richardsw.club:6969/announce
 http://www.torrentsnipe.info:2701/announce
 http://tracker.sbsub.com:2710/announce
-udp://tracker.dump.cl:6969/announce
-udp://open.free-tracker.ga:6969/announce
-http://tracker.dmcomic.org:2710/announce
 http://tracker.bz:80/announce
 http://share.hkg-fansub.info:80/announce.php
 http://open.trackerlist.xyz:80/announce
-http://home.yxgz.club:6969/announce
 http://buny.uk:6969/announce
 http://bt.poletracker.org:2710/announce
-udp://tracker1.bt.moack.co.kr:80/announce
-http://tracker1.bt.moack.co.kr:80/announce
-https://tr.zukizuki.org:443/announce
-http://rfc5746.mywaifu.best:6969/announce
+http://tracker.dmcomic.org:2710/announce
+http://home.yxgz.club:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker1.itzmx.com:8080/announce
 http://bt.okmp3.ru:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://tr.zukizuki.org:443/announce
 https://tracker.guguan.us.kg:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -204,8 +197,8 @@ http://cn.pcfreetime.com:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tk2.trackerservers.com:8080/announce
-https://tracker.tamersunion.org:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
+https://tracker.tamersunion.org:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -213,6 +206,7 @@ udp://tracker.draatman.uk:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.netmap.top:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 udp://r.l5.ca:6969/announce
 udp://open.tracker.cl:1337/announce
 http://t.acg.rip:6699/announce
@@ -226,7 +220,6 @@ http://tracker.skyts.net:6969/announce
 udp://freedomalternative.com:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://run.publictracker.xyz:6969/announce
-https://pybittrack.retiolus.net:443/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -429,6 +422,7 @@ https://socket.onvo.me:443/announce
 https://trackers.run:443/announce
 https://tracker.bulao.ren:443/announce
 http://tor.rev.pm:6969/announce
+https://pybittrack.retiolus.net:443/announce
 http://thetracker.org:80/announce
 https://torrust.canofsocks.com:443/announce
 https://tracker.madtia.cc:443/announce
@@ -653,6 +647,7 @@ https://opentracker.xyz:443/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
@@ -703,6 +698,7 @@ http://datascene.net/announce.php
 http://156.234.201.18/announce
 http://61.216.109.95:6969/announce
 http://61.216.166.123:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 http://bt.beatrice-raws.org/announce
 http://www.xwt-classics.net/announce.php
 http://torrent.mp3quran.net/announce.php
@@ -1157,6 +1153,7 @@ udp://156.234.201.18:80/announce
 udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 http://45.154.253.6:80/announce
+udp://tracker.ololosh.space:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://open.stealth.si/announce
@@ -1330,6 +1327,7 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://107.189.7.143:6969/announce
 https://tracker.bt4g.com/announce
 http://tracker.ccc.de/announce
+http://rfc5746.mywaifu.best:6969/announce
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 http://www.shnflac.net/announce.php
 https://k.avc.cx:443/announce.php
