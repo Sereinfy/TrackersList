@@ -652,9 +652,9 @@ udp://ns1.monolithindustries.com:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-http://tracker.vraphim.com:6969/announce
-
 https://tracker.lilithraws.org:443/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -662,11 +662,11 @@ udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 udp://open.dstud.io:6969/announce
+
+http://tracker.vraphim.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -684,11 +684,11 @@ http://ipv4.rer.lol:2710/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -770,9 +770,9 @@ udp://tracker.vds.nz:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-http://fleira.no:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+http://fleira.no:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -782,9 +782,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -804,11 +804,11 @@ udp://tracker.edkj.club:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.draatman.uk:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
-udp://tracker.draatman.uk:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -1386,9 +1386,9 @@ udp://ns1.monolithindustries.com:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-http://tracker.vraphim.com:6969/announce
-
 https://tracker.lilithraws.org:443/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1396,11 +1396,11 @@ udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 udp://open.dstud.io:6969/announce
+
+http://tracker.vraphim.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -1418,11 +1418,11 @@ http://ipv4.rer.lol:2710/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 https://tracker.cloudit.top:443/announce
 

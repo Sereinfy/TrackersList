@@ -195,8 +195,8 @@ udp://tr3.ysagin.top:2715/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.vds.nz:6969/announce
 http://tracker.enitin.xyz:80/announce
-http://fleira.no:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+http://fleira.no:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -206,8 +206,8 @@ https://tracker.tamersunion.org:443/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.pcfreetime.com:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 https://tracker.cangku.moe:443/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
