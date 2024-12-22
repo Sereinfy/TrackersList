@@ -187,8 +187,8 @@ https://tracker.guguan.us.kg:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://rt.tace.ru:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.iperson.xyz:6969/announce
+https://tracker.pmman.tech:443/announce
 http://ipv6.rer.lol:6969/announce
 https://threads.canofsocks.com:443/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -197,11 +197,11 @@ udp://tracker-us.silksa.co.za:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tk1.trackerservers.com:8080/announce
 http://tracker.enitin.xyz:80/announce
-http://cn.pcfreetime.com:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
-udp://tk2.trackerservers.com:8080/announce
+http://cn.pcfreetime.com:6969/announce
 udp://cq.kmzs123.cn:17272/announce
+udp://tk2.trackerservers.com:8080/announce
 udp://tracker.vds.nz:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
 http://tracker.pcfreetime.com:6969/announce
@@ -209,8 +209,8 @@ https://tracker1.520.jp:443/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://fleira.no:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
-https://tracker.tamersunion.org:443/announce
 udp://r.l5.ca:6969/announce
+https://tracker.tamersunion.org:443/announce
 udp://tracker.silksa.co.za:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
