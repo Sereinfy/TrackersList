@@ -702,13 +702,13 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://tracker.leechshield.link:443/announce
+http://tr1.aag.moe:2095/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-http://open.acgtracker.com:1096/announce
+https://tracker.leechshield.link:443/announce
 
-http://tr1.aag.moe:2095/announce
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.valete.tf:9999/announce
 
@@ -800,9 +800,9 @@ http://tracker.netmap.top:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker.silksa.co.za:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://t.acg.rip:6699/announce
 

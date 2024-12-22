@@ -212,8 +212,8 @@ https://tracker.tamersunion.org:443/announce
 udp://r.l5.ca:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
-https://tracker.cangku.moe:443/announce
 udp://tracker.silksa.co.za:6969/announce
+https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
 http://tracker.guguan.000.pe:80/announce
 http://open.tracker.ink:6969/announce
