@@ -220,10 +220,10 @@ http://tracker.netmap.top:6969/announce
 http://tracker.guguan.000.pe:80/announce
 http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 udp://ftp.pet:2710/announce
-udp://open.tracker.cl:1337/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.skyts.net:6969/announce
+udp://open.tracker.cl:1337/announce
 udp://open.u-p.pw:6969/announce
 udp://db.koikia.eu:6969/announce
 http://0205.uptm.ch:6969/announce
