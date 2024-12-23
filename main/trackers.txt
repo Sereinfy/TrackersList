@@ -602,7 +602,11 @@ http://tracker.renfei.net:8080/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -615,8 +619,6 @@ https://tracker.gcrenwp.top:443/announce
 udp://open.stealth.si:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -672,25 +674,27 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
+udp://tracker.deadorbit.nl:6969/announce
+
+https://tracker.bjut.jp:443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-https://tracker.bjut.jp:443/announce
-
 https://mathkangaroo.jp:443/announce
 
-udp://tracker.deadorbit.nl:6969/announce
+https://api.ipv4online.uk:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-https://api.ipv4online.uk:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 udp://tr.movian.eu:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -698,11 +702,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+http://tr1.aag.moe:2095/announce
 
 udp://opentracker.io:6969/announce
-
-http://tr1.aag.moe:2095/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -716,9 +718,9 @@ udp://tracker.valete.tf:9999/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -742,11 +744,11 @@ udp://jutone.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://threads.canofsocks.com:443/announce
 
 udp://bt.rer.lol:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -758,17 +760,17 @@ https://sparkle.ghostchu-services.top:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker.qu.ax:6969/announce
+udp://cq.kmzs123.cn:17272/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.leechshield.link:443/announce
-
-udp://cq.kmzs123.cn:17272/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -826,9 +828,9 @@ https://1337.abcvg.info:443/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://freedomalternative.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -1342,7 +1344,11 @@ http://tracker.renfei.net:8080/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -1355,8 +1361,6 @@ https://tracker.gcrenwp.top:443/announce
 udp://open.stealth.si:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -1412,25 +1416,27 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
+udp://tracker.deadorbit.nl:6969/announce
+
+https://tracker.bjut.jp:443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-https://tracker.bjut.jp:443/announce
-
 https://mathkangaroo.jp:443/announce
 
-udp://tracker.deadorbit.nl:6969/announce
+https://api.ipv4online.uk:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-https://api.ipv4online.uk:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 udp://tr.movian.eu:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -1438,11 +1444,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+http://tr1.aag.moe:2095/announce
 
 udp://opentracker.io:6969/announce
-
-http://tr1.aag.moe:2095/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
