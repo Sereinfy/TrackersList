@@ -179,12 +179,12 @@ https://tracker.pmman.tech:443/announce
 https://threads.canofsocks.com:443/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://tracker-us.silksa.co.za:6969/announce
-http://bvarf.tracker.sh:2086/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://7p41a8967.wicp.vip:22222/announce
+http://bvarf.tracker.sh:2086/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.draatman.uk:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 udp://tk1.trackerservers.com:8080/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.enitin.xyz:80/announce
@@ -204,8 +204,8 @@ http://tracker.guguan.000.pe:80/announce
 http://tracker.netmap.top:6969/announce
 http://open.tracker.ink:6969/announce
 udp://ftp.pet:2710/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.cangku.moe:443/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.skyts.net:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://open.tracker.cl:1337/announce
