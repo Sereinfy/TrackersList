@@ -182,13 +182,13 @@ http://tracker1.itzmx.com:8080/announce
 udp://u6.trakx.crim.ist:1337/announce
 http://tracker.vraphim.com:6969/announce
 https://tr2.trkb.ru:443/announce
-https://tracker.guguan.us.kg:443/announce
 udp://tr3.ysagin.top:2715/announce
+https://tracker.guguan.us.kg:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
-https://tracker.gcrenwp.top:443/announce
+udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 http://ipv6.rer.lol:6969/announce
-udp://tracker-us.silksa.co.za:6969/announce
+https://tracker.gcrenwp.top:443/announce
 udp://rt.tace.ru:6969/announce
 https://threads.canofsocks.com:443/announce
 udp://jutone.com:6969/announce
@@ -205,8 +205,8 @@ udp://tk2.trackerservers.com:8080/announce
 http://tracker.enitin.xyz:80/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tracker.theoks.net:6969/announce
-udp://tracker.vds.nz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
+udp://tracker.vds.nz:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://fleira.no:6969/announce
 https://tracker.cangku.moe:443/announce
@@ -222,8 +222,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.skyts.net:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://db.koikia.eu:6969/announce
-udp://open.tracker.cl:1337/announce
 http://0205.uptm.ch:6969/announce
+udp://open.tracker.cl:1337/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
