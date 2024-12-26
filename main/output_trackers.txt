@@ -187,11 +187,11 @@ udp://tr3.ysagin.top:2715/announce
 https://tracker.guguan.us.kg:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker-us.silksa.co.za:6969/announce
-udp://tracker.iperson.xyz:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.iperson.xyz:6969/announce
+udp://retracker.hotplug.ru:2710/announce
 https://tracker.gcrenwp.top:443/announce
 udp://rt.tace.ru:6969/announce
-udp://retracker.hotplug.ru:2710/announce
 https://threads.canofsocks.com:443/announce
 udp://jutone.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
@@ -218,8 +218,8 @@ udp://ftp.pet:2710/announce
 http://tracker.guguan.000.pe:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://open.tracker.ink:6969/announce
-http://tracker.netmap.top:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+http://tracker.netmap.top:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://open.u-p.pw:6969/announce
 udp://db.koikia.eu:6969/announce
