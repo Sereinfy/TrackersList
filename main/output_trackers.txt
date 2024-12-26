@@ -191,9 +191,9 @@ udp://tracker.iperson.xyz:6969/announce
 udp://rt.tace.ru:6969/announce
 https://threads.canofsocks.com:443/announce
 https://tracker.gcrenwp.top:443/announce
-udp://jutone.com:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
+udp://jutone.com:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://cn.pcfreetime.com:6969/announce
@@ -216,10 +216,10 @@ https://tracker.tamersunion.org:443/announce
 http://tracker.guguan.000.pe:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://open.tracker.ink:6969/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.netmap.top:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.u-p.pw:6969/announce
+http://tracker.netmap.top:6969/announce
 udp://db.koikia.eu:6969/announce
 http://0205.uptm.ch:6969/announce
 https://p4p.arenabg.com:1337/announce
