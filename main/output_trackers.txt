@@ -175,8 +175,8 @@ http://tracker.vraphim.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://tr3.ysagin.top:2715/announce
-udp://amigacity.xyz:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+udp://amigacity.xyz:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
@@ -184,12 +184,12 @@ https://threads.canofsocks.com:443/announce
 udp://rt.tace.ru:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://bvarf.tracker.sh:2086/announce
-udp://jutone.com:6969/announce
 udp://r.l5.ca:6969/announce
+udp://jutone.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
-udp://tk1.trackerservers.com:8080/announce
 udp://7p41a8967.wicp.vip:22222/announce
+udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tracker.silksa.co.za:6969/announce
