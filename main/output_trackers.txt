@@ -192,8 +192,8 @@ udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://amigacity.xyz:6969/announce
-udp://bry-dell-htpc.freeddns.org:6969/announce
 https://threads.canofsocks.com:443/announce
+udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://rt.tace.ru:6969/announce
 udp://r.l5.ca:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
