@@ -694,15 +694,15 @@ https://tracker.cloudit.top:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://tr.movian.eu:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://wepzone.net:6969/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -760,9 +760,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://r.l5.ca:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://r.l5.ca:6969/announce
 
 udp://rt.tace.ru:6969/announce
 
@@ -806,9 +806,9 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 http://fleira.no:6969/announce
 
@@ -1430,15 +1430,15 @@ https://tracker.cloudit.top:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://tr.movian.eu:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://wepzone.net:6969/announce
-
-udp://mikrotik2.draatman.net:6969/announce
 
 udp://opentracker.io:6969/announce
 
