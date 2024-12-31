@@ -222,8 +222,8 @@ http://open.tracker.ink:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 http://tracker.skyts.net:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-http://tracker.guguan.000.pe:80/announce
 udp://open.u-p.pw:6969/announce
+http://tracker.guguan.000.pe:80/announce
 https://tracker.tamersunion.org:443/announce
 udp://db.koikia.eu:6969/announce
 http://0205.uptm.ch:6969/announce
