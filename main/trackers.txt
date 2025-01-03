@@ -582,6 +582,8 @@ https://trackers.mlsub.net:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -617,8 +619,6 @@ https://tr.nyacat.pw:443/announce
 udp://explodie.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -682,19 +682,19 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tr.movian.eu:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -722,9 +722,9 @@ http://tracker.bittor.pw:1337/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -738,9 +738,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.darkness.services:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -782,9 +782,9 @@ udp://tracker.silksa.co.za:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://amigacity.xyz:6969/announce
 
 udp://rt.tace.ru:6969/announce
 
@@ -838,9 +838,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://open.u-p.pw:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://db.koikia.eu:6969/announce
 
@@ -849,6 +849,8 @@ udp://tracker.vds.nz:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+http://bt.xcty.eu.org:2095/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -1118,8 +1120,6 @@ http://retracker.211.ru:80/announce
 
 https://tracker.fr.eu.org:443/announce
 
-http://bt.xcty.eu.org:2095/announce
-
 udp://touhou.kawaiiarts.com:6969/announce
 
 udp://x.hz.is:6969/announce
@@ -1322,6 +1322,8 @@ https://trackers.mlsub.net:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -1357,8 +1359,6 @@ https://tr.nyacat.pw:443/announce
 udp://explodie.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -1422,19 +1422,19 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tr.movian.eu:6969/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -1462,9 +1462,9 @@ http://tracker.bittor.pw:1337/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://tr2.trkb.ru:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://r.l5.ca:6969/announce
 
