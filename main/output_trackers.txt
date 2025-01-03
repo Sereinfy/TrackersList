@@ -192,8 +192,8 @@ https://tracker.guguan.us.kg:443/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 https://threads.canofsocks.com:443/announce
-https://tracker.ipfsscan.io:443/announce
 udp://7p41a8967.wicp.vip:22222/announce
+https://tracker.ipfsscan.io:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.silksa.co.za:6969/announce
@@ -208,8 +208,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://jutone.com:6969/announce
 udp://z.mercax.com:53/announce
-https://tracker.cangku.moe:443/announce
 udp://tracker.theoks.net:6969/announce
+https://tracker.cangku.moe:443/announce
 http://tracker.enitin.xyz:80/announce
 udp://brightstar.freeddns.org:6969/announce
 udp://tracker.internetwarriors.net:1337/announce

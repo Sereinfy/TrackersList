@@ -664,9 +664,9 @@ udp://open.dstud.io:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -682,9 +682,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tr.movian.eu:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -714,9 +714,9 @@ https://tr2.trkb.ru:443/announce
 
 udp://r.l5.ca:6969/announce
 
-https://retracker.x2k.ru:443/announce
-
 http://tracker.bittor.pw:1337/announce
+
+https://retracker.x2k.ru:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -750,11 +750,11 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tracker.ipfsscan.io:443/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+https://tracker.ipfsscan.io:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -790,13 +790,13 @@ udp://tk2.trackerservers.com:8080/announce
 
 udp://jutone.com:6969/announce
 
-udp://z.mercax.com:53/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://tracker.cangku.moe:443/announce
+udp://z.mercax.com:53/announce
 
 udp://tracker.theoks.net:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -810,9 +810,9 @@ udp://tracker.qu.ax:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://fleira.no:6969/announce
-
 https://1337.abcvg.info:443/announce
+
+http://fleira.no:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1404,9 +1404,9 @@ udp://open.dstud.io:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -1422,9 +1422,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tr.movian.eu:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -1454,9 +1454,9 @@ https://tr2.trkb.ru:443/announce
 
 udp://r.l5.ca:6969/announce
 
-https://retracker.x2k.ru:443/announce
-
 http://tracker.bittor.pw:1337/announce
+
+https://retracker.x2k.ru:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
