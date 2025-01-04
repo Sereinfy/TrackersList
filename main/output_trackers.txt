@@ -197,8 +197,8 @@ udp://7p41a8967.wicp.vip:22222/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 https://threads.canofsocks.com:443/announce
 https://tracker.ipfsscan.io:443/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.silksa.co.za:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://ftp.pet:2710/announce
