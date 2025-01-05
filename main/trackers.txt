@@ -644,8 +644,6 @@ udp://udp.tracker.projectk.org:23333/announce
 
 https://tr.nyacat.pw:443/announce
 
-http://s926723.ha016.t.mydomain.zone:80/announce
-
 udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -666,8 +664,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://wepzone.net:6969/announce
@@ -685,6 +681,8 @@ http://tracker4.itzmx.com:2710/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -742,9 +740,9 @@ udp://tracker.draatman.uk:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tr.zukizuki.org:443/announce
-
 udp://betelgeuse.freeddns.org:6969/announce
+
+https://tr.zukizuki.org:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -752,21 +750,21 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
-udp://r.l5.ca:6969/announce
+udp://bt.ktrackers.com:6666/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://r.l5.ca:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-https://tracker.gcrenwp.top:443/announce
+udp://tracker.gmi.gd:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -779,6 +777,8 @@ udp://tr3.ysagin.top:2715/announce
 http://open.acgtracker.com:1096/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+http://s926723.ha016.t.mydomain.zone:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -826,9 +826,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://rt.tace.ru:6969/announce
 
@@ -844,11 +844,11 @@ http://tracker.enitin.xyz:80/announce
 
 http://t.acg.rip:6699/announce
 
-udp://z.mercax.com:53/announce
-
 https://1337.abcvg.info:443/announce
 
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://z.mercax.com:53/announce
 
 udp://brightstar.freeddns.org:6969/announce
 
@@ -1384,8 +1384,6 @@ udp://udp.tracker.projectk.org:23333/announce
 
 https://tr.nyacat.pw:443/announce
 
-http://s926723.ha016.t.mydomain.zone:80/announce
-
 udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -1406,8 +1404,6 @@ udp://t.overflow.biz:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://wepzone.net:6969/announce
@@ -1425,6 +1421,8 @@ http://tracker4.itzmx.com:2710/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -1482,9 +1480,9 @@ udp://tracker.draatman.uk:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tr.zukizuki.org:443/announce
-
 udp://betelgeuse.freeddns.org:6969/announce
+
+https://tr.zukizuki.org:443/announce
 
 udp://opentracker.io:6969/announce
 
@@ -1492,19 +1490,21 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
-udp://r.l5.ca:6969/announce
+udp://bt.ktrackers.com:6666/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://r.l5.ca:6969/announce
 
 https://retracker.x2k.ru:443/announce
 
-udp://bt.ktrackers.com:6666/announce
+udp://tracker.gmi.gd:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
