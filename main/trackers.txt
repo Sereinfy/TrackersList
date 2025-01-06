@@ -640,6 +640,8 @@ udp://udp.tracker.projectk.org:23333/announce
 
 https://tr.nyacat.pw:443/announce
 
+http://echostar.ddnsfree.com:8080/announce
+
 udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -670,17 +672,17 @@ udp://wepzone.net:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://seedpeer.net:6969/announce
-
 https://tracker.leechshield.link:443/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -718,15 +720,15 @@ udp://tr.movian.eu:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://open.dstud.io:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+http://tracker.bittor.pw:1337/announce
 
 udp://tracker.darkness.services:6969/announce
 
-http://tracker.bittor.pw:1337/announce
+udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -738,9 +740,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -752,21 +754,21 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+https://retracker.x2k.ru:443/announce
+
 https://tr2.trkb.ru:443/announce
 
 udp://r.l5.ca:6969/announce
 
-https://retracker.x2k.ru:443/announce
-
 udp://tracker.gmi.gd:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.valete.tf:9999/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 https://mathkangaroo.jp:443/announce
+
+udp://tr3.ysagin.top:2715/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -774,9 +776,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://betelgeuse.freeddns.org:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://betelgeuse.freeddns.org:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -1380,6 +1382,8 @@ udp://udp.tracker.projectk.org:23333/announce
 
 https://tr.nyacat.pw:443/announce
 
+http://echostar.ddnsfree.com:8080/announce
+
 udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -1410,17 +1414,17 @@ udp://wepzone.net:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://seedpeer.net:6969/announce
-
 https://tracker.leechshield.link:443/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -1458,15 +1462,15 @@ udp://tr.movian.eu:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://open.dstud.io:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+http://tracker.bittor.pw:1337/announce
 
 udp://tracker.darkness.services:6969/announce
 
-http://tracker.bittor.pw:1337/announce
+udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1478,9 +1482,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -1492,11 +1496,11 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+https://retracker.x2k.ru:443/announce
+
 https://tr2.trkb.ru:443/announce
 
 udp://r.l5.ca:6969/announce
-
-https://retracker.x2k.ru:443/announce
 
 http://0d.kebhana.mx:443/announce
 
