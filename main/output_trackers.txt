@@ -227,7 +227,6 @@ udp://db.koikia.eu:6969/announce
 http://0205.uptm.ch:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
-http://fleira.no:6969/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
@@ -457,6 +456,7 @@ http://saltwood.top:6969/announce
 udp://tracker4.leechshield.link:6969/announce
 udp://tk4.leechshield.link:6969/announce
 http://tracker.netmap.top:6969/announce
+http://fleira.no:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
