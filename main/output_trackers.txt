@@ -188,9 +188,9 @@ http://ipv4.rer.lol:2710/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.valete.tf:9999/announce
+udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
 https://mathkangaroo.jp:443/announce
-udp://ftp.pet:2710/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.silksa.co.za:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -205,16 +205,16 @@ https://tracker.cangku.moe:443/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
-http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+http://cn.pcfreetime.com:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://rt.tace.ru:6969/announce
 http://t.acg.rip:6699/announce
 udp://jutone.com:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://tracker.internetwarriors.net:1337/announce
-http://echostar.ddnsfree.com:8080/announce
 udp://freedomalternative.com:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://brightstar.freeddns.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -336,7 +336,6 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 udp://lopatins.ru:5972/announce
 http://www.chouchou.club:8080/announce
 udp://tracker.ocnix.net:6969/announce
-udp://npge.nprotect.com:6969/announce
 udp://open.8a.is:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 http://home.kray.pw:6969/announce
