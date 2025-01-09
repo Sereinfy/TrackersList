@@ -186,8 +186,8 @@ http://highteahop.top:6960/announce
 http://0d.kebhana.mx:443/announce
 http://tracker1.itzmx.com:8080/announce
 udp://explodie.org:6969/announce
-udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.kmzs123.tk:17272/announce
+udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.valete.tf:9999/announce
 https://mathkangaroo.jp:443/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -203,10 +203,10 @@ http://bvarf.tracker.sh:2086/announce
 udp://betelgeuse.freeddns.org:6969/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.cangku.moe:443/announce
-http://cn.pcfreetime.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
+http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://rt.tace.ru:6969/announce
