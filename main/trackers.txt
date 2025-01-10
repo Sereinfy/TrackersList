@@ -540,6 +540,8 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 https://trackers.mlsub.net:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -582,8 +584,6 @@ http://tracker.bt4g.com:2095/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 udp://wepzone.net:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -620,21 +620,21 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://d40969.acod.regrucolo.ru:6969/announce
+
 https://t.213891.xyz:443/announce
-
-https://tracker.lilithraws.org:443/announce
-
-http://tr1.aag.moe:2095/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://tr1.aag.moe:2095/announce
+
 http://tracker3.itzmx.com:6961/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -684,15 +684,15 @@ https://retracker.x2k.ru:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.valete.tf:9999/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -1284,6 +1284,8 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://u6.trakx.crim.ist:1337/announce
+
 https://trackers.mlsub.net:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -1326,8 +1328,6 @@ http://tracker.bt4g.com:2095/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 udp://wepzone.net:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -1364,21 +1364,21 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
+udp://d40969.acod.regrucolo.ru:6969/announce
+
 https://t.213891.xyz:443/announce
-
-https://tracker.lilithraws.org:443/announce
-
-http://tr1.aag.moe:2095/announce
 
 http://ipv4.rer.lol:2710/announce
 
+http://tr1.aag.moe:2095/announce
+
 http://tracker3.itzmx.com:6961/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -1428,9 +1428,9 @@ https://retracker.x2k.ru:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 http://0123456789nonexistent.com:80/announce
 
