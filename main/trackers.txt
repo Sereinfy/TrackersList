@@ -626,9 +626,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -640,37 +640,37 @@ udp://tracker.filemail.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://tracker1.itzmx.com:8080/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
 udp://tracker.darkness.services:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker1.itzmx.com:8080/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://odd-hd.fr:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
-
-udp://seedpeer.net:6969/announce
+udp://odd-hd.fr:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://tr1.aag.moe:2095/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
+http://tr1.aag.moe:2095/announce
+
 udp://tracker.dler.com:6969/announce
+
+udp://seedpeer.net:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -708,9 +708,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -746,9 +746,9 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -782,11 +782,11 @@ https://pybittrack.retiolus.net:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-udp://rt.tace.ru:6969/announce
-
 http://tinfoil.space:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
+
+udp://rt.tace.ru:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -1364,9 +1364,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://cq.kmzs123.cn:17272/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1378,37 +1378,37 @@ udp://tracker.filemail.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://tracker1.itzmx.com:8080/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
 udp://tracker.darkness.services:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker1.itzmx.com:8080/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://odd-hd.fr:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
-
-udp://seedpeer.net:6969/announce
+udp://odd-hd.fr:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://tr1.aag.moe:2095/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
+http://tr1.aag.moe:2095/announce
+
 udp://tracker.dler.com:6969/announce
+
+udp://seedpeer.net:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
