@@ -178,9 +178,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:6961/announce
-http://tracker.vraphim.com:6969/announce
 http://tr1.aag.moe:2095/announce
 udp://tr3.ysagin.top:2715/announce
+http://tracker.vraphim.com:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -200,11 +200,11 @@ https://threads.canofsocks.com:443/announce
 https://tracker.cangku.moe:443/announce
 http://bvarf.tracker.sh:2086/announce
 https://tracker.guguan.us.kg:443/announce
-udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
-http://tracker.pcfreetime.com:6969/announce
 udp://tracker.kmzs123.top:17272/announce
+http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://darkstarr.kozow.com:6881/announce
 udp://tracker.edkj.club:6969/announce
@@ -212,9 +212,9 @@ https://tracker.ipfsscan.io:443/announce
 http://t.acg.rip:6699/announce
 udp://tracker.internetwarriors.net:1337/announce
 https://pybittrack.retiolus.net:443/announce
-udp://betelgeuse.freeddns.org:6969/announce
 http://tinfoil.space:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
+udp://betelgeuse.freeddns.org:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://rt.tace.ru:6969/announce
@@ -228,6 +228,7 @@ udp://open.u-p.pw:6969/announce
 http://s926723.ha016.t.mydomain.zone:80/announce
 udp://jutone.com:6969/announce
 udp://db.koikia.eu:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
 https://p4p.arenabg.com:1337/announce
@@ -247,7 +248,6 @@ udp://tracker.teambelgium.net:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://movies.zsw.ca:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.leech.ie:1337/announce
