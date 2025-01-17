@@ -578,13 +578,13 @@ https://tr.zukizuki.org:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -614,9 +614,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker.filemail.com:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -646,9 +646,9 @@ https://tr.nyacat.pw:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.valete.tf:9999/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -660,6 +660,8 @@ udp://bt.rer.lol:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
+udp://tracker.kmzs123.top:17272/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 udp://ftp.pet:2710/announce
@@ -668,17 +670,15 @@ udp://tracker.iperson.xyz:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker3.itzmx.com:6961/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 udp://open.dstud.io:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -686,15 +686,15 @@ http://ch3oh.ru:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-https://tracker.aburaya.live:443/announce
+https://tracker.leechshield.link:443/announce
 
 udp://trackarr.org:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -704,9 +704,9 @@ http://tracker.vraphim.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://seedpeer.net:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -734,13 +734,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker1.520.jp:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
-https://tracker.cangku.moe:443/announce
+https://tracker1.520.jp:443/announce
 
 http://bvarf.tracker.sh:2086/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -774,13 +774,13 @@ http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-https://tracker.cybar.xyz:443/announce
-
 udp://darkstarr.kozow.com:6881/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://freedomalternative.com:6969/announce
+
+https://tracker.cybar.xyz:443/announce
 
 udp://brightstar.freeddns.org:6969/announce
 
@@ -1316,13 +1316,13 @@ https://tr.zukizuki.org:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -1352,9 +1352,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker.filemail.com:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -1377,8 +1377,6 @@ udp://tracker.dler.com:6969/announce
 https://retracker.x2k.ru:443/announce
 
 udp://opentracker.io:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 http://0123456789nonexistent.com:80/announce
 
