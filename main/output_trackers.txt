@@ -154,15 +154,16 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
+udp://open.tracker.cl:1337/announce
 udp://explodie.org:6969/announce
+udp://tracker.bittor.pw:1337/announce
+udp://leet-tracker.moe:1337/announce
 http://www.torrentsnipe.info:2701/announce
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.corpscorp.online:80/announce
 http://t.jaekr.sh:6969/announce
 http://home.yxgz.club:6969/announce
-udp://leet-tracker.moe:1337/announce
 http://tracker.dler.org:6969/announce
-http://rfc5746.mywaifu.best:6969/announce
 http://open.acgtracker.com:1096/announce
 https://tracker.bjut.jp:443/announce
 https://retracker.x2k.ru:443/announce
@@ -180,10 +181,10 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:6961/announce
 http://tr1.aag.moe:2095/announce
 https://tracker.itscraftsoftware.my.id:443/announce
-udp://tracker.kmzs123.top:17272/announce
-udp://serpb.vpsburti.com:6969/announce
 https://mathkangaroo.jp:443/announce
 http://cn.pcfreetime.com:6969/announce
+udp://serpb.vpsburti.com:6969/announce
+udp://tracker.kmzs123.top:17272/announce
 https://threads.canofsocks.com:443/announce
 udp://odd-hd.fr:6969/announce
 http://tracker.vraphim.com:6969/announce
@@ -206,7 +207,6 @@ https://tracker.cangku.moe:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://open.tracker.cl:1337/announce
 http://t.acg.rip:6699/announce
 udp://tracker.internetwarriors.net:1337/announce
 https://tracker.guguan.us.kg:443/announce
@@ -223,7 +223,6 @@ http://s926723.ha016.t.mydomain.zone:80/announce
 http://tracker.skyts.net:6969/announce
 https://tracker.cybar.xyz:443/announce
 udp://darkstarr.kozow.com:6881/announce
-http://tracker.enitin.xyz:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
 https://p4p.arenabg.com:1337/announce
@@ -303,6 +302,7 @@ udp://carr.codes:6969/announce
 udp://jutone.com:6969/announce
 https://t1.hloli.org:443/announce
 udp://sx.xxtor.com:6969/announce
+http://tracker.enitin.xyz:80/announce
 udp://acxx.de:6969/announce
 udp://bedro.cloud:6969/announce
 udp://private.anonseed.com:6969/announce
@@ -1155,7 +1155,6 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://stargrave.org:6969/announce
 udp://156.234.201.18:80/announce
@@ -1335,6 +1334,7 @@ http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://107.189.7.143:6969/announce
 https://tracker.bt4g.com/announce
 http://tracker.ccc.de/announce
+http://rfc5746.mywaifu.best:6969/announce
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 http://www.shnflac.net/announce.php
 https://k.avc.cx:443/announce.php
