@@ -178,8 +178,8 @@ udp://tracker.iperson.xyz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://trackers.mlsub.net:443/announce
 http://tracker1.itzmx.com:8080/announce
-http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
+http://tracker3.itzmx.com:6961/announce
 http://cn.pcfreetime.com:6969/announce
 http://tr1.aag.moe:2095/announce
 https://tracker.itscraftsoftware.my.id:443/announce
@@ -189,8 +189,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.vraphim.com:6969/announce
-udp://tracker.kmzs123.top:17272/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://tracker.kmzs123.top:17272/announce
 udp://seedpeer.net:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://bt.ktrackers.com:6666/announce
@@ -200,8 +200,8 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker.draatman.uk:6969/announce
 https://pybittrack.retiolus.net:443/announce
-https://tracker.aburaya.live:443/announce
 https://tracker.cangku.moe:443/announce
+https://tracker.aburaya.live:443/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -218,8 +218,8 @@ udp://brightstar.freeddns.org:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://freedomalternative.com:6969/announce
 udp://open.u-p.pw:6969/announce
-http://s926723.ha016.t.mydomain.zone:80/announce
 https://tracker.uraniumhexafluori.de:443/announce
+http://s926723.ha016.t.mydomain.zone:80/announce
 http://tracker.skyts.net:6969/announce
 https://tracker.cybar.xyz:443/announce
 http://region.nl1.privex.cc:6969/announce
