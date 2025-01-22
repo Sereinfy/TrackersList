@@ -169,15 +169,15 @@ http://0123456789nonexistent.com:80/announce
 https://sparkle.ghostchu-services.top:443/announce
 http://open.acgtracker.com:1096/announce
 udp://u6.trakx.crim.ist:1337/announce
-https://retracker.x2k.ru:443/announce
 udp://tracker.valete.tf:9999/announce
+https://retracker.x2k.ru:443/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tracker.breizh.pm:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.iperson.xyz:6969/announce
-https://tr2.trkb.ru:443/announce
 udp://ftp.pet:2710/announce
+https://tr2.trkb.ru:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker3.itzmx.com:6961/announce
@@ -206,8 +206,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 http://t.acg.rip:6699/announce
-udp://tracker.kmzs123.top:17272/announce
 udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.kmzs123.top:17272/announce
 http://tinfoil.space:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.cangku.moe:443/announce
