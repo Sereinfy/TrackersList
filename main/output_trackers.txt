@@ -185,8 +185,8 @@ http://tracker4.itzmx.com:2710/announce
 https://threads.canofsocks.com:443/announce
 https://mathkangaroo.jp:443/announce
 http://tr1.aag.moe:2095/announce
-https://trackers.mlsub.net:443/announce
 https://tracker.aburaya.live:443/announce
+https://trackers.mlsub.net:443/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://serpb.vpsburti.com:6969/announce
@@ -203,8 +203,8 @@ udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
-http://t.acg.rip:6699/announce
 udp://tk2.trackerservers.com:8080/announce
+http://t.acg.rip:6699/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://trackarr.org:6969/announce
 http://tinfoil.space:6969/announce
