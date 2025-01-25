@@ -159,20 +159,19 @@ udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://open.tracker.cl:1337/announce
 udp://explodie.org:6969/announce
+http://servandroidkino.ru:80/announce
 http://seeders-paradise.org:80/announce
 http://bt1.xxxxbt.cc:6969/announce
-udp://tracker.theoks.net:6969/announce
+http://bt.poletracker.org:2710/announce
 http://tracker.corpscorp.online:80/announce
-http://servandroidkino.ru:80/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://open.acgtracker.com:1096/announce
-http://bt.poletracker.org:2710/announce
 udp://concen.org:6969/announce
 https://tracker.aburaya.live:443/announce
 https://retracker.x2k.ru:443/announce
-udp://tracker.valete.tf:9999/announce
 udp://tr3.ysagin.top:2715/announce
 https://tracker.wsaoa.eu.org:443/announce
+udp://tracker.valete.tf:9999/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
@@ -187,8 +186,8 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 https://threads.canofsocks.com:443/announce
 https://mathkangaroo.jp:443/announce
-http://tr1.aag.moe:2095/announce
 http://tracker.pcfreetime.com:6969/announce
+http://tr1.aag.moe:2095/announce
 https://trackers.mlsub.net:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://serpb.vpsburti.com:6969/announce
@@ -199,6 +198,7 @@ udp://mikrotik2.draatman.net:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://seedpeer.net:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
+udp://tracker.theoks.net:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker-us.silksa.co.za:6969/announce
@@ -219,8 +219,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://freedomalternative.com:6969/announce
 https://tracker.guguan.us.kg:443/announce
 http://s926723.ha016.t.mydomain.zone:80/announce
-udp://tracker.kmzs123.top:17272/announce
 udp://open.u-p.pw:6969/announce
+udp://tracker.kmzs123.top:17272/announce
 https://tracker.cybar.xyz:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
@@ -231,7 +231,6 @@ http://wegkxfcivgx.chickenkiller.com:80/announce
 udp://tracker.btsync.gq:233/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.files.fm:6969/announce
-http://retracker.joxnet.ru:80/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
@@ -661,6 +660,7 @@ https://tracker.moeblog.cn/announce
 http://tracker.xdvdz.com:2710/announce
 http://siambit.org/announce.php
 udp://tracker.blacksparrowmedia.net:6969/announce
+http://retracker.joxnet.ru:80/announce
 http://bttracker.debian.org:6969/announce
 udp://tracker.pomf.se:80/announce
 http://tracker.dutchtracking.nl/announce
