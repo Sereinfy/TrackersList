@@ -586,11 +586,11 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -620,23 +620,23 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://opentracker.io:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 https://tracker.pmman.tech:443/announce
 
 https://retracker.x2k.ru:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 http://tracker.bittor.pw:1337/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -644,13 +644,13 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://bt.rer.lol:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://ftp.pet:2710/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -698,11 +698,11 @@ https://sparkle.ghostchu-services.top:443/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-udp://odd-hd.fr:6969/announce
-
 http://fleira.no:6969/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://odd-hd.fr:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -718,11 +718,11 @@ udp://open.tracker.cl:1337/announce
 
 udp://seedpeer.net:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.draatman.uk:6969/announce
 
@@ -738,11 +738,11 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 https://1337.abcvg.info:443/announce
 
 http://tinfoil.space:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1316,11 +1316,11 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -1350,9 +1350,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://opentracker.io:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 http://0123456789nonexistent.com:80/announce
 
