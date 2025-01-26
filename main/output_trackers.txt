@@ -193,8 +193,8 @@ udp://odd-hd.fr:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 http://bvarf.tracker.sh:2086/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.theoks.net:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://seedpeer.net:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
