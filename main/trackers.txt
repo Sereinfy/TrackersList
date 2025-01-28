@@ -634,11 +634,11 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://ipv4.rer.lol:2710/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -650,9 +650,9 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://opentracker.io:6969/announce
 
@@ -670,11 +670,11 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -748,9 +748,9 @@ http://tracker.vraphim.com:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -760,15 +760,15 @@ https://1337.abcvg.info:443/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 http://tinfoil.space:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -788,15 +788,13 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://tracker.qu.ax:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://tracker.cybar.xyz:443/announce
 
 http://region.nl1.privex.cc:6969/announce
-
-udp://open.u-p.pw:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -1023,6 +1021,8 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 udp://lopatins.ru:5972/announce
 
 http://www.chouchou.club:8080/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://tracker.ocnix.net:6969/announce
 
@@ -1364,11 +1364,11 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://ipv4.rer.lol:2710/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1380,9 +1380,9 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://opentracker.io:6969/announce
 

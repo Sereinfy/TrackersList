@@ -196,15 +196,15 @@ udp://odd-hd.fr:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://open.tracker.ink:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://t.acg.rip:6699/announce
 udp://tk1v6.trackerservers.com:8080/announce
-udp://tk1.trackerservers.com:8080/announce
 http://tinfoil.space:6969/announce
+udp://tk1.trackerservers.com:8080/announce
 http://tracker.privateseedbox.xyz:2710/announce
-udp://seedpeer.net:6969/announce
 udp://tk2.trackerservers.com:8080/announce
+udp://seedpeer.net:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.draatman.uk:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
@@ -215,7 +215,6 @@ https://tracker.uraniumhexafluori.de:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://tracker.cybar.xyz:443/announce
 http://region.nl1.privex.cc:6969/announce
-udp://open.u-p.pw:6969/announce
 http://bt.xcty.eu.org:2095/announce
 https://p4p.arenabg.com:1337/announce
 udp://retracker.lanta-net.ru:2710/announce
@@ -328,6 +327,7 @@ udp://6.pocketnet.app:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 udp://lopatins.ru:5972/announce
 http://www.chouchou.club:8080/announce
+udp://open.u-p.pw:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://open.8a.is:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
