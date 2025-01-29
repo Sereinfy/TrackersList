@@ -192,15 +192,15 @@ http://bvarf.tracker.sh:2086/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://odd-hd.fr:6969/announce
 udp://serpb.vpsburti.com:6969/announce
-udp://tracker.silksa.co.za:6969/announce
 http://open.tracker.ink:6969/announce
 http://t.acg.rip:6699/announce
+udp://tracker.silksa.co.za:6969/announce
 http://tracker.vraphim.com:6969/announce
 udp://tracker1.myporn.club:9337/announce
 http://tinfoil.space:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
-udp://mikrotik2.draatman.net:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://seedpeer.net:6969/announce
