@@ -654,9 +654,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.dler.com:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -760,15 +760,15 @@ http://tracker.vraphim.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://tinfoil.space:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://tinfoil.space:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://mikrotik2.draatman.net:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -1382,9 +1382,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.dler.com:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
