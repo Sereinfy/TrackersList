@@ -167,8 +167,8 @@ http://t.overflow.biz:6969/announce
 http://open.acgtracker.com:1096/announce
 https://retracker.x2k.ru:443/announce
 udp://tracker.breizh.pm:6969/announce
-https://tracker.wsaoa.eu.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://tracker.wsaoa.eu.org:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -183,14 +183,14 @@ http://cn.pcfreetime.com:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 udp://7p41a8967.wicp.vip:22222/announce
-udp://tracker.deadorbit.nl:6969/announce
 https://mathkangaroo.jp:443/announce
+udp://tracker.deadorbit.nl:6969/announce
 http://tr1.aag.moe:2095/announce
 https://tracker.cangku.moe:443/announce
 https://trackers.mlsub.net:443/announce
 http://bvarf.tracker.sh:2086/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.internetwarriors.net:1337/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://new-line.net:6969/announce
 http://open.tracker.ink:6969/announce
 http://t.acg.rip:6699/announce
@@ -203,8 +203,8 @@ udp://tk2.trackerservers.com:8080/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 http://tracker.vraphim.com:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.draatman.uk:6969/announce
