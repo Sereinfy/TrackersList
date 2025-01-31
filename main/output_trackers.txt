@@ -196,8 +196,8 @@ http://open.tracker.ink:6969/announce
 http://t.acg.rip:6699/announce
 http://tinfoil.space:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
-udp://odd-hd.fr:6969/announce
 udp://tk1v6.trackerservers.com:8080/announce
+udp://odd-hd.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://serpb.vpsburti.com:6969/announce
