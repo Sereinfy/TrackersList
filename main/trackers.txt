@@ -608,13 +608,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://wepzone.net:6969/announce
+
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -676,9 +676,9 @@ udp://tracker.valete.tf:9999/announce
 
 https://tr2.trkb.ru:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -1338,13 +1338,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://wepzone.net:6969/announce
+
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 

@@ -174,8 +174,8 @@ udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 https://tr2.trkb.ru:443/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+https://tracker.pmman.tech:443/announce
 https://threads.canofsocks.com:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
