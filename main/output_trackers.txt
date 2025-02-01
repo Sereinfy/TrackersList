@@ -187,8 +187,8 @@ udp://7p41a8967.wicp.vip:22222/announce
 udp://tracker.deadorbit.nl:6969/announce
 http://tr1.aag.moe:2095/announce
 https://tracker.cangku.moe:443/announce
-https://trackers.mlsub.net:443/announce
 http://bvarf.tracker.sh:2086/announce
+https://trackers.mlsub.net:443/announce
 udp://new-line.net:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
 http://open.tracker.ink:6969/announce
@@ -209,8 +209,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://tracker.draatman.uk:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://seedpeer.net:6969/announce
-udp://tracker.edkj.club:6969/announce
 https://tracker.cybar.xyz:443/announce
+udp://tracker.edkj.club:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
 https://p4p.arenabg.com:1337/announce
