@@ -588,13 +588,13 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://retracker.lanta.me:2710/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -608,13 +608,13 @@ http://0123456789nonexistent.com:80/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
-
-udp://tracker.filemail.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -644,9 +644,9 @@ https://retracker.x2k.ru:443/announce
 
 https://tracker.wsaoa.eu.org:443/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -674,15 +674,15 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://threads.canofsocks.com:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://open.dstud.io:6969/announce
+https://tracker.pmman.tech:443/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -714,15 +714,15 @@ https://tracker.cangku.moe:443/announce
 
 udp://open.tracker.cl:1337/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 udp://new-line.net:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-https://trackers.mlsub.net:443/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+https://trackers.mlsub.net:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -1318,13 +1318,13 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://retracker.lanta.me:2710/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://retracker.lanta.me:2710/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -1338,13 +1338,13 @@ http://0123456789nonexistent.com:80/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
-
-udp://tracker.filemail.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 

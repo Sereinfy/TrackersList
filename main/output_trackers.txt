@@ -160,8 +160,8 @@ udp://bt.rer.lol:2710/announce
 http://ipv6.rer.lol:6969/announce
 https://retracker.x2k.ru:443/announce
 https://tracker.wsaoa.eu.org:443/announce
-udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tracker.kmzs123.com:443/announce
 http://open.acgtracker.com:1096/announce
@@ -171,9 +171,9 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 https://tr2.trkb.ru:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
-https://tracker.pmman.tech:443/announce
 https://threads.canofsocks.com:443/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.pmman.tech:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker1.itzmx.com:8080/announce
@@ -185,10 +185,10 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 https://tracker.cangku.moe:443/announce
 udp://open.tracker.cl:1337/announce
-http://bvarf.tracker.sh:2086/announce
 udp://new-line.net:6969/announce
-https://trackers.mlsub.net:443/announce
+http://bvarf.tracker.sh:2086/announce
 udp://tracker.internetwarriors.net:1337/announce
+https://trackers.mlsub.net:443/announce
 http://open.tracker.ink:6969/announce
 http://t.acg.rip:6699/announce
 https://tracker.itscraftsoftware.my.id:443/announce
