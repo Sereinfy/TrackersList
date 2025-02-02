@@ -156,12 +156,11 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-http://open.tracker.cl:1337/announce
 udp://explodie.org:6969/announce
-udp://tracker.theoks.net:6969/announce
-udp://tracker.dler.org:6969/announce
 http://tracker.lintk.me:2710/announce
 http://seeders-paradise.org:80/announce
+udp://tracker.dler.org:6969/announce
+http://open.acgtracker.com:1096/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tracker.kmzs123.cn:17272/announce
@@ -169,12 +168,11 @@ udp://tracker.breizh.pm:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://ftp.pet:2710/announce
-http://open.acgtracker.com:1096/announce
 udp://tracker.iperson.xyz:6969/announce
 https://tracker.kmzs123.com:443/announce
 http://tracker.pcfreetime.com:6969/announce
-udp://tracker.valete.tf:9999/announce
 http://cn.pcfreetime.com:6969/announce
+udp://tracker.valete.tf:9999/announce
 https://tr2.trkb.ru:443/announce
 https://threads.canofsocks.com:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
@@ -186,6 +184,7 @@ https://mathkangaroo.jp:443/announce
 http://tr1.aag.moe:2095/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
+udp://tracker.theoks.net:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://new-line.net:6969/announce
 http://bvarf.tracker.sh:2086/announce
