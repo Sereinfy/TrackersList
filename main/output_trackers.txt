@@ -164,8 +164,8 @@ udp://tracker.cyberia.is:6969/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tr3.ysagin.top:2715/announce
 https://retracker.x2k.ru:443/announce
-udp://tracker.kmzs123.cn:17272/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.kmzs123.com:443/announce
@@ -184,14 +184,14 @@ http://tracker4.itzmx.com:2710/announce
 https://mathkangaroo.jp:443/announce
 http://tr1.aag.moe:2095/announce
 https://tracker.cangku.moe:443/announce
-udp://tracker.deadorbit.nl:6969/announce
 udp://tracker1.myporn.club:9337/announce
+udp://tracker.deadorbit.nl:6969/announce
 udp://open.tracker.cl:1337/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.internetwarriors.net:1337/announce
-udp://7p41a8967.wicp.vip:22222/announce
 http://t.acg.rip:6699/announce
 http://open.tracker.ink:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 https://trackers.mlsub.net:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -206,7 +206,6 @@ udp://tracker.silksa.co.za:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 http://tracker.vraphim.com:6969/announce
-udp://mikrotik2.draatman.net:6969/announce
 https://tracker.cybar.xyz:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
@@ -331,6 +330,7 @@ udp://tracker.therarbg.com:6969/announce
 https://tracker.bangumi.zip:443/announce
 http://tracker.gdp.pw:900/announce
 udp://anzix.net:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 udp://tr2.ysagin.top:2715/announce
 udp://bigfoot1942.sektori.org:6969/announce
