@@ -568,8 +568,6 @@ http://tracker.renfei.net:8080/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 udp://open.demonii.com:1337/announce
@@ -582,15 +580,15 @@ udp://open.stealth.si:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://tracker.fnix.net:6969/announce
+http://bt.okmp3.ru:2710/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.fnix.net:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -612,15 +610,17 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-https://tracker.aburaya.live:443/announce
-
-udp://tracker.filemail.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+https://tr.nyacat.pw:443/announce
+
+https://tracker.aburaya.live:443/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -660,15 +660,15 @@ udp://tracker.kmzs123.cn:17272/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 https://tracker.kmzs123.com:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ftp.pet:2710/announce
 
@@ -680,9 +680,9 @@ http://ch3oh.ru:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tr2.trkb.ru:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -716,17 +716,17 @@ http://tr1.aag.moe:2095/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://new-line.net:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://open.tracker.cl:1337/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
@@ -746,9 +746,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -764,11 +764,11 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://static.54.161.216.95.clients.your-server.de:6969/announce
+
 http://tracker.vraphim.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
-
-udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 https://tracker.cybar.xyz:443/announce
 
@@ -1298,8 +1298,6 @@ http://tracker.renfei.net:8080/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 udp://open.demonii.com:1337/announce
@@ -1312,15 +1310,15 @@ udp://open.stealth.si:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://tracker.fnix.net:6969/announce
+http://bt.okmp3.ru:2710/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.fnix.net:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -1342,15 +1340,17 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-https://tracker.aburaya.live:443/announce
-
-udp://tracker.filemail.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
 http://tracker.bittor.pw:1337/announce
+
+https://tr.nyacat.pw:443/announce
+
+https://tracker.aburaya.live:443/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
