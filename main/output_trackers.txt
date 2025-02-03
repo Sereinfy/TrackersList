@@ -169,8 +169,8 @@ udp://tr3.ysagin.top:2715/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tracker.kmzs123.cn:17272/announce
 http://tracker.ipv6tracker.ru:80/announce
-udp://tracker.breizh.pm:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://tracker.breizh.pm:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.kmzs123.com:443/announce
 udp://ftp.pet:2710/announce
@@ -195,8 +195,8 @@ http://t.acg.rip:6699/announce
 http://open.tracker.ink:6969/announce
 https://trackers.mlsub.net:443/announce
 udp://tk1v6.trackerservers.com:8080/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 udp://tk1.trackerservers.com:8080/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://tk2.trackerservers.com:8080/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
