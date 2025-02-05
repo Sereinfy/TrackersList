@@ -202,8 +202,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
-udp://7p41a8967.wicp.vip:22222/announce
 http://tracker.netmap.top:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 http://region.nl1.privex.cc:6969/announce
 https://tracker.cybar.xyz:443/announce
 http://bt.xcty.eu.org:2095/announce

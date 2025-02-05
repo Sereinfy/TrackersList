@@ -582,13 +582,9 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 http://0123456789nonexistent.com:80/announce
-
-udp://r.l5.ca:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -600,7 +596,11 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
+
+udp://r.l5.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -608,13 +608,13 @@ udp://t.overflow.biz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -752,19 +752,19 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
-
 udp://tracker.qu.ax:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://tracker.netmap.top:6969/announce
 
-http://tracker.skyts.net:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 https://tracker.cybar.xyz:443/announce
 
@@ -1312,13 +1312,9 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 http://0123456789nonexistent.com:80/announce
-
-udp://r.l5.ca:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -1330,7 +1326,11 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
+
+udp://r.l5.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -1338,13 +1338,13 @@ udp://t.overflow.biz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
