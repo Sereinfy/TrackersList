@@ -158,11 +158,11 @@ http://tracker.dler.com:6969/announce
 http://ch3oh.ru:6969/announce
 http://bt.poletracker.org:2710/announce
 udp://u6.trakx.crim.ist:1337/announce
-https://tracker.wsaoa.eu.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.kmzs123.cn:17272/announce
-udp://ftp.pet:2710/announce
+https://tracker.wsaoa.eu.org:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.valete.tf:9999/announce
@@ -181,10 +181,10 @@ https://mathkangaroo.jp:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.theoks.net:6969/announce
-http://cn.pcfreetime.com:6969/announce
 http://tr1.aag.moe:2095/announce
-http://t.acg.rip:6699/announce
+http://cn.pcfreetime.com:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
+http://t.acg.rip:6699/announce
 http://open.tracker.ink:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://tracker.netmap.top:6969/announce
@@ -195,9 +195,10 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://region.nl1.privex.cc:6969/announce
-https://trackers.mlsub.net:443/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
+https://trackers.mlsub.net:443/announce
 http://bt.xcty.eu.org:2095/announce
+https://bt.080609.xyz:443/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -337,7 +338,6 @@ udp://x.t-1.org:6969/announce
 udp://y.t-1.org:6969/announce
 udp://hz.is:3000/announce
 udp://pirate.hz.is:1337/announce
-https://bt.080609.xyz:443/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://tracker.rev.pm:6969/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
