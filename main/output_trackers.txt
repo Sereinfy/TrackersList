@@ -160,6 +160,7 @@ udp://bt.ktrackers.com:6666/announce
 https://api.ipv4online.uk:443/announce
 http://tracker2.dler.org:80/announce
 http://tracker.qu.ax:6969/announce
+https://bt2.080609.xyz:443/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tracker.kmzs123.cn:17272/announce
 http://tracker.ipv6tracker.ru:80/announce
