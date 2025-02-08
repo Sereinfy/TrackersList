@@ -598,9 +598,9 @@ http://tracker.bittor.pw:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.gigantino.net:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -618,9 +618,9 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://evan.im:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+udp://evan.im:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -664,9 +664,9 @@ http://ch3oh.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
-
 udp://tracker.valete.tf:9999/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -702,9 +702,9 @@ https://mathkangaroo.jp:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://new-line.net:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -1328,9 +1328,9 @@ http://tracker.bittor.pw:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.gigantino.net:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -1348,9 +1348,9 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://evan.im:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+udp://evan.im:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 

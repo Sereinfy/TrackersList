@@ -169,8 +169,8 @@ https://tracker.kmzs123.com:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
-udp://martin-gebhardt.eu:25/announce
 udp://tracker.valete.tf:9999/announce
+udp://martin-gebhardt.eu:25/announce
 udp://tracker.birkenwald.de:6969/announce
 https://tr2.trkb.ru:443/announce
 udp://r.l5.ca:6969/announce
