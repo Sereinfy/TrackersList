@@ -194,8 +194,8 @@ http://tracker.netmap.top:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://cn.pcfreetime.com:6969/announce
 https://bt.080609.xyz:443/announce
-udp://tk1v6.trackerservers.com:8080/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
+udp://tk1v6.trackerservers.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 http://kiryuu-test.mywaifu.best:6969/announce

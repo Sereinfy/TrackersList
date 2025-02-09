@@ -712,9 +712,9 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker.theoks.net:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -730,9 +730,9 @@ http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-https://1337.abcvg.info:443/announce
-
 udp://tracker.qu.ax:6969/announce
+
+https://1337.abcvg.info:443/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -742,9 +742,9 @@ http://cn.pcfreetime.com:6969/announce
 
 https://bt.080609.xyz:443/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
