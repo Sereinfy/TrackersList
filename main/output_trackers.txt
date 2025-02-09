@@ -166,8 +166,8 @@ http://tracker810.xyz:11450/announce
 http://tracker.bt4g.com:2095/announce
 https://bt2.080609.xyz:443/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.wsaoa.eu.org:443/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 udp://ftp.pet:2710/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
