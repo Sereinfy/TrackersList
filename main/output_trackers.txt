@@ -177,13 +177,13 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker.pcfreetime.com:6969/announce
-http://open.acgtracker.com:1096/announce
 https://mathkangaroo.jp:443/announce
+http://open.acgtracker.com:1096/announce
 https://bt.080609.xyz:443/announce
 https://tracker.pmman.tech:443/announce
 udp://tracker.internetwarriors.net:1337/announce
-http://tr1.aag.moe:2095/announce
 http://tracker.netmap.top:6969/announce
+http://tr1.aag.moe:2095/announce
 http://t.acg.rip:6699/announce
 https://tracker.cangku.moe:443/announce
 http://open.tracker.ink:6969/announce
