@@ -188,8 +188,8 @@ https://tracker.cloudit.top:443/announce
 https://mathkangaroo.jp:443/announce
 http://tracker.pcfreetime.com:6969/announce
 http://open.acgtracker.com:1096/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.internetwarriors.net:1337/announce
+https://tracker.pmman.tech:443/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.cangku.moe:443/announce
 http://t.acg.rip:6699/announce
