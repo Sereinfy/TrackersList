@@ -612,9 +612,9 @@ udp://evan.im:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.aburaya.live:443/announce
-
 http://ipv6.rer.lol:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -634,13 +634,13 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
-udp://bandito.byterunner.io:6969/announce
+udp://explodie.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -658,11 +658,11 @@ udp://udp.tracker.projectk.org:23333/announce
 
 https://retracker.x2k.ru:443/announce
 
-udp://tr3.ysagin.top:2715/announce
+https://tracker.kmzs123.com:443/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-https://tracker.kmzs123.com:443/announce
+udp://tr3.ysagin.top:2715/announce
 
 https://tracker.wsaoa.eu.org:443/announce
 
@@ -684,9 +684,9 @@ https://tr2.trkb.ru:443/announce
 
 https://bt2.080609.xyz:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://martin-gebhardt.eu:25/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -704,9 +704,9 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 http://tracker4.itzmx.com:2710/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -716,11 +716,11 @@ https://mathkangaroo.jp:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://bt.080609.xyz:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+https://bt.080609.xyz:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -758,9 +758,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -1340,9 +1340,9 @@ udp://evan.im:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.aburaya.live:443/announce
-
 http://ipv6.rer.lol:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -1362,13 +1362,13 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
-udp://bandito.byterunner.io:6969/announce
+udp://explodie.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
