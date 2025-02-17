@@ -175,11 +175,11 @@ udp://tracker.iperson.xyz:6969/announce
 udp://bt.rer.lol:6969/announce
 https://threads.canofsocks.com:443/announce
 https://tr2.trkb.ru:443/announce
-https://bt2.080609.xyz:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+https://bt2.080609.xyz:443/announce
 http://tracker.beeimg.com:6969/announce
-http://tracker.netmap.top:6969/announce
 https://tracker.cangku.moe:443/announce
+http://tracker.netmap.top:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
@@ -204,7 +204,6 @@ http://tinfoil.space:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
-udp://tk1v6.trackerservers.com:8080/announce
 http://bt.xcty.eu.org:2095/announce
 udp://tracker.swateam.org.uk:2710/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -315,6 +314,7 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 udp://lopatins.ru:5972/announce
 http://www.chouchou.club:8080/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://tk1v6.trackerservers.com:8080/announce
 udp://open.u-p.pw:6969/announce
 udp://open.8a.is:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
