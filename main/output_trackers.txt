@@ -160,8 +160,8 @@ http://buny.uk:6969/announce
 http://bt.poletracker.org:2710/announce
 http://0123456789nonexistent.com:80/announce
 https://tracker.linvk.com:443/announce
-https://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.top:17272/announce
+https://tracker.kmzs123.com:443/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tr3.ysagin.top:2715/announce
@@ -177,10 +177,10 @@ https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.cangku.moe:443/announce
-https://bt2.080609.xyz:443/announce
 udp://tracker.internetwarriors.net:1337/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
+https://bt2.080609.xyz:443/announce
 http://tracker1.itzmx.com:8080/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://r.l5.ca:6969/announce
