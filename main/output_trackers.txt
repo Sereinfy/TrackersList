@@ -161,10 +161,10 @@ udp://tracker.kmzs123.top:17272/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tr3.ysagin.top:2715/announce
 https://tracker.kmzs123.com:443/announce
-https://tracker.uraniumhexafluori.de:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.iperson.xyz:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://ftp.pet:2710/announce
 https://threads.canofsocks.com:443/announce
 udp://bt.rer.lol:6969/announce
@@ -182,13 +182,13 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 https://mathkangaroo.jp:443/announce
 udp://tracker1.myporn.club:9337/announce
 udp://r.l5.ca:6969/announce
-http://tracker.pcfreetime.com:6969/announce
 http://fosstorrents.com:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 http://open.tracker.ink:6969/announce
 http://t.acg.rip:6699/announce
 udp://tracker.birkenwald.de:6969/announce
-https://tracker.cloudit.top:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
+https://tracker.cloudit.top:443/announce
 http://tinfoil.space:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://bvarf.tracker.sh:2086/announce
@@ -198,7 +198,6 @@ http://tr1.aag.moe:2095/announce
 https://tracker.pmman.tech:443/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.edkj.club:6969/announce
-https://bt2.080609.xyz:443/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
@@ -441,6 +440,7 @@ http://s926723.ha016.t.mydomain.zone:80/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://darkstarr.kozow.com:6881/announce
 https://tracker.cybar.xyz:443/announce
+https://bt2.080609.xyz:443/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
