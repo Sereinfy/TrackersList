@@ -162,12 +162,12 @@ http://tracker.dler.com:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://bt.poletracker.org:2710/announce
-udp://brokenhelix.loseyourip.com:6969/announce
-udp://tracker.kmzs123.top:17272/announce
 https://tracker.wsaoa.eu.org:443/announce
-udp://tr3.ysagin.top:2715/announce
+udp://tracker.kmzs123.top:17272/announce
 https://tracker.kmzs123.com:443/announce
+udp://tr3.ysagin.top:2715/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+udp://brokenhelix.loseyourip.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 https://threads.canofsocks.com:443/announce
@@ -180,9 +180,9 @@ http://tracker.netmap.top:6969/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.internetwarriors.net:1337/announce
-udp://tracker.linvk.com:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
+udp://tracker.linvk.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 https://mathkangaroo.jp:443/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -190,9 +190,9 @@ http://fosstorrents.com:6969/announce
 udp://r.l5.ca:6969/announce
 http://open.tracker.ink:6969/announce
 http://t.acg.rip:6699/announce
-http://tracker.pcfreetime.com:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 https://tracker.cloudit.top:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
@@ -203,7 +203,6 @@ http://open.acgtracker.com:1096/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.edkj.club:6969/announce
 http://torrent.hificode.in:6969/announce
-https://tracker.pmman.tech:443/announce
 http://region.nl1.privex.cc:6969/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 http://bt.xcty.eu.org:2095/announce
@@ -244,8 +243,6 @@ udp://run-2.publictracker.xyz:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://tracker.k.vu:6969/announce
 udp://tracker.farted.net:6969/announce
-http://ipv6.govt.hu:6969/announce
-http://ipv6.1337.cx:6969/announce
 https://tracker1.ctix.cn:443/announce
 http://open-v6.demonoid.ch:6969/announce
 http://incine.ru:6969/announce
@@ -398,6 +395,7 @@ udp://lulz.vpndb.org:3000/announce
 udp://api.boletera.org:3074/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+https://tracker.pmman.tech:443/announce
 http://tracker.guguan.000.pe:80/announce
 https://socket.onvo.me:443/announce
 https://trackers.run:443/announce
