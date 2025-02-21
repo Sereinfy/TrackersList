@@ -175,8 +175,8 @@ udp://bt.rer.lol:6969/announce
 udp://ftp.pet:2710/announce
 https://tr2.trkb.ru:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
-udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.netmap.top:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
 https://tracker.cangku.moe:443/announce
