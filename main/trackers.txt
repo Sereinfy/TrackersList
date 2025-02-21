@@ -602,9 +602,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://opentracker.io:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://retracker.x2k.ru:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://evan.im:6969/announce
 
@@ -614,13 +614,13 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
+udp://brokenhelix.loseyourip.com:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://tracker.kmzs123.top:17272/announce
 
 https://tracker.wsaoa.eu.org:443/announce
 
-udp://brokenhelix.loseyourip.com:6969/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -652,9 +652,9 @@ https://tracker.uraniumhexafluori.de:443/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -680,9 +680,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker.linvk.com:6969/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+udp://tracker.linvk.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -1328,9 +1328,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://opentracker.io:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://retracker.x2k.ru:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://evan.im:6969/announce
 
@@ -1339,6 +1339,8 @@ udp://tracker.fnix.net:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://brokenhelix.loseyourip.com:6969/announce
 
 http://0d.kebhana.mx:443/announce
 
