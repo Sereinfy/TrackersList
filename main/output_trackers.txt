@@ -169,8 +169,8 @@ http://0123456789nonexistent.com:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-https://tracker.kmzs123.com:443/announce
 udp://tr3.ysagin.top:2715/announce
+https://tracker.kmzs123.com:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -178,8 +178,8 @@ https://threads.canofsocks.com:443/announce
 http://tracker.netmap.top:6969/announce
 https://tr2.trkb.ru:443/announce
 udp://ftp.pet:2710/announce
-https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
 https://tracker.cangku.moe:443/announce
@@ -204,8 +204,8 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 http://torrent.hificode.in:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://cn.pcfreetime.com:6969/announce
-http://tr1.aag.moe:2095/announce
 http://open.acgtracker.com:1096/announce
+http://tr1.aag.moe:2095/announce
 http://region.nl1.privex.cc:6969/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 http://bt.xcty.eu.org:2095/announce
