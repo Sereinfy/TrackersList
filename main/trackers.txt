@@ -588,11 +588,11 @@ udp://tracker.gmi.gd:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.aburaya.live:443/announce
-
-udp://tracker.dler.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
@@ -610,9 +610,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.darkness.services:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -732,15 +732,15 @@ http://fosstorrents.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -766,9 +766,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
@@ -949,8 +949,6 @@ udp://1c.premierzal.ru:6969/announce
 http://smurfsoft.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
-
-udp://pxnet.ru:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -1306,11 +1304,11 @@ udp://tracker.gmi.gd:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.aburaya.live:443/announce
-
-udp://tracker.dler.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
@@ -1328,9 +1326,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.darkness.services:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://retracker.lanta.me:2710/announce
 

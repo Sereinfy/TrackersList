@@ -192,8 +192,8 @@ https://mathkangaroo.jp:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
 http://fosstorrents.com:6969/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 http://open.tracker.ink:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 http://t.acg.rip:6699/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://r.l5.ca:6969/announce
@@ -295,7 +295,6 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://smurfsoft.com:6969/announce
 udp://public-tracker.cf:6969/announce
-udp://pxnet.ru:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 udp://city21.pk:6969/announce
 udp://su-data.com:6969/announce
