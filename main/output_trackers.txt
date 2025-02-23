@@ -173,8 +173,8 @@ udp://tr3.ysagin.top:2715/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
-https://threads.canofsocks.com:443/announce
 http://tracker.netmap.top:6969/announce
+https://threads.canofsocks.com:443/announce
 https://tr2.trkb.ru:443/announce
 udp://ftp.pet:2710/announce
 udp://tracker.home.kmzs123.cn:17272/announce
