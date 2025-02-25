@@ -576,9 +576,9 @@ http://tracker.netmap.top:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://retracker.lanta.me:2710/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -604,9 +604,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://tracker.bt4g.com:2095/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -632,11 +632,11 @@ udp://tracker.breizh.pm:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-https://tracker.wsaoa.eu.org:443/announce
-
 udp://bt.rer.lol:6969/announce
 
 https://tr2.trkb.ru:443/announce
+
+https://tracker.wsaoa.eu.org:443/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -646,37 +646,37 @@ udp://ftp.pet:2710/announce
 
 udp://open.tracker.cl:1337/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-https://tr.nyacat.pw:443/announce
-
 http://tracker.beeimg.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://brokenhelix.loseyourip.com:6969/announce
-
-https://tracker.nitrix.me:443/announce
+udp://explodie.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://brokenhelix.loseyourip.com:6969/announce
+
 https://tracker.cangku.moe:443/announce
+
+https://tracker.nitrix.me:443/announce
 
 udp://new-line.net:6969/announce
 
 https://tracker1.520.jp:443/announce
 
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker3.itzmx.com:6961/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -686,23 +686,23 @@ https://tracker.uraniumhexafluori.de:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 https://mathkangaroo.jp:443/announce
 
-https://tracker.kmzs123.com:443/announce
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 http://fosstorrents.com:6969/announce
+
+https://tracker.kmzs123.com:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.linvk.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
 http://open.tracker.ink:6969/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -729,6 +729,8 @@ udp://tracker.edkj.club:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
@@ -1158,8 +1160,6 @@ https://track.solcloud.eu:443/announce
 
 http://jvavav.com:80/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 http://mc.itscraftsoftware.my.id:8804/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
@@ -1173,8 +1173,6 @@ http://tr1.aag.moe:2095/announce
 http://tracker.ismaarino.com:8880/announce
 
 udp://tracker.cloaka.xyz:1337/announce
-
-https://sparkle.ghostchu-services.top:443/announce
 
 udp://api.clasificadosrapidos.com:53/announce
 
@@ -1290,9 +1288,9 @@ http://tracker.netmap.top:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://retracker.lanta.me:2710/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -1318,9 +1316,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://tracker.bt4g.com:2095/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
