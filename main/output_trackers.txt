@@ -168,8 +168,8 @@ https://threads.canofsocks.com:443/announce
 udp://tracker.iperson.xyz:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.breizh.pm:6969/announce
-https://tr2.trkb.ru:443/announce
 udp://bt.rer.lol:6969/announce
+https://tr2.trkb.ru:443/announce
 udp://ftp.pet:2710/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
@@ -195,11 +195,11 @@ http://t.acg.rip:6699/announce
 udp://tracker.linvk.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://r.l5.ca:6969/announce
-https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
+https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 udp://tracker.edkj.club:6969/announce
-http://cn.pcfreetime.com:6969/announce
 udp://private.anonseed.com:6969/announce
+http://cn.pcfreetime.com:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
