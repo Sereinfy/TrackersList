@@ -171,9 +171,9 @@ udp://tracker.breizh.pm:6969/announce
 https://tr2.trkb.ru:443/announce
 udp://bt.rer.lol:6969/announce
 udp://ftp.pet:2710/announce
-udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.beeimg.com:6969/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tracker.internetwarriors.net:1337/announce
@@ -199,8 +199,8 @@ http://cn.pcfreetime.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.edkj.club:6969/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 udp://private.anonseed.com:6969/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
 udp://tracker.swateam.org.uk:2710/announce
