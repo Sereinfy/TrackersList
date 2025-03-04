@@ -143,21 +143,16 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
-http://open.tracker.cl:1337/announce
 udp://explodie.org:6969/announce
-udp://open.dstud.io:6969/announce
-http://t.jaekr.sh:6969/announce
-udp://tracker1.myporn.club:9337/announce
-udp://tracker.bittor.pw:1337/announce
-udp://open.free-tracker.ga:6969/announce
-http://wepzone.net:6969/announce
+udp://bandito.byterunner.io:6969/announce
 http://tracker810.xyz:11450/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.dmcomic.org:2710/announce
+http://t.jaekr.sh:6969/announce
 http://share.hkg-fansub.info:80/announce.php
 http://servandroidkino.ru:80/announce
+http://open.tracker.cl:1337/announce
 http://open.acgtracker.com:1096/announce
-udp://bandito.byterunner.io:6969/announce
 https://api.ipv4online.uk:443/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
@@ -174,6 +169,7 @@ http://tinfoil.space:6969/announce
 udp://ftp.pet:2710/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 http://tracker.beeimg.com:6969/announce
+udp://open.dstud.io:6969/announce
 udp://open.tracker.cl:1337/announce
 https://tracker.wsaoa.eu.org:443/announce
 udp://tracker.internetwarriors.net:1337/announce
@@ -185,6 +181,7 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker1.itzmx.com:8080/announce
 http://fosstorrents.com:6969/announce
 udp://new-line.net:6969/announce
+udp://tracker1.myporn.club:9337/announce
 http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
 https://mathkangaroo.jp:443/announce
@@ -635,6 +632,7 @@ https://opentracker.xyz:443/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
@@ -870,6 +868,7 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://parag.rs:6969/announce
 http://datascene.net:80/announce.php
 http://51.68.122.172:80/announce
+http://wepzone.net:6969/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://60-fps.org/bt:80/announce.php
 http://104.143.10.186:8000/announce
@@ -1142,6 +1141,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://stargrave.org:6969/announce
 udp://156.234.201.18:80/announce
