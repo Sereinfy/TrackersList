@@ -564,11 +564,7 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -577,6 +573,10 @@ http://tracker.netmap.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -620,9 +620,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://bandito.byterunner.io:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -638,9 +638,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 http://ch3oh.ru:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -710,13 +710,13 @@ http://tracker.skyts.net:6969/announce
 
 http://open.tracker.ink:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 udp://new-line.net:6969/announce
 
 http://fosstorrents.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://brokenhelix.loseyourip.com:6969/announce
 
@@ -1270,11 +1270,7 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 http://tracker.ipv6tracker.ru:80/announce
-
-udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -1283,6 +1279,10 @@ http://tracker.netmap.top:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://u4.trakx.crim.ist:1337/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1315,8 +1315,6 @@ udp://opentracker.io:6969/announce
 https://retracker.x2k.ru:443/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 http://0123456789nonexistent.com:80/announce
 
