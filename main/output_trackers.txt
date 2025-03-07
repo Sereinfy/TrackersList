@@ -160,10 +160,10 @@ http://home.yxgz.club:6969/announce
 http://buny.uk:6969/announce
 https://api.ipv4online.uk:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
-udp://u4.trakx.crim.ist:1337/announce
 udp://tr3.ysagin.top:2715/announce
-udp://u6.trakx.crim.ist:1337/announce
+udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.kmzs123.top:17272/announce
+udp://u6.trakx.crim.ist:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
 https://threads.canofsocks.com:443/announce
