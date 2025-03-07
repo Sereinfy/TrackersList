@@ -161,8 +161,8 @@ http://buny.uk:6969/announce
 https://api.ipv4online.uk:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
-udp://u6.trakx.crim.ist:1337/announce
 udp://tr3.ysagin.top:2715/announce
+udp://u6.trakx.crim.ist:1337/announce
 udp://tracker.kmzs123.top:17272/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tinfoil.space:6969/announce
@@ -179,9 +179,9 @@ udp://ftp.pet:2710/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 http://torrent.hificode.in:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.skynetcloud.site:6969/announce
 https://tracker.wsaoa.eu.org:443/announce
 https://tracker.nitrix.me:443/announce
 http://tracker3.itzmx.com:6961/announce
@@ -199,9 +199,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://private.anonseed.com:6969/announce
 udp://tracker.edkj.club:6969/announce
 http://cn.pcfreetime.com:6969/announce
-http://region.nl1.privex.cc:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
-https://tracker.uraniumhexafluori.de:443/announce
+http://region.nl1.privex.cc:6969/announce
 http://bt.xcty.eu.org:2095/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -411,6 +410,7 @@ http://jvavav.com:80/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://tracker.1048576.cn:17272/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.waaa.moe:6969/announce
 http://tr1.aag.moe:2095/announce
 http://tracker.ismaarino.com:8880/announce
