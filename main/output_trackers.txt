@@ -177,8 +177,8 @@ udp://bt.rer.lol:6969/announce
 https://tr2.trkb.ru:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker.beeimg.com:6969/announce
-udp://ftp.pet:2710/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+udp://ftp.pet:2710/announce
 https://tracker.nanoha.org:443/announce
 http://torrent.hificode.in:6969/announce
 https://tracker.cangku.moe:443/announce
@@ -191,8 +191,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker.pcfreetime.com:6969/announce
 http://open.tracker.ink:6969/announce
 https://mathkangaroo.jp:443/announce
-udp://new-line.net:6969/announce
 udp://brokenhelix.loseyourip.com:6969/announce
+udp://new-line.net:6969/announce
 http://t.acg.rip:6699/announce
 http://fosstorrents.com:6969/announce
 udp://tracker.linvk.com:6969/announce

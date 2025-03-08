@@ -596,9 +596,9 @@ https://retracker.x2k.ru:443/announce
 
 udp://tracker.fnix.net:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -648,9 +648,9 @@ http://tracker.beeimg.com:6969/announce
 
 https://tr.nyacat.pw:443/announce
 
-udp://ftp.pet:2710/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://ftp.pet:2710/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -686,9 +686,9 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 udp://tracker.theoks.net:6969/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -706,17 +706,17 @@ https://tracker.leechshield.link:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://new-line.net:6969/announce
-
 udp://brokenhelix.loseyourip.com:6969/announce
+
+udp://new-line.net:6969/announce
 
 http://t.acg.rip:6699/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://tracker.linvk.com:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker.linvk.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -1302,9 +1302,9 @@ https://retracker.x2k.ru:443/announce
 
 udp://tracker.fnix.net:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://0123456789nonexistent.com:80/announce
 
