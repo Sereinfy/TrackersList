@@ -604,9 +604,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -614,9 +614,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+https://api.ipv4online.uk:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -648,9 +648,9 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 https://tr.nyacat.pw:443/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://torrent.hificode.in:6969/announce
 

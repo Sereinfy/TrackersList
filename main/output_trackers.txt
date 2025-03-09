@@ -160,8 +160,8 @@ http://tinfoil.space:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tr3.ysagin.top:2715/announce
-https://api.ipv4online.uk:443/announce
 udp://tracker.kmzs123.top:17272/announce
+https://api.ipv4online.uk:443/announce
 https://threads.canofsocks.com:443/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
