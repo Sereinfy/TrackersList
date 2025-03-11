@@ -190,8 +190,8 @@ http://tracker4.itzmx.com:2710/announce
 https://tracker.wsaoa.eu.org:443/announce
 http://tracker1.itzmx.com:8080/announce
 http://open.tracker.ink:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 https://mathkangaroo.jp:443/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://brokenhelix.loseyourip.com:6969/announce
 http://t.acg.rip:6699/announce
 http://wegkxfcivgx.ydns.eu:80/announce
