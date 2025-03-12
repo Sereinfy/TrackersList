@@ -171,7 +171,6 @@ http://shubt.net:2710/announce
 http://open.acgtracker.com:1096/announce
 http://highteahop.top:6960/announce
 http://tinfoil.space:6969/announce
-https://trunker.ghostchu-services.top:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
@@ -182,6 +181,7 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.cangku.moe:443/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
+https://trunker.ghostchu-services.top:443/announce
 https://tracker.nanoha.org:443/announce
 udp://open.tracker.cl:1337/announce
 udp://tracker.internetwarriors.net:1337/announce
@@ -200,8 +200,8 @@ https://tracker.guguan.us.kg:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://private.anonseed.com:6969/announce
 http://ipv6.bt-tracker.devnak.win:6969/announce
-udp://new-line.net:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://new-line.net:6969/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.linvk.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
