@@ -596,13 +596,9 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -613,6 +609,10 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -628,8 +628,6 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://4.tracker.devnak.win:6969/announce
-
 http://0123456789nonexistent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -640,33 +638,35 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+http://torrent.hificode.in:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
 udp://opentracker.io:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
-udp://6.tracker.devnak.win:6969/announce
+udp://4.tracker.devnak.win:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 https://tr.nyacat.pw:443/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://6.tracker.devnak.win:6969/announce
+
 https://retracker.x2k.ru:443/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -692,9 +692,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://wepzone.net:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -702,11 +702,11 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://ftp.pet:2710/announce
 
-https://trunker.ghostchu-services.top:443/announce
-
 https://tracker.pmman.tech:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://trunker.ghostchu-services.top:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -744,9 +744,9 @@ http://tracker4.itzmx.com:2710/announce
 
 http://open.tracker.ink:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1308,13 +1308,9 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -1325,6 +1321,10 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
+
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -1340,8 +1340,6 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://4.tracker.devnak.win:6969/announce
-
 http://0123456789nonexistent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -1352,15 +1350,17 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+http://torrent.hificode.in:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
 udp://opentracker.io:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
+
+udp://4.tracker.devnak.win:6969/announce
 
 http://0d.kebhana.mx:443/announce
 
