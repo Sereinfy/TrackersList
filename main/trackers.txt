@@ -570,13 +570,13 @@ http://6.tracker.devnak.win:6969/announce
 
 http://tracker.23794.top:6969/announce
 
+udp://d40969.acod.regrucolo.ru:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://evan.im:6969/announce
 
 https://tr.zukizuki.org:443/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -642,9 +642,9 @@ udp://opentracker.io:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.filemail.com:6969/announce
-
 https://tr.nyacat.pw:443/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -678,9 +678,9 @@ https://api.ipv4online.uk:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://tr2.trkb.ru:443/announce
-
 http://open.acgtracker.com:1096/announce
+
+https://tr2.trkb.ru:443/announce
 
 udp://wepzone.net:6969/announce
 
@@ -720,15 +720,15 @@ udp://tracker1.myporn.club:9337/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://open.tracker.cl:1337/announce
-
 https://1337.abcvg.info:443/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://open.tracker.cl:1337/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -744,15 +744,15 @@ https://tracker.wsaoa.eu.org:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 udp://tracker.skynetcloud.site:6969/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 http://t.acg.rip:6699/announce
 
-udp://brokenhelix.loseyourip.com:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://brokenhelix.loseyourip.com:6969/announce
 
 udp://private.anonseed.com:6969/announce
 
@@ -760,9 +760,9 @@ udp://tracker.edkj.club:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://new-line.net:6969/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
+
+udp://new-line.net:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -1282,13 +1282,13 @@ http://6.tracker.devnak.win:6969/announce
 
 http://tracker.23794.top:6969/announce
 
+udp://d40969.acod.regrucolo.ru:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://evan.im:6969/announce
 
 https://tr.zukizuki.org:443/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -1354,9 +1354,9 @@ udp://opentracker.io:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.filemail.com:6969/announce
-
 https://tr.nyacat.pw:443/announce
+
+udp://tracker.filemail.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
