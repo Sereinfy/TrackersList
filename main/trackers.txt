@@ -626,9 +626,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://www.torrent.eu.org:451/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -638,11 +638,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://opentracker.io:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-https://tr.nyacat.pw:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -684,13 +684,13 @@ https://tr2.trkb.ru:443/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -1338,9 +1338,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://www.torrent.eu.org:451/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1350,11 +1350,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://opentracker.io:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-https://tr.nyacat.pw:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
