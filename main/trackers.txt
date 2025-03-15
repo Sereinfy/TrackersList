@@ -620,6 +620,8 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+https://tr.nyacat.pw:443/announce
+
 http://torrent.hificode.in:6969/announce
 
 http://tracker.bittor.pw:1337/announce
@@ -628,11 +630,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-https://tr.nyacat.pw:443/announce
+udp://www.torrent.eu.org:451/announce
 
 http://tracker.netmap.top:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 http://0123456789nonexistent.com:80/announce
 
@@ -670,9 +670,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -698,9 +698,9 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://ftp.pet:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://tracker.nitrix.me:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -720,13 +720,13 @@ https://tracker.nanoha.org:443/announce
 
 udp://explodie.org:6969/announce
 
+udp://utracker.ghostchu-services.top:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -1336,6 +1336,8 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+https://tr.nyacat.pw:443/announce
+
 http://torrent.hificode.in:6969/announce
 
 http://tracker.bittor.pw:1337/announce
@@ -1344,11 +1346,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-https://tr.nyacat.pw:443/announce
+udp://www.torrent.eu.org:451/announce
 
 http://tracker.netmap.top:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 http://0123456789nonexistent.com:80/announce
 
