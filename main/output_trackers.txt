@@ -185,8 +185,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://ftp.pet:2710/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
-https://tracker.cangku.moe:443/announce
 https://tracker.nanoha.org:443/announce
+https://tracker.cangku.moe:443/announce
 http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
 http://tracker3.itzmx.com:6961/announce
