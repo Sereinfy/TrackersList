@@ -570,6 +570,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 http://tracker.beeimg.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
@@ -583,8 +585,6 @@ udp://tracker.valete.tf:9999/announce
 http://tracker.bt4g.com:2095/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -612,13 +612,13 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+https://tracker.lilithraws.org:443/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
 udp://tracker.darkness.services:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 http://4.tracker.devnak.win:6969/announce
 
@@ -638,9 +638,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 udp://tracker.filemail.com:6969/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -668,9 +668,9 @@ udp://bt.rer.lol:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 https://tracker.pmman.tech:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -696,9 +696,9 @@ https://tracker1.520.jp:443/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -1238,6 +1238,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 http://tracker.beeimg.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
@@ -1251,8 +1253,6 @@ udp://tracker.valete.tf:9999/announce
 http://tracker.bt4g.com:2095/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1280,13 +1280,13 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+https://tracker.lilithraws.org:443/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
 udp://tracker.darkness.services:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 http://4.tracker.devnak.win:6969/announce
 
