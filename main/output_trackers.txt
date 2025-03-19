@@ -176,12 +176,12 @@ https://api.ipv4online.uk:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://ftp.pet:2710/announce
 udp://u4.trakx.crim.ist:1337/announce
-udp://u6.trakx.crim.ist:1337/announce
 udp://tracker.theoks.net:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 http://tracker.skyts.net:6969/announce
 https://tracker.cangku.moe:443/announce
-https://tracker.nanoha.org:443/announce
 http://open.tracker.ink:6969/announce
+https://tracker.nanoha.org:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
