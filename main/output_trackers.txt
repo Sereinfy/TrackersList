@@ -184,13 +184,13 @@ udp://u6.trakx.crim.ist:1337/announce
 http://tracker.skyts.net:6969/announce
 https://tracker.nanoha.org:443/announce
 http://open.tracker.ink:6969/announce
-https://tracker.guguan.dpdns.org:443/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker1.itzmx.com:8080/announce
+https://tracker.guguan.dpdns.org:443/announce
 udp://open.tracker.cl:1337/announce
-http://tracker.pcfreetime.com:6969/announce
 https://tracker.guguan.us.kg:443/announce
+http://tracker.pcfreetime.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://mathkangaroo.jp:443/announce
 http://t.acg.rip:6699/announce
