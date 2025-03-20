@@ -183,10 +183,10 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://ftp.pet:2710/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://tracker.theoks.net:6969/announce
-udp://u6.trakx.crim.ist:1337/announce
 http://tracker.skyts.net:6969/announce
-udp://utracker.ghostchu-services.top:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 https://tracker.cangku.moe:443/announce
+udp://utracker.ghostchu-services.top:6969/announce
 http://open.tracker.ink:6969/announce
 https://tracker.nanoha.org:443/announce
 http://tracker3.itzmx.com:6961/announce
@@ -198,8 +198,8 @@ udp://open.tracker.cl:1337/announce
 https://mathkangaroo.jp:443/announce
 http://t.acg.rip:6699/announce
 udp://private.anonseed.com:6969/announce
-https://tracker.guguan.dpdns.org:443/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.guguan.dpdns.org:443/announce
 http://cn.pcfreetime.com:6969/announce
 udp://files.project-cataclysm.ru:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
