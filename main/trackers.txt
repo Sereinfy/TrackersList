@@ -624,11 +624,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -640,9 +640,9 @@ http://tracker.lyretain.site:2710/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://opentracker.io:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -662,13 +662,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://tr3.ysagin.top:2715/announce
 
 http://open.acgtracker.com:1096/announce
 
 http://ch3oh.ru:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -696,9 +696,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 udp://open.dstud.io:6969/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 udp://ftp.pet:2710/announce
 
@@ -722,9 +722,9 @@ http://tracker.skyts.net:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -748,17 +748,17 @@ udp://open.tracker.cl:1337/announce
 
 http://t.acg.rip:6699/announce
 
-https://mathkangaroo.jp:443/announce
-
 udp://private.anonseed.com:6969/announce
+
+https://mathkangaroo.jp:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1288,11 +1288,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -1304,13 +1304,11 @@ http://tracker.lyretain.site:2710/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://opentracker.io:6969/announce
 
-http://tracker.netmap.top:6969/announce
+udp://tracker.qu.ax:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
+http://tracker.netmap.top:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
