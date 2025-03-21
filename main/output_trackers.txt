@@ -179,8 +179,8 @@ https://tracker.moeking.me:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://ftp.pet:2710/announce
 http://tracker.skyts.net:6969/announce
-udp://u4.trakx.crim.ist:1337/announce
 udp://utracker.ghostchu-services.top:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
 http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://u6.trakx.crim.ist:1337/announce
