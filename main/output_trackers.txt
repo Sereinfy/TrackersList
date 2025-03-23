@@ -173,8 +173,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://api.ipv4online.uk:443/announce
 https://threads.canofsocks.com:443/announce
-https://tracker.moeking.me:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
+https://tracker.moeking.me:443/announce
 udp://ftp.pet:2710/announce
 http://tracker.lyretain.site:2710/announce
 udp://tracker.theoks.net:6969/announce
@@ -184,8 +184,8 @@ http://open.tracker.ink:6969/announce
 https://tracker.cangku.moe:443/announce
 udp://u4.trakx.crim.ist:1337/announce
 http://tracker3.itzmx.com:6961/announce
-udp://u6.trakx.crim.ist:1337/announce
 http://tracker4.itzmx.com:2710/announce
+udp://u6.trakx.crim.ist:1337/announce
 http://tracker1.itzmx.com:8080/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.nanoha.org:443/announce
