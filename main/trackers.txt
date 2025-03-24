@@ -574,11 +574,11 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.kmzs123.top:17272/announce
 
 http://bt.okmp3.ru:2710/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -690,9 +690,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -708,9 +708,9 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -732,9 +732,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1232,11 +1232,11 @@ udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.kmzs123.top:17272/announce
 
 http://bt.okmp3.ru:2710/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
