@@ -512,8 +512,6 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://1337.abcvg.info:80/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -554,6 +552,8 @@ udp://ismaarino.com:1234/announce
 
 udp://tracker.valete.tf:9999/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -578,13 +578,13 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://bt.okmp3.ru:2710/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -644,25 +644,25 @@ udp://tracker.iperson.xyz:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://api.ipv4online.uk:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -694,9 +694,9 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://open.tracker.ink:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -720,17 +720,17 @@ udp://open.tracker.cl:1337/announce
 
 http://t.acg.rip:6699/announce
 
-https://tracker.nanoha.org:443/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+https://tracker.nanoha.org:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://private.anonseed.com:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://cn.pcfreetime.com:6969/announce
+udp://private.anonseed.com:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -1170,8 +1170,6 @@ https://bt2.080609.xyz:443/announce
 
 udp://brokenhelix.loseyourip.com:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -1212,6 +1210,8 @@ udp://ismaarino.com:1234/announce
 
 udp://tracker.valete.tf:9999/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -1236,13 +1236,13 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://bt.okmp3.ru:2710/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
