@@ -628,9 +628,9 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -664,9 +664,9 @@ udp://wepzone.net:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
@@ -740,11 +740,11 @@ http://t.acg.rip:6699/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+https://mathkangaroo.jp:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
-
-https://mathkangaroo.jp:443/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -1285,6 +1285,8 @@ udp://opentracker.io:6969/announce
 http://tracker.23794.top:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
