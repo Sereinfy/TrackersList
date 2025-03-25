@@ -163,6 +163,7 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
+udp://tracker.vraphim.com:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tr3.ysagin.top:2715/announce
@@ -183,8 +184,8 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 https://tracker.guguan.us.kg:443/announce
 http://tracker1.itzmx.com:8080/announce
-udp://u4.trakx.crim.ist:1337/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://u4.trakx.crim.ist:1337/announce
 udp://open.tracker.cl:1337/announce
 http://t.acg.rip:6699/announce
 udp://u6.trakx.crim.ist:1337/announce
@@ -192,9 +193,9 @@ https://mathkangaroo.jp:443/announce
 http://bt.xcty.eu.org:2095/announce
 http://cn.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-https://tracker.nanoha.org:443/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
+https://tracker.nanoha.org:443/announce
 udp://files.project-cataclysm.ru:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.birkenwald.de:6969/announce
