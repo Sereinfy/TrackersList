@@ -662,15 +662,15 @@ udp://retracker.hotplug.ru:2710/announce
 
 http://fleira.no:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://wepzone.net:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -720,9 +720,9 @@ udp://explodie.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.theoks.net:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -742,11 +742,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.edkj.club:6969/announce
 
+https://tracker.opendev.cloud:443/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 https://tracker.guguan.us.kg:443/announce
-
-https://tracker.opendev.cloud:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -776,11 +776,11 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 udp://files.project-cataclysm.ru:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
@@ -987,8 +987,6 @@ http://tracker.nartlof.com.br:6969/announce
 udp://tr2.ysagin.top:2715/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
-
-https://k.avc.cx:443/announce
 
 udp://z.paranoid.agency:6969/announce
 
