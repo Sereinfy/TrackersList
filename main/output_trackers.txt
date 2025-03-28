@@ -176,8 +176,8 @@ http://open.acgtracker.com:1096/announce
 udp://tracker.edkj.club:6969/announce
 http://tracker.netmap.top:6969/announce
 http://fleira.no:6969/announce
-https://tracker.pmman.tech:443/announce
 udp://tr3.ysagin.top:2715/announce
+https://tracker.pmman.tech:443/announce
 udp://admin.52ywp.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://api.ipv4online.uk:443/announce
