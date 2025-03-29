@@ -178,9 +178,9 @@ udp://tracker.iperson.xyz:6969/announce
 http://fleira.no:6969/announce
 https://tracker.pmman.tech:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://tracker-v6.opendev.cloud:8000/announce
 udp://admin.52ywp.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://tracker-v6.opendev.cloud:8000/announce
 https://api.ipv4online.uk:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
@@ -192,8 +192,8 @@ http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker.guguan.us.kg:443/announce
-https://tracker.cangku.moe:443/announce
 http://tracker3.itzmx.com:6961/announce
+https://tracker.cangku.moe:443/announce
 http://tracker4.itzmx.com:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -205,7 +205,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 udp://files.project-cataclysm.ru:6969/announce
-udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://tracker.gbitt.info:80/announce
@@ -611,6 +610,7 @@ udp://opentrackr.org:1337/announce
 udp://cutscloud.duckdns.org:6969/announce
 http://opentracker.xyz:80/announce
 udp://yahor.ftp.sh:6969/announce
+udp://tracker.swateam.org.uk:2710/announce
 https://opentracker.xyz/announce
 http://fxtt.ru:80/announce
 udp://yann5.hexanyn.fr:6969/announce
