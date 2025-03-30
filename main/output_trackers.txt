@@ -194,8 +194,8 @@ https://tracker.guguan.us.kg:443/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-udp://open.tracker.cl:1337/announce
 http://t.acg.rip:6699/announce
+udp://open.tracker.cl:1337/announce
 http://bt.xcty.eu.org:2095/announce
 http://cn.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce

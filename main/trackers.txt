@@ -598,9 +598,9 @@ udp://bandito.byterunner.io:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 udp://tracker.srv00.com:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -664,9 +664,9 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 https://tracker.linvk.com:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -676,9 +676,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://open.dstud.io:6969/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker-v6.opendev.cloud:8000/announce
+
+https://api.ipv4online.uk:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -686,9 +686,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://explodie.org:6969/announce
 
-https://tracker.moeking.me:443/announce
-
 udp://tracker.waaa.moe:6969/announce
+
+https://tracker.moeking.me:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -724,9 +724,9 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://tracker.gcrenwp.top:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -734,9 +734,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://open.tracker.cl:1337/announce
-
 http://t.acg.rip:6699/announce
+
+udp://open.tracker.cl:1337/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -1254,9 +1254,9 @@ udp://bandito.byterunner.io:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 udp://tracker.srv00.com:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
