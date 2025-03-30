@@ -618,21 +618,21 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://opentracker.io:6969/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://opentracker.io:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -658,17 +658,17 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 http://fleira.no:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 udp://tracker.breizh.pm:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+https://tracker.pmman.tech:443/announce
 
-https://tracker.linvk.com:443/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
 udp://admin.52ywp.com:6969/announce
+
+https://tracker.linvk.com:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -724,9 +724,9 @@ http://tracker3.itzmx.com:6961/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://tracker4.itzmx.com:2710/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -1274,15 +1274,15 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://opentracker.io:6969/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://opentracker.io:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
