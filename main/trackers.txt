@@ -614,11 +614,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.srv00.com:6969/announce
 
+https://tracker.lilithraws.org:443/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -638,9 +638,9 @@ http://torrent.hificode.in:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://opentracker.io:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -650,9 +650,9 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://exodus.desync.com:6969/announce
-
 https://tracker.ghostchu-services.top:443/announce
+
+udp://exodus.desync.com:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -700,9 +700,9 @@ udp://tracker.waaa.moe:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://explodie.org:6969/announce
-
 https://tracker.opendev.cloud:443/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -734,9 +734,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 http://tracker2.itzmx.com:6961/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -1268,11 +1268,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.srv00.com:6969/announce
 
+https://tracker.lilithraws.org:443/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -1292,11 +1292,13 @@ http://torrent.hificode.in:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://opentracker.io:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://t.overflow.biz:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 http://0d.kebhana.mx:443/announce
 
