@@ -154,7 +154,6 @@ udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-udp://tracker.bittor.pw:1337/announce
 http://www.torrentsnipe.info:2701/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.qu.ax:6969/announce
@@ -164,14 +163,13 @@ http://tracker.bt-hash.com:80/announce
 http://shubt.net:2710/announce
 http://share.hkg-fansub.info:80/announce.php
 http://public.tracker.vraphim.com:6969/announce
+http://open.acgtracker.com:1096/announce
 http://finbytes.org:80/announce.php
 http://buny.uk:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://t.overflow.biz:6969/announce
-http://open.acgtracker.com:1096/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.netmap.top:6969/announce
@@ -187,6 +185,7 @@ https://threads.canofsocks.com:443/announce
 udp://tracker-v6.opendev.cloud:8000/announce
 https://tracker.opendev.cloud:443/announce
 http://tracker.skyts.net:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 https://tracker.moeking.me:443/announce
 http://open.tracker.ink:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
@@ -195,13 +194,13 @@ udp://tracker.edkj.club:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
-https://tracker.guguan.us.kg:443/announce
 http://bt.xcty.eu.org:2095/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.guguan.us.kg:443/announce
 http://t.acg.rip:6699/announce
 http://cn.pcfreetime.com:6969/announce
-udp://open.tracker.cl:1337/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+udp://open.tracker.cl:1337/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 udp://files.project-cataclysm.ru:6969/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -1124,6 +1123,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://stargrave.org:6969/announce
 udp://156.234.201.18:80/announce
