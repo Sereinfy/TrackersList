@@ -636,9 +636,9 @@ udp://tracker.srv00.com:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.darkness.services:6969/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -650,9 +650,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -684,9 +684,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -728,9 +728,9 @@ https://1337.abcvg.info:443/announce
 
 https://tracker.jdx3.org:443/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -768,13 +768,13 @@ http://bt.xcty.eu.org:2095/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://t.acg.rip:6699/announce
+udp://thouvenin.cloud:6969/announce
 
-https://tracker.guguan.us.kg:443/announce
+http://t.acg.rip:6699/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://thouvenin.cloud:6969/announce
+https://tracker.guguan.us.kg:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1290,9 +1290,9 @@ udp://tracker.srv00.com:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.darkness.services:6969/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -1304,9 +1304,9 @@ http://ipv6.rer.lol:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
