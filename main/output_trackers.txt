@@ -180,9 +180,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 http://fleira.no:6969/announce
 https://api.ipv4online.uk:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tracker.waaa.moe:6969/announce
 https://threads.canofsocks.com:443/announce
 udp://tracker-v6.opendev.cloud:8000/announce
+udp://tracker.waaa.moe:6969/announce
 https://tracker.opendev.cloud:443/announce
 udp://tracker.theoks.net:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -196,8 +196,8 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://bt.xcty.eu.org:2095/announce
 http://tracker.pcfreetime.com:6969/announce
-http://t.acg.rip:6699/announce
 http://cn.pcfreetime.com:6969/announce
+http://t.acg.rip:6699/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 udp://files.project-cataclysm.ru:6969/announce
