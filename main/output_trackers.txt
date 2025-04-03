@@ -185,11 +185,11 @@ https://threads.canofsocks.com:443/announce
 udp://tracker-v6.opendev.cloud:8000/announce
 https://tracker.opendev.cloud:443/announce
 udp://tracker.waaa.moe:6969/announce
-http://tracker.skyts.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+http://tracker.skyts.net:6969/announce
 http://open.tracker.ink:6969/announce
-https://tracker.moeking.me:443/announce
 https://tracker.guguan.dpdns.org:443/announce
+https://tracker.moeking.me:443/announce
 https://tracker.cangku.moe:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker3.itzmx.com:6961/announce

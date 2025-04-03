@@ -570,10 +570,6 @@ http://tracker.renfei.net:8080/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://4.tracker.devnak.win:6969/announce
-
-http://6.tracker.devnak.win:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -610,13 +606,13 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -642,9 +638,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-http://tracker.23794.top:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -652,9 +648,9 @@ http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -682,15 +678,19 @@ udp://bt.rer.lol:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-https://tracker.linvk.com:443/announce
+http://4.tracker.devnak.win:6969/announce
 
-udp://admin.52ywp.com:6969/announce
+http://6.tracker.devnak.win:6969/announce
+
+https://tracker.linvk.com:443/announce
 
 http://tracker.lyretain.site:2710/announce
 
-udp://exodus.desync.com:6969/announce
+udp://admin.52ywp.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -714,29 +714,29 @@ https://tracker.jdx3.org:443/announce
 
 https://tracker.opendev.cloud:443/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 udp://ftp.pet:2710/announce
 
 https://1337.abcvg.info:443/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-http://open.tracker.ink:6969/announce
-
-https://tracker.moeking.me:443/announce
-
 https://tracker.gcrenwp.top:443/announce
 
+http://open.tracker.ink:6969/announce
+
 https://tracker.guguan.dpdns.org:443/announce
+
+https://tracker.moeking.me:443/announce
 
 http://fosstorrents.com:6969/announce
 
@@ -744,9 +744,9 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://tracker1.520.jp:443/announce
-
 udp://thouvenin.cloud:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1226,10 +1226,6 @@ http://tracker.renfei.net:8080/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://4.tracker.devnak.win:6969/announce
-
-http://6.tracker.devnak.win:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -1266,13 +1262,13 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -1298,9 +1294,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-http://tracker.23794.top:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -1308,9 +1304,9 @@ http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 http://1337.abcvg.info:80/announce
 
