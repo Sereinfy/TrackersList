@@ -183,8 +183,8 @@ http://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
 http://tracker.lyretain.site:2710/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-http://fleira.no:6969/announce
 https://api.ipv4online.uk:443/announce
+http://fleira.no:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
 udp://tracker.waaa.moe:6969/announce
