@@ -698,9 +698,9 @@ https://api.ipv4online.uk:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker-v6.opendev.cloud:8000/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://tracker.waaa.moe:6969/announce
 
@@ -722,17 +722,17 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.moeking.me:443/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+https://tracker.moeking.me:443/announce
 
 http://open.tracker.ink:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
