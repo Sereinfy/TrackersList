@@ -182,9 +182,9 @@ http://public.tracker.vraphim.com:6969/announce
 http://open.acgtracker.com:1096/announce
 http://tracker1.itzmx.com:8080/announce
 http://torrent.hificode.in:6969/announce
+udp://tracker.nitrix.me:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://tracker.nitrix.me:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://api.ipv4online.uk:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
