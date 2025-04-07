@@ -642,9 +642,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 udp://tracker.nitrix.me:6969/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -684,9 +684,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -728,9 +728,9 @@ udp://tracker.theoks.net:6969/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-udp://ftp.pet:2710/announce
-
 https://tracker.opendev.cloud:443/announce
+
+udp://ftp.pet:2710/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -776,9 +776,9 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://t.acg.rip:6699/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1302,9 +1302,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 udp://tracker.nitrix.me:6969/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
