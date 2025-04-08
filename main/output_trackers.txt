@@ -199,8 +199,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://new-line.net:6969/announce
 http://bt.xcty.eu.org:2095/announce
 http://tracker.pcfreetime.com:6969/announce
-https://tracker.moeking.me:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+https://tracker.moeking.me:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker3.itzmx.com:6961/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
