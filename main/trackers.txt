@@ -578,6 +578,8 @@ udp://open.demonii.com:1337/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://evan.im:6969/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -594,8 +596,6 @@ http://tracker.renfei.net:8080/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -609,8 +609,6 @@ udp://p2p.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -652,9 +650,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.nitrix.me:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -674,15 +672,17 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://opentracker.io:6969/announce
+http://ipv4.rer.lol:2710/announce
 
 http://torrent.hificode.in:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 http://4.tracker.devnak.win:6969/announce
 
 http://6.tracker.devnak.win:6969/announce
+
+udp://opentracker.io:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -690,9 +690,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -726,9 +726,9 @@ udp://exodus.desync.com:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://tracker.jdx3.org:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -736,9 +736,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://explodie.org:6969/announce
 
-http://fleira.no:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://fleira.no:6969/announce
 
 udp://tracker-v6.opendev.cloud:8000/announce
 
@@ -754,9 +754,9 @@ https://tracker.opendev.cloud:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://thouvenin.cloud:6969/announce
+
+udp://ftp.pet:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -784,13 +784,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.moeking.me:443/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -1240,6 +1240,8 @@ udp://open.demonii.com:1337/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
+udp://evan.im:6969/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -1256,8 +1258,6 @@ http://tracker.renfei.net:8080/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-http://ipv4.rer.lol:2710/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -1271,8 +1271,6 @@ udp://p2p.publictracker.xyz:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -1314,9 +1312,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.nitrix.me:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -1336,15 +1334,17 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://opentracker.io:6969/announce
+http://ipv4.rer.lol:2710/announce
 
 http://torrent.hificode.in:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 http://4.tracker.devnak.win:6969/announce
 
 http://6.tracker.devnak.win:6969/announce
+
+udp://opentracker.io:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
