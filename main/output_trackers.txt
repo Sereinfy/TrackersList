@@ -181,6 +181,7 @@ http://tracker.qu.ax:6969/announce
 http://open.acgtracker.com:1096/announce
 http://ch3oh.ru:6969/announce
 http://tracker1.itzmx.com:8080/announce
+https://tracker.expli.top:443/announce
 udp://tracker.iperson.xyz:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://api.ipv4online.uk:443/announce
@@ -776,7 +777,6 @@ udp://tracker1.itzmx.com:8080/announce
 udp://retracker.lanta-net.ru:2710/announce
 https://tracker.m-team.cc:443/announce.php
 https://tracker.vectahosting.eu:443/announce
-https://tracker.expli.top:443/announce
 http://ftp.pet:7777/announce
 http://45.154.253.7/announce
 http://open.touki.ru/announce
