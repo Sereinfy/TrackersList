@@ -622,9 +622,9 @@ udp://tracker.gigantino.net:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -684,9 +684,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 http://ipv4.rer.lol:2710/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -732,9 +732,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-https://1337.abcvg.info:443/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+https://1337.abcvg.info:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -742,9 +742,9 @@ https://tracker.opendev.cloud:443/announce
 
 udp://ftp.pet:2710/announce
 
-http://fosstorrents.com:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -1282,9 +1282,9 @@ udp://tracker.gigantino.net:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 

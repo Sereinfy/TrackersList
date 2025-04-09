@@ -190,8 +190,8 @@ udp://tracker-v6.opendev.cloud:8000/announce
 http://fleira.no:6969/announce
 https://tracker.opendev.cloud:443/announce
 udp://ftp.pet:2710/announce
-http://fosstorrents.com:6969/announce
 udp://tracker1.myporn.club:9337/announce
+http://fosstorrents.com:6969/announce
 http://open.tracker.ink:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 udp://tracker.edkj.club:6969/announce
