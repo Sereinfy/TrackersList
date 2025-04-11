@@ -189,8 +189,8 @@ https://api.ipv4online.uk:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
 udp://ftp.pet:2710/announce
-https://tracker.opendev.cloud:443/announce
 http://fosstorrents.com:6969/announce
+https://tracker.opendev.cloud:443/announce
 http://fleira.no:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
