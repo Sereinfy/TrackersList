@@ -192,7 +192,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://threads.canofsocks.com:443/announce
 udp://ftp.pet:2710/announce
 http://fosstorrents.com:6969/announce
-https://tracker.opendev.cloud:443/announce
 http://fleira.no:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
@@ -229,7 +228,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://free.publictracker.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
-udp://open.tracker.cl:1337/announce
 https://tr.burnabyhighstar.com:443/announce
 udp://open.xxtor.com:3074/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -403,7 +401,6 @@ udp://tk4.leechshield.link:6969/announce
 https://tracker.moeking.me:443/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
-https://tracker.guguan.us.kg:443/announce
 udp://rt.tace.ru:6969/announce
 udp://db.koikia.eu:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
@@ -812,6 +809,7 @@ http://45.154.253.5/announce
 http://tracker.internetwarriors.net:1337/announce
 https://tracker.torrentsnows.com/announce
 udp://tracker.internetwarriors.net:1337/announce
+udp://open.tracker.cl:1337/announce
 http://45.154.253.6/announce
 https://abir0dev.github.io:443/announce
 udp://tracker.zemoj.com:6969/announce
