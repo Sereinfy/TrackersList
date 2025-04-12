@@ -654,9 +654,9 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -698,9 +698,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://torrent.i.ng:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -1312,9 +1312,9 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
