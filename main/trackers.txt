@@ -746,9 +746,9 @@ udp://new-line.net:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://bt.xcty.eu.org:2095/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
