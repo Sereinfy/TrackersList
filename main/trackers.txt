@@ -732,9 +732,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://new-line.net:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1289,6 +1289,8 @@ https://tracker.ghostchu-services.top:443/announce
 http://tracker.23794.top:6969/announce
 
 udp://opentracker.io:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
