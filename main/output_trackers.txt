@@ -187,8 +187,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://ftp.pet:2710/announce
 http://fosstorrents.com:6969/announce
 https://threads.canofsocks.com:443/announce
-https://tracker.guguan.dpdns.org:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+https://tracker.guguan.dpdns.org:443/announce
 http://open.tracker.ink:6969/announce
 udp://new-line.net:6969/announce
 http://fleira.no:6969/announce
