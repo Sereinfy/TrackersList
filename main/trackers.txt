@@ -608,13 +608,13 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -654,9 +654,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -668,11 +668,11 @@ http://open.acgtracker.com:1096/announce
 
 udp://bt.rer.lol:6969/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://tr3.ysagin.top:2715/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -1244,13 +1244,13 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://bandito.byterunner.io:6969/announce
 
