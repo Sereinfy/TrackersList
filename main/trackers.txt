@@ -708,11 +708,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+http://tracker.skyts.net:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 https://api.ipv4online.uk:443/announce
-
-http://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -736,9 +736,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://new-line.net:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
