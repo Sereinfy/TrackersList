@@ -552,6 +552,8 @@ udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://martin-gebhardt.eu:25/announce
+
 https://tracker.bjut.jp:443/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -566,8 +568,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-https://tr.nyacat.pw:443/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -579,8 +579,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.jdx3.org:443/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://martin-gebhardt.eu:25/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -626,9 +624,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -656,6 +654,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
@@ -672,11 +672,11 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://thouvenin.cloud:6969/announce
 
 http://tracker.lyretain.site:2710/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -692,9 +692,9 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://explodie.org:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -710,9 +710,9 @@ udp://torrent.i.ng:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://ftp.pet:2710/announce
 
@@ -765,8 +765,6 @@ http://open.acgnxtracker.com:80/announce
 udp://tracker.teambelgium.net:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-udp://fe.dealclub.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -1176,6 +1174,8 @@ udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+udp://martin-gebhardt.eu:25/announce
+
 https://tracker.bjut.jp:443/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -1190,8 +1190,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-https://tr.nyacat.pw:443/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -1203,8 +1201,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 https://tracker.jdx3.org:443/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://martin-gebhardt.eu:25/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -1250,9 +1246,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 

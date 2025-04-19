@@ -203,7 +203,6 @@ udp://opentracker.i2p.rocks:6969/announce
 http://open.acgnxtracker.com:80/announce
 udp://tracker.teambelgium.net:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-udp://fe.dealclub.de:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 http://0205.uptm.ch:6969/announce
@@ -522,6 +521,7 @@ http://opentracker.xyz/announce
 https://tracker.4.babico.name.tr/announce
 https://xtremex.herokuapp.com:443/announce
 udp://app.icon256.com:8000/announce
+udp://fe.dealclub.de:6969/announce
 udp://qtstm32fan.ru:6969/announce
 http://tracker2.dler.org/announce
 http://t2.pow7.com/announce
