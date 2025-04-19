@@ -184,9 +184,9 @@ http://tracker1.itzmx.com:8080/announce
 http://open.acgtracker.com:1096/announce
 http://bt.okmp3.ru:2710/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-udp://tracker.home.kmzs123.cn:17272/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://api.ipv4online.uk:443/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 udp://ftp.pet:2710/announce
 http://fosstorrents.com:6969/announce
 https://threads.canofsocks.com:443/announce
