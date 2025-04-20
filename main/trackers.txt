@@ -670,9 +670,9 @@ http://torrent.hificode.in:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -684,29 +684,29 @@ http://open.acgtracker.com:1096/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+udp://thouvenin.cloud:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
 
-https://tr.nyacat.pw:443/announce
-
 udp://bt.rer.lol:6969/announce
-
-udp://thouvenin.cloud:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://admin.52ywp.com:6969/announce
+https://tr.nyacat.pw:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://open.dstud.io:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-https://tracker.linvk.com:443/announce
-
 https://tracker.pmman.tech:443/announce
+
+https://tracker.linvk.com:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -736,9 +736,9 @@ http://fosstorrents.com:6969/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
