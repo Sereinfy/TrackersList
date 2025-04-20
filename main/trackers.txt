@@ -646,9 +646,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -674,13 +674,13 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://ch3oh.ru:6969/announce
 
 udp://thouvenin.cloud:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -1266,9 +1266,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
