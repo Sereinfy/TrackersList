@@ -188,8 +188,8 @@ udp://ftp.pet:2710/announce
 https://threads.canofsocks.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.guguan.dpdns.org:443/announce
-udp://tracker.home.kmzs123.cn:17272/announce
 udp://new-line.net:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 http://cn.pcfreetime.com:6969/announce
 http://open.tracker.ink:6969/announce
 udp://tracker.edkj.club:6969/announce

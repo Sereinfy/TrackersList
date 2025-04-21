@@ -636,9 +636,9 @@ https://tracker.zhuqiy.top:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://ipv6.rer.lol:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -646,9 +646,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.23794.top:6969/announce
 
-https://tracker.expli.top:443/announce
-
 udp://opentracker.io:6969/announce
+
+https://tracker.expli.top:443/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -658,11 +658,11 @@ udp://tracker.filemail.com:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
+udp://thouvenin.cloud:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
-
-udp://thouvenin.cloud:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -728,9 +728,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 udp://new-line.net:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1256,9 +1256,9 @@ https://tracker.zhuqiy.top:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://ipv6.rer.lol:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -1266,9 +1266,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.23794.top:6969/announce
 
-https://tracker.expli.top:443/announce
-
 udp://opentracker.io:6969/announce
+
+https://tracker.expli.top:443/announce
 
 http://1337.abcvg.info:80/announce
 
