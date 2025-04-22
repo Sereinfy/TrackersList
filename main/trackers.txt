@@ -632,9 +632,9 @@ udp://www.torrent.eu.org:451/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://tracker.dler.com:6969/announce
-
 https://tracker.leechshield.link:443/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -656,9 +656,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 https://tracker.expli.top:443/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -696,9 +696,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://torrent.i.ng:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -1252,9 +1252,9 @@ udp://www.torrent.eu.org:451/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://tracker.dler.com:6969/announce
-
 https://tracker.leechshield.link:443/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
