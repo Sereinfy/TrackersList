@@ -182,8 +182,8 @@ https://tracker.pmman.tech:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://api.ipv4online.uk:443/announce
-http://fosstorrents.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
+http://fosstorrents.com:6969/announce
 udp://ftp.pet:2710/announce
 https://threads.canofsocks.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
