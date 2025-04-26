@@ -638,8 +638,6 @@ udp://tracker.gigantino.net:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://chihaya.de:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -653,6 +651,8 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -682,9 +682,9 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.trackarr.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -694,9 +694,9 @@ https://tracker.expli.top:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -762,15 +762,15 @@ http://fosstorrents.com:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://trackarr.org:6969/announce
+
+udp://ftp.pet:2710/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1260,8 +1260,6 @@ udp://tracker.gigantino.net:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://chihaya.de:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -1275,6 +1273,8 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -1304,9 +1304,9 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.trackarr.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -1315,8 +1315,6 @@ http://tracker.23794.top:6969/announce
 https://tracker.expli.top:443/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
