@@ -656,9 +656,9 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -688,11 +688,11 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.trackarr.org:6969/announce
+
 https://tracker.expli.top:443/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.trackarr.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -704,13 +704,13 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.torrust-demo.com:6969/announce
 
-http://tracker.netmap.top:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://ch3oh.ru:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -718,9 +718,9 @@ udp://tr3.ysagin.top:2715/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://tracker.lyretain.site:2710/announce
-
 udp://torrent.i.ng:6969/announce
+
+http://tracker.lyretain.site:2710/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -740,11 +740,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://tracker.theoks.net:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.theoks.net:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -770,13 +770,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://trackarr.org:6969/announce
 
-udp://tracker.edkj.club:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+udp://tracker.edkj.club:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1278,9 +1278,9 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -1310,11 +1310,11 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.trackarr.org:6969/announce
+
 https://tracker.expli.top:443/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.trackarr.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
