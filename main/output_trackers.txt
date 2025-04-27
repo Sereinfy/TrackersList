@@ -187,12 +187,12 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 https://api.ipv4online.uk:443/announce
 udp://tracker1.myporn.club:9337/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-http://fosstorrents.com:6969/announce
 udp://new-line.net:6969/announce
+http://fosstorrents.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
-udp://ftp.pet:2710/announce
 http://cn.pcfreetime.com:6969/announce
+udp://ftp.pet:2710/announce
 https://threads.canofsocks.com:443/announce
 udp://tracker.edkj.club:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce

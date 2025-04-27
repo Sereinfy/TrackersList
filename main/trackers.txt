@@ -628,17 +628,17 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.kmzs123.top:17272/announce
+
 http://ipv6.rer.lol:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-https://tracker.lilithraws.org:443/announce
 
 udp://tracker.trackarr.org:6969/announce
 
@@ -648,15 +648,15 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://tracker.23794.top:6969/announce
+
+http://ns3109441.mypdns.org:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 https://tracker.expli.top:443/announce
 
@@ -672,9 +672,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://torrent.i.ng:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -704,9 +704,9 @@ https://tracker.linvk.com:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -728,17 +728,17 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://trackarr.org:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 udp://new-line.net:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-udp://ftp.pet:2710/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://ftp.pet:2710/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -1250,17 +1250,17 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.kmzs123.top:17272/announce
+
 http://ipv6.rer.lol:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-https://tracker.lilithraws.org:443/announce
 
 udp://tracker.trackarr.org:6969/announce
 
@@ -1270,15 +1270,15 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://tracker.23794.top:6969/announce
+
+http://ns3109441.mypdns.org:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 https://tracker.expli.top:443/announce
 
