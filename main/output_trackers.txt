@@ -176,8 +176,8 @@ http://tracker.dler.org:6969/announce
 http://t.overflow.biz:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://open.acgtracker.com:1096/announce
-http://ns3109441.mypdns.org:6969/announce
 http://torrent.hificode.in:6969/announce
+http://ns3109441.mypdns.org:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ch3oh.ru:6969/announce
 udp://admin.52ywp.com:6969/announce
@@ -189,15 +189,14 @@ udp://tracker1.myporn.club:9337/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
+http://cn.pcfreetime.com:6969/announce
 udp://new-line.net:6969/announce
 http://fosstorrents.com:6969/announce
-http://cn.pcfreetime.com:6969/announce
 udp://tracker.edkj.club:6969/announce
-https://threads.canofsocks.com:443/announce
-udp://ftp.pet:2710/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
 http://bt.xcty.eu.org:2095/announce
+https://threads.canofsocks.com:443/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://t.acg.rip:6699/announce
@@ -253,6 +252,7 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://carr.codes:6969/announce
 udp://jutone.com:6969/announce
 https://t1.hloli.org:443/announce
+udp://ftp.pet:2710/announce
 http://tracker.enitin.xyz:80/announce
 udp://acxx.de:6969/announce
 udp://private.anonseed.com:6969/announce
