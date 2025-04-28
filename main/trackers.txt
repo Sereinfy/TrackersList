@@ -644,8 +644,6 @@ udp://tracker.darkness.services:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -655,6 +653,8 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.trackarr.org:6969/announce
 
 http://ipv6.rer.lol:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -668,23 +668,23 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.leechshield.link:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 http://tracker.23794.top:6969/announce
 
 https://tracker.expli.top:443/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -694,9 +694,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -708,9 +708,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 http://tracker.lyretain.site:2710/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -750,17 +750,17 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://fosstorrents.com:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://new-line.net:6969/announce
-
 udp://tracker.edkj.club:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
+
+udp://new-line.net:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1264,8 +1264,6 @@ udp://tracker.darkness.services:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -1275,6 +1273,8 @@ udp://tracker.kmzs123.top:17272/announce
 udp://tracker.trackarr.org:6969/announce
 
 http://ipv6.rer.lol:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1288,21 +1288,19 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.leechshield.link:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 http://tracker.23794.top:6969/announce
 
 https://tracker.expli.top:443/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.filemail.com:6969/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
