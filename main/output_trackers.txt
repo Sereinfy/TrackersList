@@ -178,8 +178,8 @@ http://t.overflow.biz:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://open.acgtracker.com:1096/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://torrent.hificode.in:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 http://tracker.netmap.top:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://ch3oh.ru:6969/announce
