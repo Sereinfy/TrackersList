@@ -652,11 +652,11 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.dler.com:6969/announce
 
+https://tracker.expli.top:443/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-https://tracker.expli.top:443/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -684,9 +684,9 @@ udp://bt.rer.lol:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://wepzone.net:6969/announce
 
@@ -694,11 +694,11 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -1272,11 +1272,11 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.dler.com:6969/announce
 
+https://tracker.expli.top:443/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-https://tracker.expli.top:443/announce
 
 udp://t.overflow.biz:6969/announce
 
