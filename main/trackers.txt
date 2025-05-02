@@ -576,8 +576,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://evan.im:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.jdx3.org:443/announce
@@ -614,6 +612,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
+udp://evan.im:6969/announce
+
 udp://tracker.valete.tf:9999/announce
 
 udp://udp.tracker.projectk.org:23333/announce
@@ -644,9 +644,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1196,8 +1196,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://evan.im:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.jdx3.org:443/announce
@@ -1234,6 +1232,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
+udp://evan.im:6969/announce
+
 udp://tracker.valete.tf:9999/announce
 
 udp://udp.tracker.projectk.org:23333/announce
@@ -1264,9 +1264,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
