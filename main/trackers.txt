@@ -578,8 +578,6 @@ http://tracker.beeimg.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 https://tracker.aburaya.live:443/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -599,6 +597,8 @@ udp://tracker.torrent.eu.org:451/announce
 http://tracker.privateseedbox.xyz:2710/announce
 
 udp://tracker.valete.tf:9999/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://chihaya.de:80/announce
 
@@ -718,9 +718,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://trackarr.org:6969/announce
 
-https://1337.abcvg.info:443/announce
-
 https://tracker.moeblog.cn:443/announce
+
+https://1337.abcvg.info:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -1200,8 +1200,6 @@ http://tracker.beeimg.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 https://tracker.aburaya.live:443/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -1221,6 +1219,8 @@ udp://tracker.torrent.eu.org:451/announce
 http://tracker.privateseedbox.xyz:2710/announce
 
 udp://tracker.valete.tf:9999/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://chihaya.de:80/announce
 
