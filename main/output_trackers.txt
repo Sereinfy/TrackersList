@@ -183,8 +183,8 @@ udp://admin.52ywp.com:6969/announce
 http://ch3oh.ru:6969/announce
 udp://tracker.theoks.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://tracker1.myporn.club:9337/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://tracker1.myporn.club:9337/announce
 https://api.ipv4online.uk:443/announce
 https://tracker.pmman.tech:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce

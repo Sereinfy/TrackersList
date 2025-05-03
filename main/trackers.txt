@@ -712,9 +712,9 @@ udp://exodus.desync.com:6969/announce
 
 https://tracker.linvk.com:443/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://trackarr.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -722,9 +722,9 @@ https://1337.abcvg.info:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 https://api.ipv4online.uk:443/announce
 
