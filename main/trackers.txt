@@ -610,6 +610,8 @@ https://tr.nyacat.pw:443/announce
 
 udp://tracker.ducks.party:1984/announce
 
+http://tracker.tritan.gg:8080/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -704,9 +706,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://wepzone.net:6969/announce
 
@@ -714,9 +716,9 @@ udp://open.dstud.io:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -1229,6 +1231,8 @@ http://tracker.renfei.net:8080/announce
 https://tr.nyacat.pw:443/announce
 
 udp://tracker.ducks.party:1984/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://retracker.hotplug.ru:2710/announce
 

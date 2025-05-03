@@ -178,6 +178,7 @@ http://0d.kebhana.mx:443/announce
 http://0123456789nonexistent.com:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://open.acgtracker.com:1096/announce
+http://tracker.tritan.gg:8080/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://tracker.lyretain.site:2710/announce
 http://ch3oh.ru:6969/announce
