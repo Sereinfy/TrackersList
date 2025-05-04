@@ -606,25 +606,25 @@ https://tracker.ghostchu-services.top:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://tracker.kmzs123.top:17272/announce
+https://tracker.yemekyedim.com:443/announce
 
-https://tracker.lilithraws.org:443/announce
+udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+https://tracker.lilithraws.org:443/announce
 
 http://tracker.tritan.gg:8080/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -652,19 +652,19 @@ http://torrent.hificode.in:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-https://tr.nyacat.pw:443/announce
+udp://tracker.iperson.xyz:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
+http://tracker.netmap.top:6969/announce
 
 udp://bt.rer.lol:6969/announce
-
-http://tracker.netmap.top:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+https://tr.nyacat.pw:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -680,9 +680,9 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -708,13 +708,13 @@ https://tracker.moeblog.cn:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://fosstorrents.com:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -728,11 +728,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+http://tracker.pcfreetime.com:6969/announce
+
 https://tracker.guguan.dpdns.org:443/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1228,25 +1228,25 @@ https://tracker.ghostchu-services.top:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://tracker.kmzs123.top:17272/announce
+https://tracker.yemekyedim.com:443/announce
 
-https://tracker.lilithraws.org:443/announce
+udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+https://tracker.lilithraws.org:443/announce
 
 http://tracker.tritan.gg:8080/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 

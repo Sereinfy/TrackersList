@@ -186,8 +186,8 @@ https://api.ipv4online.uk:443/announce
 https://tracker.pmman.tech:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://cn.pcfreetime.com:6969/announce
-https://tracker.guguan.dpdns.org:443/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.guguan.dpdns.org:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
 udp://tracker.birkenwald.de:6969/announce
