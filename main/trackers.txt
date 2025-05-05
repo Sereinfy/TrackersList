@@ -656,9 +656,9 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -686,15 +686,15 @@ udp://open.dstud.io:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://wepzone.net:6969/announce
 
-https://tr.nyacat.pw:443/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.lyretain.site:2710/announce
+
+https://tr.nyacat.pw:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -710,21 +710,21 @@ udp://exodus.desync.com:6969/announce
 
 udp://trackarr.org:6969/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.linvk.com:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://tracker.moeblog.cn:443/announce
+http://fosstorrents.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://fosstorrents.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -1278,9 +1278,9 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://1337.abcvg.info:80/announce
 
