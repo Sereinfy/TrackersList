@@ -198,6 +198,7 @@ http://cn.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
+http://region.nl1.privex.cc:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://t.acg.rip:6699/announce
@@ -268,7 +269,6 @@ udp://oh.fuuuuuck.com:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://freedomalternative.com:6969/announce
-http://region.nl1.privex.cc:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
 http://smurfsoft.com:6969/announce
