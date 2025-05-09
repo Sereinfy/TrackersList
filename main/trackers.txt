@@ -630,11 +630,11 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 udp://tracker.kmzs123.top:17272/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -668,11 +668,11 @@ https://tracker.expli.top:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
+https://tracker.leechshield.link:443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://thouvenin.cloud:6969/announce
-
-https://tracker.leechshield.link:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -1252,11 +1252,11 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 udp://tracker.kmzs123.top:17272/announce
 
 udp://p2p.publictracker.xyz:6969/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -1290,11 +1290,11 @@ https://tracker.expli.top:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
+https://tracker.leechshield.link:443/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://thouvenin.cloud:6969/announce
-
-https://tracker.leechshield.link:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
