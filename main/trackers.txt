@@ -632,23 +632,23 @@ https://tracker.aburaya.live:443/announce
 
 udp://torrent.i.ng:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 http://chihaya.de:80/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
+udp://tracker.kmzs123.cn:17272/announce
+
 udp://tracker.kmzs123.top:17272/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
+udp://udp.tracker.projectk.org:23333/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-udp://udp.tracker.projectk.org:23333/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -662,9 +662,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -680,9 +680,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -696,19 +696,19 @@ udp://tracker.dler.com:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://opentracker.io:6969/announce
 
-udp://tracker.trackarr.org:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.trackarr.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -723,6 +723,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -747,8 +749,6 @@ http://tracker.skyts.net:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://fosstorrents.com:6969/announce
-
-udp://extracker.dahrkael.net:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -782,8 +782,6 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -791,6 +789,8 @@ http://tracker1.itzmx.com:8080/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 http://tracker.gbitt.info:80/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -1256,23 +1256,23 @@ https://tracker.aburaya.live:443/announce
 
 udp://torrent.i.ng:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 http://chihaya.de:80/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
+udp://tracker.kmzs123.cn:17272/announce
+
 udp://tracker.kmzs123.top:17272/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
+udp://udp.tracker.projectk.org:23333/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-udp://udp.tracker.projectk.org:23333/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1286,9 +1286,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -1304,9 +1304,9 @@ udp://www.torrent.eu.org:451/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
