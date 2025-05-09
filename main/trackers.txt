@@ -652,9 +652,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 https://tracker.lilithraws.org:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -664,17 +664,17 @@ https://tracker.zhuqiy.top:443/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://tracker.leechshield.link:443/announce
+https://tracker.expli.top:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://thouvenin.cloud:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -724,9 +724,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://admin.52ywp.com:6969/announce
 
-http://tracker.lyretain.site:2710/announce
-
 udp://tracker.deadorbit.nl:6969/announce
+
+http://tracker.lyretain.site:2710/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -736,11 +736,11 @@ udp://trackarr.org:6969/announce
 
 http://fosstorrents.com:6969/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://explodie.org:6969/announce
-
-https://tr.nyacat.pw:443/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -1274,9 +1274,9 @@ http://ipv6.rer.lol:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 https://tracker.lilithraws.org:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -1286,17 +1286,17 @@ https://tracker.zhuqiy.top:443/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
-https://tracker.leechshield.link:443/announce
+https://tracker.expli.top:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://thouvenin.cloud:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://ismaarino.com:1234/announce
 
