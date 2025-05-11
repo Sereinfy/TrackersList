@@ -680,11 +680,11 @@ https://tracker.leechshield.link:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://t.overflow.biz:6969/announce
+udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://extracker.dahrkael.net:6969/announce
+udp://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -700,21 +700,21 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
-http://tracker.23794.top:6969/announce
+udp://bt.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+http://tracker.23794.top:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://tracker.deadorbit.nl:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -724,17 +724,17 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 https://tr.nyacat.pw:443/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://admin.52ywp.com:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://trackarr.org:6969/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -1302,11 +1302,11 @@ https://tracker.leechshield.link:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://t.overflow.biz:6969/announce
+udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://extracker.dahrkael.net:6969/announce
+udp://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
