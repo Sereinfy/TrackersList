@@ -640,11 +640,11 @@ udp://tracker.darkness.services:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.expli.top:443/announce
+
 http://ipv6.rer.lol:6969/announce
 
 https://tr.zukizuki.org:443/announce
-
-https://tracker.expli.top:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -668,27 +668,27 @@ udp://ismaarino.com:1234/announce
 
 https://tracker.leechshield.link:443/announce
 
-http://tracker.tritan.gg:8080/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 http://torrent.hificode.in:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://opentracker.io:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://opentracker.io:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -700,11 +700,11 @@ udp://tr3.ysagin.top:2715/announce
 
 http://tracker.23794.top:6969/announce
 
+https://tr.nyacat.pw:443/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-https://tr.nyacat.pw:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -742,9 +742,9 @@ https://1337.abcvg.info:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://tracker.linvk.com:443/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+https://tracker.linvk.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -760,9 +760,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -1262,11 +1262,11 @@ udp://tracker.darkness.services:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.expli.top:443/announce
+
 http://ipv6.rer.lol:6969/announce
 
 https://tr.zukizuki.org:443/announce
-
-https://tracker.expli.top:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -1290,11 +1290,11 @@ udp://ismaarino.com:1234/announce
 
 https://tracker.leechshield.link:443/announce
 
-http://tracker.tritan.gg:8080/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 http://torrent.hificode.in:6969/announce
 
