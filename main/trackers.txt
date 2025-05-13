@@ -566,8 +566,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://evan.im:6969/announce
-
 https://tracker.jdx3.org:443/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -591,6 +589,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 http://bt.okmp3.ru:2710/announce
+
+udp://evan.im:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -656,9 +656,9 @@ udp://ismaarino.com:1234/announce
 
 https://tracker.leechshield.link:443/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -684,11 +684,11 @@ udp://bt.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
+
+http://tracker.23794.top:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -696,11 +696,11 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+http://0123456789nonexistent.com:80/announce
+
 udp://tracker.trackarr.org:6969/announce
 
 udp://wepzone.net:6969/announce
-
-http://0123456789nonexistent.com:80/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -728,9 +728,9 @@ https://1337.abcvg.info:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://tracker.linvk.com:443/announce
 
@@ -1190,8 +1190,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://evan.im:6969/announce
-
 https://tracker.jdx3.org:443/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -1215,6 +1213,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 http://bt.okmp3.ru:2710/announce
+
+udp://evan.im:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1280,9 +1280,9 @@ udp://ismaarino.com:1234/announce
 
 https://tracker.leechshield.link:443/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
