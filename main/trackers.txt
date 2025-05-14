@@ -668,9 +668,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -678,9 +678,9 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -698,15 +698,15 @@ http://tracker.netmap.top:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+
+http://0123456789nonexistent.com:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://0123456789nonexistent.com:80/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -1290,9 +1290,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -1300,9 +1300,9 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://t.overflow.biz:6969/announce
 
