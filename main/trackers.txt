@@ -622,13 +622,13 @@ udp://open.demonii.com:1337/announce
 
 udp://evan.im:6969/announce
 
+https://tracker.aburaya.live:443/announce
+
 http://chihaya.de:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -666,9 +666,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -700,9 +700,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://bt.rer.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -734,9 +734,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tracker.moeblog.cn:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 udp://explodie.org:6969/announce
 
@@ -766,9 +766,9 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1246,13 +1246,13 @@ udp://open.demonii.com:1337/announce
 
 udp://evan.im:6969/announce
 
+https://tracker.aburaya.live:443/announce
+
 http://chihaya.de:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -1290,9 +1290,9 @@ udp://www.torrent.eu.org:451/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
