@@ -166,9 +166,9 @@ http://tracker.dler.org:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.23794.top:6969/announce
 http://tracker1.itzmx.com:8080/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 http://chihaya.de:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://ismaarino.com:1234/announce
 http://fosstorrents.com:6969/announce
 udp://trackarr.org:6969/announce
@@ -180,13 +180,13 @@ https://tracker.linvk.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://region.nl1.privex.cc:6969/announce
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 https://api.ipv4online.uk:443/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.pcfreetime.com:6969/announce
-http://ch3oh.ru:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://ch3oh.ru:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
 https://tracker.guguan.dpdns.org:443/announce
