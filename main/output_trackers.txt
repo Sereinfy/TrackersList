@@ -179,8 +179,8 @@ http://open.acgtracker.com:1096/announce
 udp://tracker1.myporn.club:9337/announce
 https://tracker.linvk.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 https://api.ipv4online.uk:443/announce
 http://region.nl1.privex.cc:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
