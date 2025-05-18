@@ -604,13 +604,13 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker.valete.tf:9999/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 https://tracker.zhuqiy.top:443/announce
+
+udp://tracker.valete.tf:9999/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -628,9 +628,9 @@ http://torrent.hificode.in:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://tracker.tritan.gg:8080/announce
-
 https://tracker.leechshield.link:443/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -670,9 +670,9 @@ http://fosstorrents.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://wepzone.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -722,9 +722,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://ch3oh.ru:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1224,13 +1224,13 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker.valete.tf:9999/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 https://tracker.zhuqiy.top:443/announce
+
+udp://tracker.valete.tf:9999/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1248,9 +1248,9 @@ http://torrent.hificode.in:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://tracker.tritan.gg:8080/announce
-
 https://tracker.leechshield.link:443/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
