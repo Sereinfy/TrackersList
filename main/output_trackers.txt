@@ -149,15 +149,16 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
+udp://open.free-tracker.ga:6969/announce
 udp://explodie.org:6969/announce
-http://tracker.bt-hash.com:80/announce
-http://finbytes.org:80/announce.php
 http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.bz:80/announce
+http://tracker.bt-hash.com:80/announce
 http://servandroidkino.ru:80/announce
+http://finbytes.org:80/announce.php
 http://buny.uk:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://bandito.byterunner.io:6969/announce
@@ -166,8 +167,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://t.overflow.biz:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://torrent.hificode.in:6969/announce
-udp://tracker.valete.tf:9999/announce
 http://tracker.tritan.gg:8080/announce
+udp://tracker.valete.tf:9999/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://chihaya.de:80/announce
 https://tracker.itscraftsoftware.my.id:443/announce
@@ -594,7 +595,6 @@ https://opentracker.xyz:443/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
-udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
