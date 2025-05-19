@@ -642,19 +642,19 @@ http://tracker.netmap.top:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-http://torrent.hificode.in:6969/announce
+https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-https://tracker.leechshield.link:443/announce
+http://torrent.hificode.in:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -664,9 +664,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://tracker.valete.tf:9999/announce
-
 http://ns3109441.mypdns.org:6969/announce
+
+udp://tracker.valete.tf:9999/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -674,9 +674,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://bt.rer.lol:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -1262,19 +1262,19 @@ http://tracker.netmap.top:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-http://torrent.hificode.in:6969/announce
+https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-https://tracker.leechshield.link:443/announce
+http://torrent.hificode.in:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://opentracker.io:6969/announce
 
