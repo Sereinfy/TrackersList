@@ -610,9 +610,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 https://tracker.zhuqiy.top:443/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -634,9 +634,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
@@ -644,11 +644,11 @@ udp://t.overflow.biz:6969/announce
 
 udp://opentracker.io:6969/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
-
-http://ns3109441.mypdns.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -656,9 +656,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.valete.tf:9999/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://tracker.valete.tf:9999/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -674,9 +674,9 @@ http://chihaya.de:80/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 udp://wepzone.net:6969/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -1230,9 +1230,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 https://tracker.zhuqiy.top:443/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -1254,9 +1254,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
