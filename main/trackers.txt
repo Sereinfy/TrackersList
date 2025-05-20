@@ -588,8 +588,6 @@ udp://tracker.gigantino.net:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
-https://tracker.expli.top:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 udp://tracker.ducks.party:1984/announce
@@ -597,6 +595,8 @@ udp://tracker.ducks.party:1984/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+https://tracker.expli.top:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -628,9 +628,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -646,13 +646,13 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 http://torrent.hificode.in:6969/announce
-
-http://ns3109441.mypdns.org:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
@@ -672,15 +672,15 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://bt.rer.lol:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.valete.tf:9999/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker.valete.tf:9999/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -1208,8 +1208,6 @@ udp://tracker.gigantino.net:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
-https://tracker.expli.top:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 udp://tracker.ducks.party:1984/announce
@@ -1217,6 +1215,8 @@ udp://tracker.ducks.party:1984/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+https://tracker.expli.top:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -1248,9 +1248,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -1266,13 +1266,13 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 http://torrent.hificode.in:6969/announce
-
-http://ns3109441.mypdns.org:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
