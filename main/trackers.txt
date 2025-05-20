@@ -566,8 +566,6 @@ udp://torrent.i.ng:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://extracker.dahrkael.net:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -590,13 +588,15 @@ https://tracker.expli.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+udp://extracker.dahrkael.net:6969/announce
+
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.darkness.services:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -608,6 +608,8 @@ udp://tracker.srv00.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -617,8 +619,6 @@ https://tracker.lilithraws.org:443/announce
 udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -642,9 +642,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
@@ -676,9 +676,9 @@ udp://tracker.valete.tf:9999/announce
 
 http://tracker.23794.top:6969/announce
 
-http://chihaya.de:80/announce
-
 udp://wepzone.net:6969/announce
+
+http://chihaya.de:80/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -714,11 +714,11 @@ https://tracker.linvk.com:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 http://open.acgtracker.com:1096/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -738,11 +738,11 @@ http://tracker1.itzmx.com:8080/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
+https://threads.canofsocks.com:443/announce
+
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 http://tracker.gbitt.info:80/announce
-
-https://threads.canofsocks.com:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -1186,8 +1186,6 @@ udp://torrent.i.ng:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-udp://extracker.dahrkael.net:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -1210,13 +1208,15 @@ https://tracker.expli.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+udp://extracker.dahrkael.net:6969/announce
+
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.darkness.services:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -1228,6 +1228,8 @@ udp://tracker.srv00.com:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -1237,8 +1239,6 @@ https://tracker.lilithraws.org:443/announce
 udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -1262,9 +1262,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
