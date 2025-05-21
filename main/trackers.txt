@@ -582,11 +582,11 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 https://tracker.aburaya.live:443/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -598,9 +598,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-https://tr.zukizuki.org:443/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+https://tr.zukizuki.org:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -614,9 +614,9 @@ http://tracker.netmap.top:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -634,11 +634,11 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-http://0123456789nonexistent.com:80/announce
+http://torrent.hificode.in:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://torrent.hificode.in:6969/announce
+http://0123456789nonexistent.com:80/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -670,17 +670,17 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://chihaya.de:80/announce
-
 udp://admin.52ywp.com:6969/announce
+
+http://chihaya.de:80/announce
 
 http://fosstorrents.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://explodie.org:6969/announce
 
@@ -1200,11 +1200,11 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 https://tracker.aburaya.live:443/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -1216,9 +1216,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-https://tr.zukizuki.org:443/announce
-
 udp://p2p.publictracker.xyz:6969/announce
+
+https://tr.zukizuki.org:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -1232,9 +1232,9 @@ http://tracker.netmap.top:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
@@ -1252,11 +1252,11 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-http://0123456789nonexistent.com:80/announce
+http://torrent.hificode.in:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://torrent.hificode.in:6969/announce
+http://0123456789nonexistent.com:80/announce
 
 udp://t.overflow.biz:6969/announce
 
