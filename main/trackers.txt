@@ -686,9 +686,9 @@ udp://admin.52ywp.com:6969/announce
 
 http://chihaya.de:80/announce
 
-http://fosstorrents.com:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -714,9 +714,9 @@ udp://tracker.theoks.net:6969/announce
 
 https://tracker.linvk.com:443/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://region.nl1.privex.cc:6969/announce
 
