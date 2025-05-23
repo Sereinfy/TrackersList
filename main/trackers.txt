@@ -680,9 +680,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-http://tracker.23794.top:6969/announce
-
 udp://wepzone.net:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -692,9 +692,9 @@ udp://admin.52ywp.com:6969/announce
 
 http://chihaya.de:80/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -732,9 +732,9 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://tracker.pmman.tech:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
