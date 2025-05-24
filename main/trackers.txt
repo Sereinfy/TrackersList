@@ -640,9 +640,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -650,9 +650,9 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://opentracker.io:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.dler.com:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -676,19 +676,19 @@ udp://admin.52ywp.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.valete.tf:9999/announce
-
 udp://explodie.org:6969/announce
+
+udp://tracker.valete.tf:9999/announce
 
 udp://open.dstud.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://chihaya.de:80/announce
-
 http://tracker.skyts.net:6969/announce
 
 https://tracker.moeblog.cn:443/announce
+
+http://chihaya.de:80/announce
 
 http://fosstorrents.com:6969/announce
 
@@ -726,9 +726,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://api.ipv4online.uk:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1258,9 +1258,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
