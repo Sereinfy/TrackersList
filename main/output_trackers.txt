@@ -187,8 +187,8 @@ http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 https://api.ipv4online.uk:443/announce
 http://cn.pcfreetime.com:6969/announce
-http://open.acgtracker.com:1096/announce
 http://tracker.pcfreetime.com:6969/announce
+http://open.acgtracker.com:1096/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
@@ -286,7 +286,6 @@ http://bt.xcty.eu.org:2095/announce
 https://tracker.cloudit.top:443/announce
 https://bt.080609.xyz:443/announce
 http://tracker.rev.pm:6969/announce
-https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 http://00.alarmasqueretaro.com:443/announce
