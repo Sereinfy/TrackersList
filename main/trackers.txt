@@ -610,9 +610,9 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -632,11 +632,11 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
@@ -646,11 +646,11 @@ http://0123456789nonexistent.com:80/announce
 
 udp://t.overflow.biz:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://opentracker.io:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -660,9 +660,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://wepzone.net:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -720,9 +720,9 @@ https://tracker.pmman.tech:443/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -1228,9 +1228,9 @@ udp://tracker.gmi.gd:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 http://ipv6.rer.lol:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1250,11 +1250,11 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
@@ -1263,8 +1263,6 @@ udp://tracker.tryhackx.org:6969/announce
 http://0123456789nonexistent.com:80/announce
 
 udp://t.overflow.biz:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 http://1337.abcvg.info:80/announce
 
