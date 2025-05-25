@@ -193,9 +193,9 @@ https://api.ipv4online.uk:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
-http://open.acgtracker.com:1096/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
+http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
 http://t.acg.rip:6699/announce
