@@ -185,17 +185,16 @@ udp://ismaarino.com:1234/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://trackarr.org:6969/announce
-udp://tracker.trackarr.org:6969/announce
 http://region.nl1.privex.cc:6969/announce
+udp://tracker.trackarr.org:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.pcfreetime.com:6969/announce
-https://api.ipv4online.uk:443/announce
 http://cn.pcfreetime.com:6969/announce
+https://api.ipv4online.uk:443/announce
 https://tracker.guguan.dpdns.org:443/announce
-https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 http://tracker.gbitt.info:80/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -392,6 +391,7 @@ https://tracker.nanoha.org:443/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 https://bt2.080609.xyz:443/announce
 udp://brokenhelix.loseyourip.com:6969/announce
+https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 udp://files.project-cataclysm.ru:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
