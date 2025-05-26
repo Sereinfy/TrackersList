@@ -184,9 +184,9 @@ http://fosstorrents.com:6969/announce
 udp://ismaarino.com:1234/announce
 udp://tracker.theoks.net:6969/announce
 udp://tracker1.myporn.club:9337/announce
-http://region.nl1.privex.cc:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker.trackarr.org:6969/announce
+http://region.nl1.privex.cc:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
