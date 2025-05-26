@@ -173,8 +173,8 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.hifimarket.in:2710/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.iperson.xyz:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.breizh.pm:6969/announce
