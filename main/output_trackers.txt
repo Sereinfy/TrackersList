@@ -179,8 +179,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://thouvenin.cloud:6969/announce
 http://torrent.hificode.in:6969/announce
 http://lucke.fenesisu.moe:6969/announce
-udp://tracker.hifimarket.in:2710/announce
 https://tracker.lilithraws.org:443/announce
+udp://tracker.hifimarket.in:2710/announce
 http://chihaya.de:80/announce
 http://fosstorrents.com:6969/announce
 udp://ismaarino.com:1234/announce

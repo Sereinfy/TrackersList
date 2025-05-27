@@ -634,9 +634,9 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -650,9 +650,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.bitcoinindia.space:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
@@ -680,11 +680,11 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
+udp://admin.52ywp.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://admin.52ywp.com:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -700,9 +700,9 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://chihaya.de:80/announce
-
 udp://exodus.desync.com:6969/announce
+
+http://chihaya.de:80/announce
 
 http://fosstorrents.com:6969/announce
 
@@ -712,9 +712,9 @@ http://tracker.lyretain.site:2710/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker.theoks.net:6969/announce
-
 https://tracker.linvk.com:443/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1256,9 +1256,9 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -1272,9 +1272,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 udp://tracker.bitcoinindia.space:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
