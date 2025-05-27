@@ -628,8 +628,6 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://thouvenin.cloud:6969/announce
-
 http://torrent.hificode.in:6969/announce
 
 udp://t.overflow.biz:6969/announce
@@ -637,6 +635,8 @@ udp://t.overflow.biz:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://thouvenin.cloud:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -730,9 +730,9 @@ http://cn.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-https://api.ipv4online.uk:443/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+https://api.ipv4online.uk:443/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -1250,8 +1250,6 @@ https://tracker.ghostchu-services.top:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://thouvenin.cloud:6969/announce
-
 http://torrent.hificode.in:6969/announce
 
 udp://t.overflow.biz:6969/announce
@@ -1259,6 +1257,8 @@ udp://t.overflow.biz:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://thouvenin.cloud:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
