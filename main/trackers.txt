@@ -592,6 +592,8 @@ https://tracker.aburaya.live:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+https://tr.zukizuki.org:443/announce
+
 http://tracker.netmap.top:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -599,8 +601,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-https://tr.zukizuki.org:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -638,9 +638,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://0123456789nonexistent.com:80/announce
-
 https://tracker.leechshield.link:443/announce
+
+http://0123456789nonexistent.com:80/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -650,13 +650,13 @@ udp://opentracker.io:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -708,9 +708,9 @@ https://tracker.linvk.com:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 https://tracker.pmman.tech:443/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -1214,6 +1214,8 @@ https://tracker.aburaya.live:443/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+https://tr.zukizuki.org:443/announce
+
 http://tracker.netmap.top:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -1221,8 +1223,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-https://tr.zukizuki.org:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -1260,9 +1260,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-http://0123456789nonexistent.com:80/announce
-
 https://tracker.leechshield.link:443/announce
+
+http://0123456789nonexistent.com:80/announce
 
 http://1337.abcvg.info:80/announce
 
