@@ -180,8 +180,8 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker2.dler.org:80/announce
 http://tracker1.itzmx.com:8080/announce
 udp://www.torrent.eu.org:451/announce
-udp://thouvenin.cloud:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://thouvenin.cloud:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://explodie.org:6969/announce
 https://tracker.lilithraws.org:443/announce
@@ -192,9 +192,9 @@ udp://tracker.theoks.net:6969/announce
 http://region.nl1.privex.cc:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker.trackarr.org:6969/announce
-udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
