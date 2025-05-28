@@ -178,8 +178,8 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker.waaa.moe:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
-udp://tracker.hifitechindia.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 https://tracker.lilithraws.org:443/announce

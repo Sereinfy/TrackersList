@@ -554,6 +554,8 @@ udp://tracker.deadorbit.nl:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 udp://torrent.i.ng:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -590,11 +592,9 @@ udp://bandito.byterunner.io:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
-udp://tracker.gmi.gd:6969/announce
-
-https://tr.zukizuki.org:443/announce
-
 http://tracker.netmap.top:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -644,31 +644,31 @@ http://0123456789nonexistent.com:80/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://opentracker.io:6969/announce
 
-udp://thouvenin.cloud:6969/announce
+udp://tracker.dler.com:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
+udp://thouvenin.cloud:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://tracker.hifitechindia.com:6969/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://lucke.fenesisu.moe:6969/announce
-
 http://tracker.23794.top:6969/announce
+
+http://lucke.fenesisu.moe:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -1176,6 +1176,8 @@ udp://tracker.deadorbit.nl:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 udp://torrent.i.ng:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -1212,11 +1214,9 @@ udp://bandito.byterunner.io:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
-udp://tracker.gmi.gd:6969/announce
-
-https://tr.zukizuki.org:443/announce
-
 http://tracker.netmap.top:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
