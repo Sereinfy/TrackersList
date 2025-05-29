@@ -184,9 +184,9 @@ http://lucke.fenesisu.moe:6969/announce
 https://tracker.lilithraws.org:443/announce
 http://tracker.lyretain.site:2710/announce
 http://chihaya.de:80/announce
+udp://tracker1.myporn.club:9337/announce
 http://fosstorrents.com:6969/announce
 udp://ismaarino.com:1234/announce
-udp://tracker1.myporn.club:9337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://utracker.ghostchu-services.top:6969/announce
@@ -196,7 +196,6 @@ udp://tracker.trackarr.org:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
-http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.gbitt.info:80/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -326,6 +325,7 @@ http://bjlt.zhuqiy.eu.org:6666/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://tcq.zhuqiy.eu.org:25091/announce
 https://trackers.nekosunevr.co.uk:443/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 https://t.peer-exchange.download:443/announce
