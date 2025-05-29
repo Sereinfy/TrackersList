@@ -189,8 +189,8 @@ http://tracker.lyretain.site:2710/announce
 http://chihaya.de:80/announce
 http://fosstorrents.com:6969/announce
 udp://ismaarino.com:1234/announce
-http://region.nl1.privex.cc:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
+http://region.nl1.privex.cc:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://trackarr.org:6969/announce
