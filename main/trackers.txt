@@ -658,9 +658,9 @@ udp://t.overflow.biz:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -682,9 +682,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://tracker.23794.top:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -694,9 +694,9 @@ udp://admin.52ywp.com:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-http://lucke.fenesisu.moe:6969/announce
-
 udp://explodie.org:6969/announce
+
+http://lucke.fenesisu.moe:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -1280,9 +1280,9 @@ udp://t.overflow.biz:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
