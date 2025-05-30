@@ -176,8 +176,8 @@ http://tracker2.dler.org:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.dler.com:6969/announce
 http://torrent.hificode.in:6969/announce
-udp://thouvenin.cloud:6969/announce
 udp://explodie.org:6969/announce
+udp://thouvenin.cloud:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.skyts.net:6969/announce
@@ -194,8 +194,6 @@ http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 http://region.nl1.privex.cc:6969/announce
-udp://trackarr.org:6969/announce
-udp://tracker.trackarr.org:6969/announce
 http://tracker.gbitt.info:80/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -356,6 +354,7 @@ udp://tracker.t-1.org:6969/announce
 https://tracker.amelia.fun:443/announce
 http://tracker.ykat.xyz:6969/announce
 http://0x7c.space:7070/announce
+udp://trackarr.org:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://dataforai.com:31332/announce
 https://track.solcloud.eu:443/announce
@@ -396,6 +395,7 @@ udp://brokenhelix.loseyourip.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 udp://files.project-cataclysm.ru:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+udp://tracker.trackarr.org:6969/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
