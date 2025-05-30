@@ -184,8 +184,8 @@ udp://thouvenin.cloud:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 https://tracker.lilithraws.org:443/announce
 http://tracker.lyretain.site:2710/announce
-http://chihaya.de:80/announce
 udp://tracker1.myporn.club:9337/announce
+http://chihaya.de:80/announce
 http://fosstorrents.com:6969/announce
 udp://ismaarino.com:1234/announce
 https://torrent.tracker.durukanbal.com:443/announce
@@ -195,8 +195,8 @@ http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://tracker.trackarr.org:6969/announce
-udp://trackarr.org:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
+udp://trackarr.org:6969/announce
 http://tracker.gbitt.info:80/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
