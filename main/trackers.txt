@@ -654,13 +654,13 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://tracker.tritan.gg:8080/announce
 
-http://torrent.hificode.in:6969/announce
+udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
@@ -716,9 +716,9 @@ udp://tracker.filemail.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-http://tracker.lyretain.site:2710/announce
-
 https://tracker.pmman.tech:443/announce
+
+http://tracker.lyretain.site:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -750,9 +750,9 @@ http://region.nl1.privex.cc:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://trackarr.org:6969/announce
-
 udp://tracker.trackarr.org:6969/announce
+
+udp://trackarr.org:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1276,13 +1276,13 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://tracker.tritan.gg:8080/announce
 
-http://torrent.hificode.in:6969/announce
+udp://t.overflow.biz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
