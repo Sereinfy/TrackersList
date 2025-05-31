@@ -614,13 +614,9 @@ udp://tracker.qu.ax:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tracker.aburaya.live:443/announce
-
 http://ipv6.rer.lol:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -628,7 +624,11 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+udp://tracker.0x7c0.com:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -646,21 +646,21 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-https://tracker.leechshield.link:443/announce
-
 http://0123456789nonexistent.com:80/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://opentracker.io:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -688,11 +688,11 @@ udp://explodie.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
+udp://tracker.hifimarket.in:2710/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
-
-udp://tracker.hifimarket.in:2710/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -1236,13 +1236,9 @@ udp://tracker.qu.ax:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tracker.aburaya.live:443/announce
-
 http://ipv6.rer.lol:6969/announce
 
 udp://wepzone.net:6969/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -1250,7 +1246,11 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+udp://tracker.0x7c0.com:6969/announce
+
 udp://p2p.publictracker.xyz:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -1268,9 +1268,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 udp://tracker.tryhackx.org:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
