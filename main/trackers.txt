@@ -674,9 +674,9 @@ udp://tracker.hifitechindia.com:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -744,9 +744,9 @@ https://tracker.guguan.dpdns.org:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://tracker.gbitt.info:80/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -1275,8 +1275,6 @@ udp://t.overflow.biz:6969/announce
 http://torrent.hificode.in:6969/announce
 
 https://tracker.leechshield.link:443/announce
-
-http://0123456789nonexistent.com:80/announce
 
 http://0d.kebhana.mx:443/announce
 

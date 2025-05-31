@@ -195,8 +195,8 @@ udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
-http://region.nl1.privex.cc:6969/announce
 http://tracker.gbitt.info:80/announce
+http://region.nl1.privex.cc:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
