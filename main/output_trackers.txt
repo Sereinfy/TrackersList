@@ -187,8 +187,8 @@ https://tracker.lilithraws.org:443/announce
 http://chihaya.de:80/announce
 http://fosstorrents.com:6969/announce
 udp://ismaarino.com:1234/announce
-https://torrent.tracker.durukanbal.com:443/announce
 udp://www.2600.com:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
