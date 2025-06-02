@@ -606,8 +606,6 @@ udp://evan.im:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
@@ -619,6 +617,8 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -640,9 +640,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
@@ -694,9 +694,9 @@ udp://tracker.breizh.pm:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://thouvenin.cloud:6969/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
@@ -708,9 +708,9 @@ udp://tracker.valete.tf:9999/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.filemail.com:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1230,8 +1230,6 @@ udp://evan.im:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.srv00.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
@@ -1243,6 +1241,8 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://wepzone.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -1264,9 +1264,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
