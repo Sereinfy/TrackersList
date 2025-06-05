@@ -191,8 +191,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://chihaya.de:80/announce
-http://fosstorrents.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
+http://fosstorrents.com:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 http://tracker.gbitt.info:80/announce
 http://open.acgtracker.com:1096/announce
