@@ -586,13 +586,13 @@ udp://martin-gebhardt.eu:25/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 http://tracker.netmap.top:6969/announce
 
 https://tracker.expli.top:443/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -622,11 +622,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -652,9 +652,9 @@ http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.bitcoinindia.space:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -726,29 +726,31 @@ udp://www.2600.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
+https://tr.nyacat.pw:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 http://chihaya.de:80/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
+http://fosstorrents.com:6969/announce
 
-udp://ismaarino.com:1234/announce
+http://cn.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://tr.nyacat.pw:443/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://ismaarino.com:1234/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -1020,8 +1022,6 @@ https://t.peer-exchange.download:443/announce
 
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
@@ -1210,13 +1210,13 @@ udp://martin-gebhardt.eu:25/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 http://tracker.netmap.top:6969/announce
 
 https://tracker.expli.top:443/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -1246,11 +1246,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 udp://www.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 udp://tracker.dler.com:6969/announce
 
