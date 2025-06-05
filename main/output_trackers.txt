@@ -180,8 +180,8 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://thouvenin.cloud:6969/announce
 http://lucke.fenesisu.moe:6969/announce
-udp://tracker.hifimarket.in:2710/announce
 http://tracker.lyretain.site:2710/announce
+udp://tracker.hifimarket.in:2710/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker1.myporn.club:9337/announce
 udp://www.2600.com:6969/announce
@@ -189,10 +189,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-http://chihaya.de:80/announce
 http://cn.pcfreetime.com:6969/announce
+http://chihaya.de:80/announce
 https://tracker.guguan.dpdns.org:443/announce
-http://fosstorrents.com:6969/announce
 http://tracker.gbitt.info:80/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -218,6 +217,7 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://free.publictracker.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+http://fosstorrents.com:6969/announce
 https://tr.burnabyhighstar.com:443/announce
 udp://open.xxtor.com:3074/announce
 udp://bubu.mapfactor.com:6969/announce
