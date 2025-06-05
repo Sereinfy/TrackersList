@@ -646,9 +646,9 @@ udp://tracker.therarbg.to:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -656,9 +656,9 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -688,9 +688,9 @@ https://tracker.moeblog.cn:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 https://tracker.pmman.tech:443/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -726,9 +726,9 @@ udp://www.2600.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://chihaya.de:80/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+http://chihaya.de:80/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
