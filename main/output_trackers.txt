@@ -180,9 +180,9 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://thouvenin.cloud:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.lyretain.site:2710/announce
-http://joczo.duckdns.org:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker1.myporn.club:9337/announce
+http://joczo.duckdns.org:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://www.2600.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
