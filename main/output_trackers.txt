@@ -178,8 +178,8 @@ http://ns3109441.mypdns.org:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://admin.52ywp.com:6969/announce
-udp://tracker.0x7c0.com:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://thouvenin.cloud:6969/announce
 http://lucke.fenesisu.moe:6969/announce
@@ -187,10 +187,10 @@ http://tracker.lyretain.site:2710/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.hifimarket.in:2710/announce
 http://joczo.duckdns.org:6969/announce
-udp://tracker.rescuecrew7.com:1337/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
