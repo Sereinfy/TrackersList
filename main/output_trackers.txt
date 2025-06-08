@@ -190,9 +190,9 @@ https://tracker.lilithraws.org:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://joczo.duckdns.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-udp://tracker.hifimarket.in:2710/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://cn.pcfreetime.com:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
