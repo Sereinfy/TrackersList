@@ -606,11 +606,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 udp://udp.tracker.projectk.org:23333/announce
 
 http://ipv6.rer.lol:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -642,21 +642,21 @@ udp://tracker.therarbg.to:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://tracker.23794.top:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://torrent.i.ng:6969/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://torrent.i.ng:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -666,13 +666,13 @@ https://tracker.pmman.tech:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
-udp://tracker.bitcoinindia.space:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 https://tracker.moeblog.cn:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
@@ -712,9 +712,9 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tracker.lilithraws.org:443/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://www.2600.com:6969/announce
 
@@ -726,11 +726,11 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -1232,11 +1232,11 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 udp://udp.tracker.projectk.org:23333/announce
 
 http://ipv6.rer.lol:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
