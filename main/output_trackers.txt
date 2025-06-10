@@ -194,7 +194,6 @@ http://cn.pcfreetime.com:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 https://tracker.guguan.dpdns.org:443/announce
 http://tracker.gbitt.info:80/announce
-https://torrent.tracker.durukanbal.com:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.btsync.gq:233/announce
@@ -330,6 +329,7 @@ https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://torrent.opiums.eu:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.leena.network:6969/announce
 udp://lulz.vpndb.org:3000/announce
 udp://api.boletera.org:3074/announce
