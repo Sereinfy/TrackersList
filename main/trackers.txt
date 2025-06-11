@@ -542,6 +542,8 @@ http://ipv4.rer.lol:2710/announce
 
 udp://tracker.plx.im:6969/announce
 
+udp://open.demonii.si:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://open.demonii.com:1337/announce
@@ -624,9 +626,9 @@ http://ns3109441.mypdns.org:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-http://tracker.23794.top:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -634,9 +636,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://admin.52ywp.com:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -654,13 +656,13 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
-udp://torrent.i.ng:6969/announce
-
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://torrent.i.ng:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -698,13 +700,13 @@ https://tracker.lilithraws.org:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
+udp://tracker.rescuecrew7.com:1337/announce
+
 http://joczo.duckdns.org:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
-
-udp://tracker.rescuecrew7.com:1337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1165,6 +1167,8 @@ udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 
 udp://tracker.plx.im:6969/announce
+
+udp://open.demonii.si:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
