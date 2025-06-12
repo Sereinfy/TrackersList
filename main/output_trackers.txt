@@ -178,15 +178,15 @@ http://t.overflow.biz:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://torrent.hificode.in:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-udp://open.demonii.si:1337/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://torrent.i.ng:6969/announce
+udp://open.demonii.si:1337/announce
 udp://tracker.0x7c0.com:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
-udp://thouvenin.cloud:6969/announce
 udp://www.2600.com:6969/announce
+udp://thouvenin.cloud:6969/announce
 https://tracker.lilithraws.org:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://joczo.duckdns.org:6969/announce
