@@ -189,8 +189,8 @@ udp://tracker.deadorbit.nl:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://joczo.duckdns.org:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-https://tracker.lilithraws.org:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
+https://tracker.lilithraws.org:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.gbitt.info:80/announce
 http://region.nl1.privex.cc:6969/announce

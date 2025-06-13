@@ -680,9 +680,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 https://tracker.linvk.com:443/announce
+
+udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -722,9 +722,9 @@ http://joczo.duckdns.org:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
