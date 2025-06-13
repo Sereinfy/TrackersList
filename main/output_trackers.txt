@@ -186,13 +186,12 @@ udp://www.2600.com:6969/announce
 udp://open.demonii.si:1337/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://thouvenin.cloud:6969/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 http://joczo.duckdns.org:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 udp://tracker.deadorbit.nl:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://cn.pcfreetime.com:6969/announce
-https://tracker.lilithraws.org:443/announce
 http://tracker.gbitt.info:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://open.acgtracker.com:1096/announce
@@ -252,6 +251,7 @@ udp://carr.codes:6969/announce
 udp://jutone.com:6969/announce
 https://t1.hloli.org:443/announce
 udp://ftp.pet:2710/announce
+https://tracker.lilithraws.org:443/announce
 udp://tracker.edkj.club:6969/announce
 http://tracker.enitin.xyz:80/announce
 udp://acxx.de:6969/announce

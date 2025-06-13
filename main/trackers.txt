@@ -586,13 +586,13 @@ http://bt.okmp3.ru:2710/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -652,13 +652,13 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
-http://tracker.tritan.gg:8080/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://bt.rer.lol:6969/announce
+
 udp://tracker.valete.tf:9999/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -674,13 +674,13 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+udp://tracker.bitcoinindia.space:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -722,9 +722,9 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 http://joczo.duckdns.org:6969/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
@@ -735,8 +735,6 @@ udp://utracker.ghostchu-services.top:6969/announce
 http://cn.pcfreetime.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-https://tracker.lilithraws.org:443/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -857,6 +855,8 @@ udp://jutone.com:6969/announce
 https://t1.hloli.org:443/announce
 
 udp://ftp.pet:2710/announce
+
+https://tracker.lilithraws.org:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -1212,13 +1212,13 @@ http://bt.okmp3.ru:2710/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 http://tracker.privateseedbox.xyz:2710/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
