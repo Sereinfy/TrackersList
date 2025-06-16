@@ -574,11 +574,7 @@ https://tracker.bjut.jp:443/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -587,6 +583,10 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -608,9 +608,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -624,9 +624,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 udp://t.overflow.biz:6969/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 https://tracker.leechshield.link:443/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -640,11 +640,11 @@ http://torrent.hificode.in:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://tracker.23794.top:6969/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -1200,11 +1200,7 @@ https://tracker.bjut.jp:443/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://p2p.publictracker.xyz:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1213,6 +1209,10 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
@@ -1234,9 +1234,9 @@ udp://tracker.kmzs123.top:17272/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -1250,9 +1250,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 udp://t.overflow.biz:6969/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 https://tracker.leechshield.link:443/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
