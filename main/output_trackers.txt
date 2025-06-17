@@ -179,8 +179,8 @@ http://tracker.zhuqiy.top:80/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.23794.top:6969/announce
 http://tracker.beeimg.com:6969/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://www.2600.com:6969/announce
