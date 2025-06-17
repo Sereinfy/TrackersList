@@ -165,6 +165,7 @@ http://bt.poletracker.org:2710/announce
 http://0123456789nonexistent.com:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.beeimg.com:6969/announce
+udp://tracker.skillindia.site:6969/announce
 http://tracker.23794.top:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
@@ -179,8 +180,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://www.2600.com:6969/announce
-udp://torrent.i.ng:6969/announce
 http://joczo.duckdns.org:6969/announce
+udp://torrent.i.ng:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.demonii.si:1337/announce
 http://cn.pcfreetime.com:6969/announce
@@ -1321,3 +1322,5 @@ http://kamikazee.duckdns.org:7777/announce
 http://tracker1.torrentino.com/announce
 http://bobbialbano.com:6969/announce
 https://bt.beatrice-raws.org/announce
+udp://89.110.76.229:6969/announce
+udp://v74853.hosted-by-vdsina.com:6969/announce
