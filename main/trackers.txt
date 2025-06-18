@@ -648,9 +648,9 @@ https://tracker.pmman.tech:443/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -664,15 +664,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -700,9 +700,9 @@ https://1337.abcvg.info:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
