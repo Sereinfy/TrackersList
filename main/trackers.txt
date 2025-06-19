@@ -666,9 +666,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -686,6 +686,8 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://explodie.org:6969/announce
 
+https://track3r.site:443/announce
+
 https://threads.canofsocks.com:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -701,8 +703,6 @@ udp://exodus.desync.com:6969/announce
 udp://open.dstud.io:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
-
-https://track3r.site:443/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -736,15 +736,15 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
+
 http://tracker.gbitt.info:80/announce
 
 http://region.nl1.privex.cc:6969/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
-https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://open.acgtracker.com:1096/announce
 
