@@ -189,11 +189,11 @@ http://joczo.duckdns.org:6969/announce
 udp://www.2600.com:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.demonii.si:1337/announce
-http://cn.pcfreetime.com:6969/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
-udp://utracker.ghostchu-services.top:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.gbitt.info:80/announce
 http://region.nl1.privex.cc:6969/announce
 http://open.acgtracker.com:1096/announce
