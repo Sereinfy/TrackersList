@@ -540,6 +540,8 @@ udp://tracker.fnix.net:6969/announce
 
 udp://evan.im:6969/announce
 
+https://track3r.site:443/announce
+
 http://tracker.beeimg.com:6969/announce
 
 udp://tracker.valete.tf:9999/announce
@@ -604,9 +606,9 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 https://tracker.jdx3.org:443/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -654,9 +656,9 @@ udp://tracker.qu.ax:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 http://tracker.23794.top:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -685,8 +687,6 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.breizh.pm:6969/announce
 
 udp://explodie.org:6969/announce
-
-https://track3r.site:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -720,9 +720,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 http://joczo.duckdns.org:6969/announce
 
-udp://www.2600.com:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+udp://www.2600.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -734,17 +734,17 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
+udp://utracker.ghostchu-services.top:6969/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://region.nl1.privex.cc:6969/announce
-
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -1170,6 +1170,8 @@ udp://tracker.fnix.net:6969/announce
 
 udp://evan.im:6969/announce
 
+https://track3r.site:443/announce
+
 http://tracker.beeimg.com:6969/announce
 
 udp://tracker.valete.tf:9999/announce
@@ -1234,9 +1236,9 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 https://tracker.jdx3.org:443/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
