@@ -616,11 +616,11 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-https://tracker.aburaya.live:443/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -636,9 +636,9 @@ https://tracker.zhuqiy.top:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://0123456789nonexistent.com:80/announce
+
+https://tracker.leechshield.link:443/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -662,9 +662,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -738,11 +738,11 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
+udp://trl-zhuqiy.dgj055.icu:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 http://region.nl1.privex.cc:6969/announce
-
-udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -1246,11 +1246,11 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-https://tracker.aburaya.live:443/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
