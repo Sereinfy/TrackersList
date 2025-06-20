@@ -158,14 +158,15 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
-wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-http://tracker.opentrackr.org:1337/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-udp://ns-1.x-fins.com:6969/announce
+udp://bandito.byterunner.io:6969/announce
 http://www.torrentsnipe.info:2701/announce
 http://www.genesis-sp.org:2710/announce
 http://tracker2.dler.org:80/announce
 http://tracker.vanitycore.co:6969/announce
+http://tracker.qu.ax:6969/announce
+http://tracker.dler.com:6969/announce
 http://tracker.bz:80/announce
 http://tracker.bittor.pw:1337/announce
 http://t.jaekr.sh:6969/announce
@@ -174,9 +175,6 @@ http://finbytes.org:80/announce.php
 http://buny.uk:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://bt.poletracker.org:2710/announce
-udp://bandito.byterunner.io:6969/announce
-http://tracker1.itzmx.com:8080/announce
-http://tracker.dler.com:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.iperson.xyz:6969/announce
@@ -191,12 +189,13 @@ udp://tracker.hifimarket.in:2710/announce
 udp://tracker.0x7c0.com:6969/announce
 http://joczo.duckdns.org:6969/announce
 udp://www.2600.com:6969/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.demonii.si:1337/announce
 http://cn.pcfreetime.com:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+http://tracker1.itzmx.com:8080/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.gbitt.info:80/announce
 http://region.nl1.privex.cc:6969/announce
@@ -596,6 +595,7 @@ udp://opentrackr.org:1337/announce
 udp://cutscloud.duckdns.org:6969/announce
 http://opentracker.xyz:80/announce
 udp://yahor.ftp.sh:6969/announce
+http://tracker.opentrackr.org:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 https://opentracker.xyz/announce
 http://fxtt.ru:80/announce
@@ -770,6 +770,7 @@ udp://slicie.icon256.com:8000/announce
 http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://mail.artixlinux.org:6969/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://leefafa.tk:6969/announce
 udp://open.4ever.tk:6969/announce
@@ -1045,7 +1046,6 @@ http://ipv4.tracker.harry.lu:80/announce
 http://bigfoot1942.sektori.org:6969/announce
 http://montreal.nyap2p.com:8080/announce
 https://tracker.tvgc.win/announce
-http://tracker.qu.ax:6969/announce
 http://171.104.111.250:6969/announce
 http://97.117.150.188:9000/announce
 http://192.3.165.191:6969/announce
