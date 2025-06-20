@@ -155,10 +155,10 @@ udp://wepzone.net:6969/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
+udp://ns-1.x-fins.com:6969/announce
 http://www.torrentsnipe.info:2701/announce
 http://www.genesis-sp.org:2710/announce
 http://tracker810.xyz:11450/announce
-http://tracker.skyts.net:6969/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.lintk.me:2710/announce
@@ -184,9 +184,10 @@ http://tracker.beeimg.com:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://www.torrent.eu.org:451/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 http://tracker.lyretain.site:2710/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.0x7c0.com:6969/announce
 http://joczo.duckdns.org:6969/announce
@@ -770,7 +771,6 @@ udp://slicie.icon256.com:8000/announce
 http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://mail.artixlinux.org:6969/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://leefafa.tk:6969/announce
 udp://open.4ever.tk:6969/announce
