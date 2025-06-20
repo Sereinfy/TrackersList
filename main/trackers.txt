@@ -538,8 +538,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://evan.im:6969/announce
 
-https://track3r.site:443/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.netmap.top:6969/announce
@@ -584,8 +582,6 @@ udp://open.demonii.com:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tr.zukizuki.org:443/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -596,9 +592,11 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 https://tracker.jdx3.org:443/announce
+
+https://tr.zukizuki.org:443/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -608,15 +606,17 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 http://ipv6.rer.lol:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+https://track3r.site:443/announce
+
 udp://tracker.valete.tf:9999/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -658,9 +658,9 @@ http://tracker.23794.top:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -674,9 +674,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
-udp://tracker.rescuecrew7.com:1337/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
@@ -734,9 +734,9 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -1168,8 +1168,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://evan.im:6969/announce
 
-https://track3r.site:443/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.netmap.top:6969/announce
@@ -1214,8 +1212,6 @@ udp://open.demonii.com:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tr.zukizuki.org:443/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -1226,9 +1222,11 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 https://tracker.jdx3.org:443/announce
+
+https://tr.zukizuki.org:443/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
@@ -1238,15 +1236,17 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 http://ipv6.rer.lol:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+https://track3r.site:443/announce
+
 udp://tracker.valete.tf:9999/announce
 
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://www.torrent.eu.org:451/announce
 
