@@ -182,11 +182,11 @@ http://share.hkg-fansub.info:80/announce.php
 http://public.tracker.vraphim.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 https://tracker.alaskantf.com:443/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://2.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 https://1.tracker.eu.org:443/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.cutie.dating:443/announce
 https://shahidrazi.online:443/announce
@@ -210,8 +210,8 @@ http://tracker.internetwarriors.net:1337/announce
 http://ns3109441.mypdns.org:6969/announce
 http://open.tracker.cl:1337/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://open.demonii.si:80/announce
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 https://mathkangaroo.jp:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.skyts.net:6969/announce
