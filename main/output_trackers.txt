@@ -179,8 +179,8 @@ http://open.trackerlist.xyz:80/announce
 udp://tracker.gigantino.net:6969/announce
 https://tracker.alaskantf.com:443/announce
 udp://tracker.breizh.pm:6969/announce
-http://tracker.netmap.top:6969/announce
 udp://admin.52ywp.com:6969/announce
+http://tracker.netmap.top:6969/announce
 https://tracker.cutie.dating:443/announce
 https://tracker.cangku.moe:443/announce
 http://speedtest.iperson.xyz:6969/announce
@@ -188,8 +188,8 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
-https://tracker.linvk.com:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+https://tracker.linvk.com:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://asiatorrent.giize.com:51413/announce
@@ -201,13 +201,13 @@ http://ns3109441.mypdns.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://open.demonii.si:80/announce
-http://tr.highstar.shop:80/announce
 https://mathkangaroo.jp:443/announce
+http://tr.highstar.shop:80/announce
 https://api.ipv4online.uk:443/announce
+http://tracker.dhitechnical.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.skyts.net:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://region.nl1.privex.cc:6969/announce
