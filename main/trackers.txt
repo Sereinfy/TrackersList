@@ -604,8 +604,6 @@ https://tr.zukizuki.org:443/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-https://tracker.expli.top:443/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -642,6 +640,8 @@ udp://www.torrent.eu.org:451/announce
 
 https://tracker.aburaya.live:443/announce
 
+https://tracker.expli.top:443/announce
+
 udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.startwork.cv:1337/announce
@@ -664,15 +664,15 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://opentracker.io:6969/announce
 
-http://shubt.net:2710/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
+
+http://shubt.net:2710/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -680,9 +680,9 @@ udp://tracker.hifitechindia.com:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 https://tracker.ghostchu-services.top:443/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -700,11 +700,11 @@ udp://ibksturm.synology.me:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 http://tracker.23794.top:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -716,9 +716,9 @@ https://shahidrazi.online:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
-https://tracker.alaskantf.com:443/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+https://tracker.alaskantf.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -736,19 +736,19 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 https://t1.hloli.org:443/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.filemail.com:6969/announce
-
-https://k.avc.cx:443/announce
+udp://explodie.org:6969/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-http://speedtest.iperson.xyz:6969/announce
+https://k.avc.cx:443/announce
 
 https://1337.abcvg.info:443/announce
+
+http://speedtest.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -800,9 +800,9 @@ https://mathkangaroo.jp:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tr.highstar.shop:80/announce
 
@@ -1246,8 +1246,6 @@ https://tr.zukizuki.org:443/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-https://tracker.expli.top:443/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -1284,6 +1282,8 @@ udp://www.torrent.eu.org:451/announce
 
 https://tracker.aburaya.live:443/announce
 
+https://tracker.expli.top:443/announce
+
 udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.startwork.cv:1337/announce
@@ -1306,15 +1306,15 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://opentracker.io:6969/announce
 
-http://shubt.net:2710/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
+
+http://shubt.net:2710/announce
 
 http://torrent.hificode.in:6969/announce
 
