@@ -558,8 +558,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -571,8 +569,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.jdx3.org:443/announce
-
-udp://retracker.lanta.me:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -588,9 +584,13 @@ https://tracker.zhuqiy.com:443/announce
 
 udp://tracker.tnl.one:8000/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -658,13 +658,13 @@ udp://tracker.skillindia.site:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
+https://tracker.ghostchu-services.top:443/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://opentracker.io:6969/announce
 
 http://open.trackerlist.xyz:80/announce
-
-https://tracker.ghostchu-services.top:443/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -674,11 +674,11 @@ udp://tracker.hifitechindia.com:6969/announce
 
 http://shubt.net:2710/announce
 
-https://tracker.expli.top:443/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+https://tracker.expli.top:443/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -698,9 +698,9 @@ udp://ibksturm.synology.me:6969/announce
 
 http://tracker.23794.top:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -722,15 +722,15 @@ https://tracker.pmman.tech:443/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
+https://t1.hloli.org:443/announce
 
 http://tracker.netmap.top:6969/announce
 
 https://tracker.cutie.dating:443/announce
-
-https://t1.hloli.org:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -742,21 +742,21 @@ https://1337.abcvg.info:443/announce
 
 https://tracker.cangku.moe:443/announce
 
-http://speedtest.iperson.xyz:6969/announce
-
 udp://wepzone.net:6969/announce
+
+http://speedtest.iperson.xyz:6969/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-https://k.avc.cx:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 udp://tracker.theoks.net:6969/announce
+
+https://k.avc.cx:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -784,19 +784,19 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.demonii.si:80/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
+http://taciturn-shadow.spb.ru:6969/announce
+
 http://open.tracker.cl:1337/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
 https://api.ipv4online.uk:443/announce
-
-udp://run.publictracker.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1198,8 +1198,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -1211,8 +1209,6 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.jdx3.org:443/announce
-
-udp://retracker.lanta.me:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -1228,9 +1224,13 @@ https://tracker.zhuqiy.com:443/announce
 
 udp://tracker.tnl.one:8000/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://retracker.lanta.me:2710/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -1298,13 +1298,13 @@ udp://tracker.skillindia.site:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
+https://tracker.ghostchu-services.top:443/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://opentracker.io:6969/announce
 
 http://open.trackerlist.xyz:80/announce
-
-https://tracker.ghostchu-services.top:443/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -1314,7 +1314,7 @@ udp://tracker.hifitechindia.com:6969/announce
 
 http://shubt.net:2710/announce
 
-https://tracker.expli.top:443/announce
+udp://tracker.gmi.gd:6969/announce
 
 http://0d.kebhana.mx:443/announce
 
