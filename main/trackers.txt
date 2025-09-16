@@ -600,8 +600,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-http://tracker.beeimg.com:6969/announce
-
 https://tr.zukizuki.org:443/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -620,6 +618,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+http://tracker.beeimg.com:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://bandito.byterunner.io:6969/announce
@@ -628,9 +628,9 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://bt.bontal.net:6969/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -642,19 +642,19 @@ udp://tracker.tnl.one:8000/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.startwork.cv:1337/announce
+udp://tracker.cloudbase.store:1333/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-udp://tracker.cloudbase.store:1333/announce
+udp://tracker.startwork.cv:1337/announce
+
+https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.zupix.online:1333/announce
 
 https://tracker.moeblog.cn:443/announce
-
-udp://tracker.torrust-demo.com:6969/announce
-
-https://tracker.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -754,27 +754,27 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://speedtest.iperson.xyz:6969/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-udp://tracker.theoks.net:6969/announce
+http://speedtest.iperson.xyz:6969/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-https://tracker.cangku.moe:443/announce
+udp://tracker.theoks.net:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+https://tracker.cangku.moe:443/announce
 
 http://asiatorrent.giize.com:51413/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 http://asiatorrent.ddns.net:51413/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 https://tracker.linvk.com:443/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 https://k.avc.cx:443/announce
 
@@ -786,9 +786,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 udp://open.demonii.si:80/announce
 
@@ -1238,8 +1238,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-http://tracker.beeimg.com:6969/announce
-
 https://tr.zukizuki.org:443/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -1258,6 +1256,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+http://tracker.beeimg.com:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://bandito.byterunner.io:6969/announce
@@ -1266,9 +1266,9 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://bt.bontal.net:6969/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -1280,19 +1280,19 @@ udp://tracker.tnl.one:8000/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.startwork.cv:1337/announce
+udp://tracker.cloudbase.store:1333/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-udp://tracker.cloudbase.store:1333/announce
+udp://tracker.startwork.cv:1337/announce
+
+https://tracker.ghostchu-services.top:443/announce
 
 udp://tracker.zupix.online:1333/announce
 
 https://tracker.moeblog.cn:443/announce
-
-udp://tracker.torrust-demo.com:6969/announce
-
-https://tracker.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
