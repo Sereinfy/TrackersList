@@ -187,10 +187,10 @@ https://shahidrazi.online:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://tracker.netmap.top:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-https://tracker.cangku.moe:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 http://speedtest.iperson.xyz:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+https://tracker.cangku.moe:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
