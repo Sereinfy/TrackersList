@@ -214,7 +214,6 @@ http://tracker.pcfreetime.com:6969/announce
 http://tr.highstar.shop:80/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-http://tracker.skyts.net:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://open.acgtracker.com:1096/announce
@@ -236,6 +235,7 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://z.mercax.com:53/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://free.publictracker.xyz:6969/announce
+http://tracker.skyts.net:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 http://fosstorrents.com:6969/announce
