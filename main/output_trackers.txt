@@ -170,13 +170,10 @@ udp://www.torrent.eu.org:451/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 http://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker-udp.gbitt.info:80/announce
-https://tracker.pmman.tech:443/announce
 http://www.genesis-sp.org:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.lintk.me:2710/announce
-http://tracker.dler.org:6969/announce
 http://tracker.bt-hash.com:80/announce
 http://tr.kxmp.cf:80/announce
 http://seeders-paradise.org:80/announce
@@ -191,6 +188,7 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.breizh.pm:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://shahidrazi.online:443/announce
+https://tracker.pmman.tech:443/announce
 http://tracker.netmap.top:6969/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -214,11 +212,11 @@ https://api.ipv4online.uk:443/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tr.highstar.shop:80/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.skyts.net:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://region.nl1.privex.cc:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 http://t.acg.rip:6699/announce
@@ -510,6 +508,7 @@ http://bt.ali213.net:8000/announce
 udp://tracker.army:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 https://t.quic.ws/announce
+http://tracker.dler.org:6969/announce
 http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
@@ -1129,6 +1128,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://thinking.duckdns.org:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://stargrave.org:6969/announce
