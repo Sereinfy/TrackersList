@@ -183,8 +183,8 @@ http://tracker1.itzmx.com:8080/announce
 http://bt.okmp3.ru:2710/announce
 udp://bt.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
-https://tracker.expli.top:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+https://tracker.expli.top:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.iperson.xyz:6969/announce
 https://shahidrazi.online:443/announce
@@ -195,8 +195,8 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
-http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
+http://asiatorrent.ddns.net:51413/announce
 https://tracker.linvk.com:443/announce
 http://speedtest.iperson.xyz:6969/announce
 https://tracker.bjut.jp:443/announce
