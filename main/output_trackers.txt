@@ -208,8 +208,8 @@ https://k.avc.cx:443/announce
 https://tracker.cangku.moe:443/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://open.demonii.si:80/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 http://ns3109441.mypdns.org:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tr.highstar.shop:80/announce
