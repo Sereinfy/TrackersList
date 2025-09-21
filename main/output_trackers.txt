@@ -203,12 +203,13 @@ http://speedtest.iperson.xyz:6969/announce
 https://tracker.bjut.jp:443/announce
 https://k.avc.cx:443/announce
 https://tracker.cangku.moe:443/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://open.demonii.si:80/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.tamersunion.org:443/announce
 http://tr.highstar.shop:80/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://tracker1.myporn.club:9337/announce
@@ -258,7 +259,6 @@ udp://www.2600.com:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://u6.trakx.crim.ist:1337/announce
 https://tracker2.ctix.cn:443/announce
-https://tracker.tamersunion.org:443/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://jutone.com:6969/announce
 udp://ftp.pet:2710/announce
