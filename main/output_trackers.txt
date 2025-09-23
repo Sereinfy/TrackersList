@@ -205,8 +205,8 @@ http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://asiatorrent.ddns.net:51413/announce
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://asiatorrent.giize.com:51413/announce
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://tracker.netmap.top:6969/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
@@ -216,13 +216,12 @@ https://tracker.bjut.jp:443/announce
 https://k.avc.cx:443/announce
 https://tracker.cangku.moe:443/announce
 udp://open.demonii.si:80/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 http://cn.pcfreetime.com:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tr.highstar.shop:80/announce
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker1.myporn.club:9337/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://region.nl1.privex.cc:6969/announce
@@ -370,6 +369,7 @@ udp://tk4.leechshield.link:6969/announce
 https://tracker.moeking.me:443/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://rt.tace.ru:6969/announce
 http://fleira.no:6969/announce
 udp://db.koikia.eu:6969/announce
