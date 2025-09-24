@@ -209,8 +209,8 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 http://tracker.netmap.top:6969/announce
 https://tracker.linvk.com:443/announce
 http://speedtest.iperson.xyz:6969/announce
-https://tracker.bjut.jp:443/announce
 https://tracker.cangku.moe:443/announce
+https://tracker.bjut.jp:443/announce
 https://k.avc.cx:443/announce
 udp://open.demonii.si:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
