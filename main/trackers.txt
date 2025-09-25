@@ -656,9 +656,9 @@ udp://bt.bontal.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://yuki.bt.bontal.net:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://tracker.skillindia.site:6969/announce
 
@@ -676,6 +676,8 @@ https://tracker.aburaya.live:443/announce
 
 https://2.tracker.eu.org:443/announce
 
+https://tracker.uraniumhexafluori.de:443/announce
+
 http://0123456789nonexistent.com:80/announce
 
 https://4.tracker.eu.org:443/announce
@@ -684,9 +686,9 @@ https://3.tracker.eu.org:443/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://shubt.net:2710/announce
+
+http://torrent.hificode.in:6969/announce
 
 https://1.tracker.eu.org:443/announce
 
@@ -694,21 +696,19 @@ http://open.trackerlist.xyz:80/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
-https://tracker.leechshield.link:443/announce
-
 udp://bt.rer.lol:6969/announce
 
-udp://udp.tracker.projectk.org:23333/announce
+https://tracker.leechshield.link:443/announce
 
 udp://t.overflow.biz:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-http://tracker.tritan.gg:8080/announce
+udp://udp.tracker.projectk.org:23333/announce
 
 http://tracker.23794.top:6969/announce
+
+http://tracker.tritan.gg:8080/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -752,15 +752,15 @@ udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.pmman.tech:443/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://shahidrazi.online:443/announce
-
 udp://tracker.theoks.net:6969/announce
+
+https://shahidrazi.online:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -776,11 +776,11 @@ http://asiatorrent.giize.com:51413/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-https://tracker.cutie.dating:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
+
+https://tracker.cutie.dating:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
@@ -1294,9 +1294,9 @@ udp://bt.bontal.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://yuki.bt.bontal.net:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://tracker.skillindia.site:6969/announce
 
@@ -1309,8 +1309,6 @@ http://tracker.ipv6tracker.ru:80/announce
 https://tracker.moeblog.cn:443/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-https://tracker.aburaya.live:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
