@@ -199,12 +199,12 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tracker.hifimarket.in:2710/announce
 http://asiatorrent.ddns.net:51413/announce
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
 http://asiatorrent.giize.com:51413/announce
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
-http://tracker.netmap.top:6969/announce
 https://tracker.linvk.com:443/announce
+http://tracker.netmap.top:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 https://tracker.bjut.jp:443/announce
 https://k.avc.cx:443/announce
