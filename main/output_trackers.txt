@@ -191,6 +191,7 @@ http://buny.uk:6969/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.valete.tf:9999/announce
+http://t.al.uy:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://bt.bontal.net:6969/announce
 http://open-v6.demonoid.ch:6969/announce
