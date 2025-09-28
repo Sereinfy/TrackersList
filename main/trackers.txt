@@ -662,13 +662,13 @@ udp://tracker.srv00.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.therarbg.to:6969/announce
 
@@ -694,9 +694,9 @@ udp://yuki.bt.bontal.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://bt.bontal.net:6969/announce
 
@@ -722,13 +722,13 @@ https://tracker.aburaya.live:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://shubt.net:2710/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
-http://torrent.hificode.in:6969/announce
+http://shubt.net:2710/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://torrent.hificode.in:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -746,13 +746,13 @@ udp://open.dstud.io:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 http://tracker.tritan.gg:8080/announce
 
-http://open-v6.demonoid.ch:6969/announce
+https://tracker.zhuqiy.top:443/announce
 
 http://tracker.dhitechnical.com:6969/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -762,8 +762,6 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tnl.one:8000/announce
 
 udp://udp.tracker.projectk.org:23333/announce
@@ -772,13 +770,15 @@ https://tracker.alaskantf.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://ibksturm.synology.me:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -800,13 +800,13 @@ udp://exodus.desync.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.expli.top:443/announce
-
 udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonoid.ch:6969/announce
 
 udp://public.demonoid.ch:6969/announce
+
+https://tracker.expli.top:443/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
@@ -814,19 +814,19 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 https://shahidrazi.online:443/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://wepzone.net:6969/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tracker.linvk.com:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -836,11 +836,11 @@ https://k.avc.cx:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://open.demonii.si:80/announce
 
@@ -848,9 +848,9 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://speedtest.iperson.xyz:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -1300,13 +1300,13 @@ udp://tracker.srv00.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.therarbg.to:6969/announce
 
@@ -1332,9 +1332,9 @@ udp://yuki.bt.bontal.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://bt.bontal.net:6969/announce
 
