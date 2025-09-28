@@ -178,10 +178,6 @@ udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://yuki.bt.bontal.net:6969/announce
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-udp://tracker.bittor.pw:1337/announce
-udp://tracker-udp.gbitt.info:80/announce
-udp://open.free-tracker.ga:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://explodie.org:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -203,6 +199,7 @@ http://tracker.privateseedbox.xyz:2710/announce
 https://t1.hloli.org:443/announce
 udp://admin.52ywp.com:6969/announce
 udp://ibksturm.synology.me:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tracker.expli.top:443/announce
@@ -610,6 +607,7 @@ https://opentracker.xyz:443/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
@@ -1128,6 +1126,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://thinking.duckdns.org:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://stargrave.org:6969/announce
