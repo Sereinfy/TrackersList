@@ -173,15 +173,11 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://yuki.bt.bontal.net:6969/announce
-wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://explodie.org:6969/announce
-udp://tracker.ololosh.space:6969/announce
-udp://ns-1.x-fins.com:6969/announce
-udp://glotorrents.pw:6969/announce
-udp://discord.heihachi.pw:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker810.xyz:11450/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.dmcomic.org:2710/announce
 http://tracker.bittor.pw:1337/announce
@@ -199,7 +195,6 @@ http://tracker.privateseedbox.xyz:2710/announce
 https://t1.hloli.org:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://ibksturm.synology.me:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tracker.expli.top:443/announce
@@ -218,9 +213,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 http://tracker.netmap.top:6969/announce
 http://cn.pcfreetime.com:6969/announce
-http://speedtest.iperson.xyz:6969/announce
 udp://tracker1.myporn.club:9337/announce
 http://tracker.pcfreetime.com:6969/announce
+http://speedtest.iperson.xyz:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tr.highstar.shop:80/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -236,7 +231,6 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 http://open.acgnxtracker.com:80/announce
-udp://movies.zsw.ca:6969/announce
 http://0205.uptm.ch:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://btt.service.gongt.me:43079/announce
@@ -644,6 +638,7 @@ http://tracker.trackerfix.com/announce
 udp://chouchou.top:8080/announce
 https://tracker.jiesen.life:8443/announce
 udp://tsundere.pw:6969/announce
+udp://movies.zsw.ca:6969/announce
 http://t1.pow7.com/announce
 http://fe.dealclub.de:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
@@ -776,6 +771,7 @@ udp://slicie.icon256.com:8000/announce
 http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://mail.artixlinux.org:6969/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 udp://leefafa.tk:6969/announce
 udp://open.4ever.tk:6969/announce
@@ -1134,6 +1130,7 @@ udp://156.234.201.18:80/announce
 udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 http://45.154.253.6:80/announce
+udp://tracker.ololosh.space:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://open.stealth.si/announce
