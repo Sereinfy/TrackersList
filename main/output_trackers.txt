@@ -209,13 +209,13 @@ http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
 https://tracker.linvk.com:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
-https://tracker.expli.top:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+https://tracker.expli.top:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
-https://k.avc.cx:443/announce
 udp://open.demonii.si:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+https://k.avc.cx:443/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 https://tracker.bjut.jp:443/announce
 http://cn.pcfreetime.com:6969/announce
@@ -224,7 +224,6 @@ http://tracker.pcfreetime.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-https://mathkangaroo.jp:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 http://t.acg.rip:6699/announce
@@ -350,6 +349,7 @@ https://track.solcloud.eu:443/announce
 http://jvavav.com:80/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 udp://d13bttrck.duckdns.org:6969/announce
+https://mathkangaroo.jp:443/announce
 https://api.ipv4online.uk:443/announce
 udp://tracker.1048576.cn:17272/announce
 udp://tracker.waaa.moe:6969/announce
