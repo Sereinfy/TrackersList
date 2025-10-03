@@ -181,13 +181,9 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://yuki.bt.bontal.net:6969/announce
-wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-http://tracker.opentrackr.org:1337/announce
-udp://tracker-udp.gbitt.info:80/announce
-udp://leet-tracker.moe:1337/announce
-udp://isk.richardsw.club:6969/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
-http://tr.kxmp.cf:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 http://shubt.net:2710/announce
 http://retracker.spark-rostov.ru:80/announce
 http://public.tracker.vraphim.com:6969/announce
@@ -195,6 +191,7 @@ http://open.trackerlist.xyz:80/announce
 http://bt1.xxxxbt.cc:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker1.itzmx.com:8080/announce
+http://tracker.dler.org:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://bt.bontal.net:6969/announce
 https://tracker.aburaya.live:443/announce
@@ -508,7 +505,6 @@ http://bt.ali213.net:8000/announce
 udp://tracker.army:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 https://t.quic.ws/announce
-http://tracker.dler.org:6969/announce
 http://fxtt.ru/announce
 https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
@@ -556,6 +552,7 @@ udp://camera.lei001.com:6969/announce
 http://tracker.gcvchp.com:2710/announce
 udp://bt.oiyo.tk:6969/announce
 http://open.trackerlist.xyz/announce
+http://tr.kxmp.cf:80/announce
 http://tracker.acgnx.se:80/announce
 http://tracker.corpscorp.online/announce
 http://milanesitracker.tekcities.com:80/announce
@@ -600,6 +597,7 @@ udp://opentrackr.org:1337/announce
 udp://cutscloud.duckdns.org:6969/announce
 http://opentracker.xyz:80/announce
 udp://yahor.ftp.sh:6969/announce
+http://tracker.opentrackr.org:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 https://opentracker.xyz/announce
 http://fxtt.ru:80/announce
