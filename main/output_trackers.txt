@@ -210,9 +210,9 @@ http://asiatorrent.giize.com:51413/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.linvk.com:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-https://tr-zhuqiy-1.dgj055.icu:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tracker.expli.top:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://k.avc.cx:443/announce
@@ -224,6 +224,8 @@ http://tracker.pcfreetime.com:6969/announce
 http://region.nl1.privex.cc:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://echostar.ddnsfree.com:8080/announce
+https://tracker.guguan.us.kg:443/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 http://t.acg.rip:6699/announce
@@ -300,7 +302,6 @@ udp://tracker.vds.nz:6969/announce
 https://tr.qfruiti.com:443/announce
 udp://r.l5.ca:6969/announce
 udp://tracker.picotorrent.one:6969/announce
-udp://pirate.t-1.org:1337/announce
 https://yolo.liberbear.com:80/announce
 https://track3r.site:443/announce
 udp://tracker.draatman.uk:6969/announce
@@ -308,10 +309,6 @@ http://t1.aag.moe:17715/announce
 udp://seedpeer.net:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://tracker.open-data.network:8888/announce
-http://tracker.zhuqiy.eu.org:36107/announce
-http://bjlt.zhuqiy.eu.org:6666/announce
-udp://hbsy.zhuqiy.eu.org:6666/announce
-udp://tcq.zhuqiy.eu.org:25091/announce
 https://trackers.nekosunevr.co.uk:443/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 https://t.peer-exchange.download:443/announce
@@ -373,7 +370,6 @@ udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://brightstar.freeddns.org:6969/announce
 udp://betelgeuse.freeddns.org:6969/announce
 http://s926723.ha016.t.mydomain.zone:80/announce
-http://echostar.ddnsfree.com:8080/announce
 udp://darkstarr.kozow.com:6881/announce
 https://tracker.cybar.xyz:443/announce
 https://tracker.nanoha.org:443/announce
@@ -390,7 +386,6 @@ http://chihaya.de:80/announce
 udp://tracker.trackarr.org:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 http://joczo.duckdns.org:6969/announce
-https://tracker.guguan.us.kg:443/announce
 https://ttracker.just-h.party:443/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.tricitytorrents.com:2710/announce
