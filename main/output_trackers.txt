@@ -221,9 +221,9 @@ https://tracker.linvk.com:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
-https://tracker.expli.top:443/announce
-udp://open.demonii.si:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://open.demonii.si:80/announce
+https://tracker.expli.top:443/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 https://k.avc.cx:443/announce
 https://tracker.bjut.jp:443/announce

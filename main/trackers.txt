@@ -620,6 +620,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.zupix.online:1333/announce
 
+http://tracker.dhitechnical.com:6969/announce
+
 https://tracker.belmult.online:443/announce
 
 udp://burmese.app:6969/announce
@@ -670,15 +672,13 @@ udp://tracker.srv00.com:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-http://tracker.dhitechnical.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker-de-2.cutie.dating:1337/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
@@ -698,21 +698,21 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
+https://tracker.leechshield.link:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
+
 http://lucke.fenesisu.moe:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
-http://tracker.ipv6tracker.ru:80/announce
-
-https://tracker.leechshield.link:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.bontal.net:6969/announce
 
 udp://yuki.bt.bontal.net:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -744,17 +744,17 @@ http://tracker.23794.top:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker.tnl.one:8000/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+udp://tracker.tnl.one:8000/announce
 
 https://tracker.alaskantf.com:443/announce
 
 http://tracker.tritan.gg:8080/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -782,19 +782,21 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 https://t1.hloli.org:443/announce
 
-udp://explodie.org:6969/announce
-
 udp://public.demonoid.ch:6969/announce
 
-udp://open-tracker.demonoid.ch:6969/announce
+udp://explodie.org:6969/announce
 
 udp://open.demonoid.ch:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tracker.pmman.tech:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -803,8 +805,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.iperson.xyz:6969/announce
 
 http://t.al.uy:80/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -826,9 +826,9 @@ http://bvarf.tracker.sh:2086/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-https://tracker.linvk.com:443/announce
-
 http://tr.highstar.shop:80/announce
+
+https://tracker.linvk.com:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
@@ -836,13 +836,13 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tracker.expli.top:443/announce
-
-udp://open.demonii.si:80/announce
+http://echostar.ddnsfree.com:8080/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://echostar.ddnsfree.com:8080/announce
+udp://open.demonii.si:80/announce
+
+https://tracker.expli.top:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -852,9 +852,9 @@ https://k.avc.cx:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-udp://wepzone.net:6969/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+udp://wepzone.net:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1248,6 +1248,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.zupix.online:1333/announce
 
+http://tracker.dhitechnical.com:6969/announce
+
 https://tracker.belmult.online:443/announce
 
 udp://burmese.app:6969/announce
@@ -1298,15 +1300,13 @@ udp://tracker.srv00.com:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-http://tracker.dhitechnical.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker-de-2.cutie.dating:1337/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
@@ -1326,21 +1326,19 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
+https://tracker.leechshield.link:443/announce
+
+http://tracker.ipv6tracker.ru:80/announce
+
 http://lucke.fenesisu.moe:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
-http://tracker.ipv6tracker.ru:80/announce
-
-https://tracker.leechshield.link:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bt.bontal.net:6969/announce
-
-udp://yuki.bt.bontal.net:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 http://0d.kebhana.mx:443/announce
 
