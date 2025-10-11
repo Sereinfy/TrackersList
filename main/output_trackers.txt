@@ -175,11 +175,7 @@ wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/a
 http://tracker.opentrackr.org:1337/announce
 http://tracker1.itzmx.com:8080/announce
 udp://explodie.org:6969/announce
-udp://tracker.ololosh.space:6969/announce
-udp://tracker.bittor.pw:1337/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://open.free-tracker.ga:6969/announce
-udp://hificode.in:6969/announce
 udp://bt.bontal.net:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://bt.bontal.net:443/announce
@@ -189,10 +185,10 @@ http://tracker.dmcomic.org:2710/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.bittor.pw:1337/announce
 http://tr.kxmp.cf:80/announce
-http://torrent.hificode.in:6969/announce
-http://seeders-paradise.org:80/announce
 http://public.tracker.vraphim.com:6969/announce
 http://home.yxgz.club:6969/announce
+http://torrent.hificode.in:6969/announce
+http://seeders-paradise.org:80/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -220,15 +216,16 @@ https://tracker.linvk.com:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
-https://tr-zhuqiy-2.dgj055.icu:443/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 http://cn.pcfreetime.com:6969/announce
-https://tracker.bjut.jp:443/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tracker.bjut.jp:443/announce
 https://k.avc.cx:443/announce
 http://region.nl1.privex.cc:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://tracker.guguan.000.pe:80/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.birkenwald.de:6969/announce
 http://t.acg.rip:6699/announce
@@ -326,7 +323,6 @@ udp://lulz.vpndb.org:3000/announce
 udp://api.boletera.org:3074/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
-http://tracker.guguan.000.pe:80/announce
 https://socket.onvo.me:443/announce
 https://tracker.bulao.ren:443/announce
 http://tor.rev.pm:6969/announce
@@ -609,6 +605,7 @@ https://opentracker.xyz:443/announce
 udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 udp://tracker.trackerfix.com:82/announce
+udp://open.free-tracker.ga:6969/announce
 http://retracker.ohys.net:80/announce
 http://www.tvnihon.com:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
@@ -1129,6 +1126,7 @@ udp://23.137.251.45:6969/announce
 udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 udp://185.181.60.155:80/announce
+udp://tracker.bittor.pw:1337/announce
 udp://thinking.duckdns.org:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://stargrave.org:6969/announce
@@ -1136,6 +1134,7 @@ udp://156.234.201.18:80/announce
 udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 http://45.154.253.6:80/announce
+udp://tracker.ololosh.space:6969/announce
 udp://http://www.peckservers.com:9000/announce
 udp://ipv4.tracker.harry.lu/announce
 udp://open.stealth.si/announce
