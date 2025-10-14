@@ -216,17 +216,17 @@ http://tracker.guguan.000.pe:80/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker.cangku.moe:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
-https://tracker.linvk.com:443/announce
 udp://open.demonii.si:80/announce
+https://tracker.linvk.com:443/announce
 http://open.acgtracker.com:1096/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
-https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://k.avc.cx:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 udp://tracker.birkenwald.de:6969/announce
 http://t.acg.rip:6699/announce
 http://tracker.gbitt.info:80/announce
@@ -256,7 +256,6 @@ http://tracker.k.vu:6969/announce
 udp://tracker.farted.net:6969/announce
 https://tracker1.ctix.cn:443/announce
 udp://thouvenin.cloud:6969/announce
-udp://aarsen.me:6969/announce
 udp://epider.me:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://new-line.net:6969/announce
