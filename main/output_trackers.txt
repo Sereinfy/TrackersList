@@ -195,13 +195,13 @@ http://tracker.corpscorp.online:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://buny.uk:6969/announce
 http://bt.poletracker.org:2710/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://run.publictracker.xyz:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.zhuqiy.top:443/announce
 udp://tracker.tnl.one:8000/announce
 http://lucke.fenesisu.moe:6969/announce
-http://tracker.chaoz.li:2710/announce
 udp://tracker.iperson.xyz:6969/announce
+http://tracker.chaoz.li:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.pmman.tech:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
@@ -213,8 +213,8 @@ https://t1.hloli.org:443/announce
 http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
 http://tracker.guguan.000.pe:80/announce
-https://tracker.guguan.dpdns.org:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+https://tracker.guguan.dpdns.org:443/announce
 http://open.acgtracker.com:1096/announce
 https://tracker.linvk.com:443/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
