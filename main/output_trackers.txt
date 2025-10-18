@@ -212,9 +212,9 @@ http://asiatorrent.ddns.net:51413/announce
 http://open-v6.demonoid.ch:6969/announce
 http://asiatorrent.giize.com:51413/announce
 https://tracker.cangku.moe:443/announce
+http://tracker.guguan.000.pe:80/announce
 https://t1.hloli.org:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
-http://tracker.guguan.000.pe:80/announce
 https://tracker.guguan.dpdns.org:443/announce
 http://open.tracker.cl:1337/announce
 http://tracker.internetwarriors.net:1337/announce
