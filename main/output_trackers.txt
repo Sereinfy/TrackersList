@@ -215,11 +215,11 @@ http://asiatorrent.giize.com:51413/announce
 http://open-v6.demonoid.ch:6969/announce
 http://tracker.guguan.000.pe:80/announce
 https://tracker.guguan.dpdns.org:443/announce
+http://open.tracker.cl:1337/announce
+http://open.acgtracker.com:1096/announce
+http://tracker.internetwarriors.net:1337/announce
 https://t1.hloli.org:443/announce
 http://tracker.privateseedbox.xyz:2710/announce
-http://open.tracker.cl:1337/announce
-http://tracker.internetwarriors.net:1337/announce
-http://open.acgtracker.com:1096/announce
 udp://open.demonii.si:80/announce
 https://tracker.linvk.com:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
