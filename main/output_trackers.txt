@@ -216,9 +216,9 @@ http://tracker.internetwarriors.net:1337/announce
 https://tracker.guguan.dpdns.org:443/announce
 udp://open.demonii.si:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
-http://open-v6.demonoid.ch:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://tracker.pcfreetime.com:6969/announce
+http://open-v6.demonoid.ch:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tracker1.myporn.club:9337/announce
 https://tracker.linvk.com:443/announce
