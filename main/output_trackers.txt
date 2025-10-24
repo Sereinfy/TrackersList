@@ -213,9 +213,9 @@ https://tracker.guguan.us.kg:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://ibksturm.synology.me:6969/announce
 http://asiatorrent.ddns.net:51413/announce
+http://asiatorrent.giize.com:51413/announce
 http://open.tracker.cl:1337/announce
 http://tracker.internetwarriors.net:1337/announce
-http://asiatorrent.giize.com:51413/announce
 http://tracker.chaoz.li:2710/announce
 http://tracker.guguan.000.pe:80/announce
 https://tracker.cangku.moe:443/announce
