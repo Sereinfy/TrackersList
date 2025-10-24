@@ -202,8 +202,8 @@ http://home.yxgz.club:6969/announce
 https://tr.zukizuki.org:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
-https://tracker.tamersunion.org:443/announce
 http://ipv4announce.sktorrent.eu:6969/announce
+https://tracker.tamersunion.org:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://wegkxfcivgx.ydns.eu:80/announce
