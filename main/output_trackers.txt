@@ -216,8 +216,8 @@ http://asiatorrent.giize.com:51413/announce
 http://open.tracker.cl:1337/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.chaoz.li:2710/announce
-https://tracker.cangku.moe:443/announce
 http://tracker.guguan.000.pe:80/announce
+https://tracker.cangku.moe:443/announce
 https://tracker.guguan.dpdns.org:443/announce
 udp://open.demonii.si:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
