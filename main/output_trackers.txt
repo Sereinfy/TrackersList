@@ -205,8 +205,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.guguan.us.kg:443/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://ibksturm.synology.me:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.tnl.one:8000/announce
 http://asiatorrent.ddns.net:51413/announce
