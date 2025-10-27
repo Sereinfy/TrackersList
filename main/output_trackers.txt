@@ -224,8 +224,8 @@ udp://open.demonii.si:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 http://tracker.pcfreetime.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tracker1.myporn.club:9337/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 https://tracker.linvk.com:443/announce
 udp://tracker.birkenwald.de:6969/announce
 http://t.acg.rip:6699/announce
