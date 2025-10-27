@@ -202,9 +202,9 @@ udp://tracker.skillindia.site:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tr3.ysagin.top:2715/announce
 https://tr.zukizuki.org:443/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.tamersunion.org:443/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 udp://ibksturm.synology.me:6969/announce
