@@ -194,8 +194,8 @@ http://tracker.corpscorp.online:80/announce
 http://t.overflow.biz:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 http://echostar.ddnsfree.com:8080/announce
-https://tracker.jdx3.org:443/announce
 http://ns3109441.mypdns.org:6969/announce
+https://tracker.jdx3.org:443/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.breizh.pm:6969/announce
@@ -216,8 +216,8 @@ http://asiatorrent.giize.com:51413/announce
 http://open.tracker.cl:1337/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.guguan.000.pe:80/announce
-http://tracker.chaoz.li:2710/announce
 https://tracker.guguan.dpdns.org:443/announce
+http://tracker.chaoz.li:2710/announce
 https://tracker.cangku.moe:443/announce
 udp://open.demonii.si:80/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
