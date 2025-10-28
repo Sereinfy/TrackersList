@@ -197,13 +197,13 @@ http://t.overflow.biz:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 http://open.acgtracker.com:1096/announce
 https://tracker.jdx3.org:443/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://echostar.ddnsfree.com:8080/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.breizh.pm:6969/announce
-https://tr.zukizuki.org:443/announce
 http://t.al.uy:80/announce
+https://tr.zukizuki.org:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.zhuqiy.top:443/announce
@@ -218,8 +218,8 @@ http://open.tracker.cl:1337/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.chaoz.li:2710/announce
-https://tracker.cangku.moe:443/announce
 https://tracker.guguan.dpdns.org:443/announce
+https://tracker.cangku.moe:443/announce
 udp://open.demonii.si:80/announce
 http://tracker.skyts.net:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
