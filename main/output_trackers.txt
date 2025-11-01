@@ -207,8 +207,8 @@ http://t.al.uy:80/announce
 https://tracker.aburaya.live:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.zhuqiy.top:443/announce
-udp://tracker.valete.tf:9999/announce
 http://open.acgtracker.com:1096/announce
+udp://tracker.valete.tf:9999/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.cangku.moe:443/announce
 udp://ibksturm.synology.me:6969/announce
@@ -301,7 +301,6 @@ https://bt.080609.xyz:443/announce
 http://tracker.rev.pm:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.vds.nz:6969/announce
-https://tr.qfruiti.com:443/announce
 udp://r.l5.ca:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 https://track3r.site:443/announce
