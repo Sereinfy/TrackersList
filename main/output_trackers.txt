@@ -209,8 +209,8 @@ https://tracker.jdx3.org:443/announce
 https://tracker.zhuqiy.top:443/announce
 https://tr.zukizuki.org:443/announce
 https://tracker.cangku.moe:443/announce
-https://tracker.tamersunion.org:443/announce
 udp://ibksturm.synology.me:6969/announce
+https://tracker.tamersunion.org:443/announce
 udp://tracker.valete.tf:9999/announce
 http://asiatorrent.giize.com:51413/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -224,10 +224,10 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 http://tracker.chaoz.li:2710/announce
 http://tracker.guguan.000.pe:80/announce
 udp://tracker1.myporn.club:9337/announce
-http://cn.pcfreetime.com:6969/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
+http://cn.pcfreetime.com:6969/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tracker.birkenwald.de:6969/announce
