@@ -199,8 +199,8 @@ http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.sbsub.com:2710/announce
 http://tracker.bittor.pw:1337/announce
 http://retracker.spark-rostov.ru:80/announce
-udp://tracker.rescuecrew7.com:1337/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.bitcoinindia.space:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://admin.52ywp.com:6969/announce
