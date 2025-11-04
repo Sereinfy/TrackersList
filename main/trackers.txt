@@ -728,9 +728,9 @@ udp://open.demonii.com:1337/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
-udp://tracker.zupix.online:1333/announce
-
 udp://public.demonoid.ch:6969/announce
+
+udp://tracker.zupix.online:1333/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -740,15 +740,15 @@ udp://open.demonoid.ch:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-udp://tracker.startwork.cv:1337/announce
-
 http://bt.okmp3.ru:2710/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://tracker.startwork.cv:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-http://wegkxfcivgx.ydns.eu:80/announce
 
 http://t-backup.213891.xyz:80/announce
 
@@ -758,9 +758,9 @@ http://tracker.tritan.gg:8080/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -772,13 +772,13 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://open.trackerlist.xyz:80/announce
-
-udp://tracker.kmzs123.cn:17272/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 udp://bt.rer.lol:6969/announce
+
+http://open.trackerlist.xyz:80/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://bt.bontal.net:6969/announce
 
@@ -794,9 +794,9 @@ https://1.tracker.eu.org:443/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://opentracker.io:6969/announce
 
@@ -808,9 +808,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://tracker-de-2.cutie.dating:1337/announce
-
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -818,9 +818,9 @@ https://tracker.pmman.tech:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://yuki.bt.bontal.net:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://yuki.bt.bontal.net:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
@@ -836,9 +836,9 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://1337.abcvg.info:443/announce
-
 https://threads.canofsocks.com:443/announce
+
+https://1337.abcvg.info:443/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -866,11 +866,11 @@ http://asiatorrent.giize.com:51413/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.valete.tf:9999/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.valete.tf:9999/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -1358,9 +1358,9 @@ udp://open.demonii.com:1337/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
-udp://tracker.zupix.online:1333/announce
-
 udp://public.demonoid.ch:6969/announce
+
+udp://tracker.zupix.online:1333/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
@@ -1370,15 +1370,15 @@ udp://open.demonoid.ch:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-udp://tracker.startwork.cv:1337/announce
-
 http://bt.okmp3.ru:2710/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://tracker.startwork.cv:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-http://wegkxfcivgx.ydns.eu:80/announce
 
 http://t-backup.213891.xyz:80/announce
 
@@ -1387,8 +1387,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.tritan.gg:8080/announce
 
 udp://tracker.skillindia.site:6969/announce
-
-udp://tracker.hifitechindia.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
