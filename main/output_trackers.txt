@@ -212,10 +212,10 @@ https://tr.zukizuki.org:443/announce
 https://tracker.cangku.moe:443/announce
 udp://ibksturm.synology.me:6969/announce
 https://tracker.tamersunion.org:443/announce
-http://asiatorrent.giize.com:51413/announce
-udp://tracker.valete.tf:9999/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
+http://asiatorrent.giize.com:51413/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+udp://tracker.valete.tf:9999/announce
 http://asiatorrent.ddns.net:51413/announce
 http://tracker.internetwarriors.net:1337/announce
 http://open.tracker.cl:1337/announce
@@ -228,9 +228,7 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 udp://tracker1.myporn.club:9337/announce
-http://tracker.chaoz.li:2710/announce
 http://cn.pcfreetime.com:6969/announce
-http://tracker.guguan.000.pe:80/announce
 udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tracker.birkenwald.de:6969/announce
@@ -324,6 +322,7 @@ udp://lulz.vpndb.org:3000/announce
 udp://api.boletera.org:3074/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
+http://tracker.guguan.000.pe:80/announce
 https://socket.onvo.me:443/announce
 https://tracker.bulao.ren:443/announce
 http://tor.rev.pm:6969/announce
@@ -397,6 +396,7 @@ udp://vps-dd0a0715.vps.ovh.net:6969/announce
 http://speedtest.iperson.xyz:6969/announce
 https://k.avc.cx:443/announce
 udp://tracker.tnl.one:8000/announce
+http://tracker.chaoz.li:2710/announce
 wss://tracker.openwebtorrent.com:443/announcehttp://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
