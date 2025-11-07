@@ -734,13 +734,13 @@ udp://open.demonoid.ch:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://burmese.app:6969/announce
-
-udp://tracker.zupix.online:1333/announce
-
 http://lucke.fenesisu.moe:6969/announce
 
+udp://burmese.app:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
+
+udp://tracker.zupix.online:1333/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -756,17 +756,17 @@ udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.cloudbase.store:1333/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 http://t-backup.213891.xyz:80/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -800,9 +800,9 @@ https://tracker.pmman.tech:443/announce
 
 http://echostar.ddnsfree.com:8080/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -1358,13 +1358,13 @@ udp://open.demonoid.ch:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://burmese.app:6969/announce
-
-udp://tracker.zupix.online:1333/announce
-
 http://lucke.fenesisu.moe:6969/announce
 
+udp://burmese.app:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
+
+udp://tracker.zupix.online:1333/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -1379,8 +1379,6 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker.startwork.cv:1337/announce
-
-udp://tracker.cloudbase.store:1333/announce
 
 http://0123456789nonexistent.com:80/announce
 
