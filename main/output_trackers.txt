@@ -209,14 +209,14 @@ https://tracker.jdx3.org:443/announce
 https://tracker.zhuqiy.top:443/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
-https://tr.zukizuki.org:443/announce
 http://asiatorrent.giize.com:51413/announce
+https://tr.zukizuki.org:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 udp://ibksturm.synology.me:6969/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tracker.cangku.moe:443/announce
-http://asiatorrent.ddns.net:51413/announce
 udp://tracker-udp.gbitt.info:80/announce
+http://asiatorrent.ddns.net:51413/announce
 http://tracker.skyts.net:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 http://tracker.internetwarriors.net:1337/announce
