@@ -2,7 +2,7 @@ name: GetTrackers
 
 on:
   schedule:
-    - cron: '0 0,1,5,11,14,17,22 * * *'
+    - cron: '0 0,1,5,14,22 * * *'
   workflow_dispatch:
   
 jobs:
@@ -27,7 +27,7 @@ jobs:
         working-directory: ./main
       
       - name: Commit Changes
-        id: commit
+        id: 提交
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: 🚀 CI Updated
